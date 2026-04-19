@@ -1,5 +1,7 @@
 from core.tools import search_grant_database
 from core.eligibility import safe_check_eligibility
+from core.profile_builder import extract_user_profile, find_missing_fields
+
 
 class SimpleMemory:
     def __init__(self):
@@ -20,32 +22,21 @@ class SimpleMemory:
     def store_evaluated_grants(self, grants):
         self.evaluated_grants = grants
 
-def validate_user_profile(user_profile):
-    required_fields = ["applicant_type", "location", "project_area"]
 
-    missing = [field for field in required_fields if not user_profile.get(field)]
-
-    if missing:
-        return False, f"Missing required fields: {', '.join(missing)}"
-
-    return True, None
-
-def build_search_query(user_profile):
-    applicant_type = user_profile.get("applicant_type", "")
-    project_area = user_profile.get("project_area", "")
-    target_population = user_profile.get("target_population", "")
-    location = user_profile.get("location", "")
-    budget_needed = user_profile.get("budget_needed", "")
-
-    query_parts = [
-        f"{project_area} funding",
-        f"for {target_population}" if target_population else "",
-        f"in {location}" if location else "",
-        f"for {applicant_type}" if applicant_type else "",
-        f"around ${budget_needed}" if budget_needed else ""
+def build_search_query(raw_user_input, user_profile):
+    parts = [
+        raw_user_input,
+        user_profile.get("project_area", ""),
+        user_profile.get("target_population", ""),
+        user_profile.get("location", ""),
+        user_profile.get("applicant_type", ""),
+        f"${user_profile.get('budget_needed')}" if user_profile.get("budget_needed") else "",
+        user_profile.get("research_focus", ""),
+        user_profile.get("institution_type", ""),
     ]
 
-    return " ".join(part for part in query_parts if part).strip()
+    return " ".join(str(part) for part in parts if part).strip()
+
 
 def score_grant(user_profile, grant_metadata, eligibility_result):
     score = 0
@@ -56,8 +47,6 @@ def score_grant(user_profile, grant_metadata, eligibility_result):
         score += 50
     elif final_status == "uncertain":
         score += 15
-    else:
-        score += 0
 
     user_project_area = str(user_profile.get("project_area", "")).lower()
     grant_project_area = str(grant_metadata.get("project_area", "")).lower()
@@ -87,6 +76,7 @@ def score_grant(user_profile, grant_metadata, eligibility_result):
 
     return score
 
+
 def rank_grants(user_profile, evaluated_grants):
     for grant in evaluated_grants:
         grant["score"] = score_grant(
@@ -97,84 +87,68 @@ def rank_grants(user_profile, evaluated_grants):
 
     return sorted(evaluated_grants, key=lambda x: x["score"], reverse=True)
 
-def extract_user_profile(raw_input):
-    raw = raw_input.lower()
 
-    profile = {
-        "applicant_type": "",
-        "location": "",
-        "project_area": "",
-        "target_population": "",
-        "budget_needed": None,
-        "organization_name": "",
-        "project_description": raw_input
-    }
-
-    if "nonprofit" in raw or "non-profit" in raw:
-        profile["applicant_type"] = "nonprofit"
-    elif "individual" in raw or "artist" in raw:
-        profile["applicant_type"] = "individual"
-
-    if "philadelphia" in raw or "philly" in raw:
-        profile["location"] = "Philadelphia, PA"
-    elif "pennsylvania" in raw or " pa " in raw:
-        profile["location"] = "Pennsylvania"
-
-    if "arts" in raw or "art" in raw:
-        profile["project_area"] = "arts"
-    elif "education" in raw or "school" in raw:
-        profile["project_area"] = "education"
-
-    if "youth" in raw or "teen" in raw or "teens" in raw or "children" in raw:
-        profile["target_population"] = "youth"
-
-    import re
-    money_match = re.search(r"\$?\s*([\d,]+)", raw_input)
-    if money_match:
-        profile["budget_needed"] = float(money_match.group(1).replace(",", ""))
-
-    return profile
-
-def find_missing_fields(user_profile):
-    required = ["applicant_type", "location", "project_area"]
-    return [field for field in required if not user_profile.get(field)]
-
-def run_agent(raw_user_input, n_results=5, use_llm_for_ambiguous=False):
+def run_agent(
+    raw_user_input,
+    n_results=5,
+    use_llm_for_ambiguous=False,
+    use_llm_for_profile_extraction=True
+):
     memory = SimpleMemory()
 
-    user_profile = extract_user_profile(raw_user_input)
+    user_profile = extract_user_profile(
+        raw_user_input,
+        use_llm_for_profile_extraction=use_llm_for_profile_extraction
+    )
     memory.store_user_profile(user_profile)
 
-    missing = find_missing_fields(user_profile)
-    if missing:
+    missing_required = find_missing_fields(user_profile)
+    if missing_required:
         return {
             "success": False,
             "needs_clarification": True,
-            "missing_fields": missing,
+            "missing_fields": missing_required,
+            "message": f"Missing fields: {', '.join(missing_required)}",
             "user_profile": user_profile,
-            "message": f"Missing fields: {', '.join(missing)}"
+            "memory": memory.__dict__
         }
 
-    query = build_search_query(user_profile)
+    query = build_search_query(raw_user_input, user_profile)
     memory.store_search_query(query)
 
     retrieved_grants = search_grant_database(query, n_results=n_results)
+    memory.store_retrieved_grants(retrieved_grants)
 
-    evaluated = []
+    if not retrieved_grants:
+        return {
+            "success": False,
+            "error": "No grants were retrieved from the database.",
+            "query": query,
+            "user_profile": user_profile,
+            "memory": memory.__dict__
+        }
+
+    evaluated_grants = []
+
     for grant in retrieved_grants:
+        metadata = grant.get("metadata", {})
+
         eligibility = safe_check_eligibility(
             user_profile=user_profile,
-            grant_metadata=grant["metadata"],
+            grant_metadata=metadata,
             use_llm_for_ambiguous=use_llm_for_ambiguous
         )
-        evaluated.append({
-            "id": grant["id"],
-            "metadata": grant["metadata"],
-            "summary_text": grant["summary_text"],
+
+        evaluated_grants.append({
+            "id": grant.get("id", "unknown"),
+            "metadata": metadata,
+            "summary_text": grant.get("summary_text", ""),
             "eligibility": eligibility
         })
 
-    ranked_grants = rank_grants(user_profile, evaluated)
+    memory.store_evaluated_grants(evaluated_grants)
+
+    ranked_grants = rank_grants(user_profile, evaluated_grants)
 
     eligible = [g for g in ranked_grants if g["eligibility"]["final_status"] == "eligible"]
     uncertain = [g for g in ranked_grants if g["eligibility"]["final_status"] == "uncertain"]
@@ -193,19 +167,35 @@ def run_agent(raw_user_input, n_results=5, use_llm_for_ambiguous=False):
 
 
 def print_agent_results(results):
-    
-    if not results["success"]:
+    if not results.get("success"):
         print("\nAGENT FAILED")
-        print("Error:", results["error"])
-        if "query" in results:
+
+        if results.get("error"):
+            print("Error:", results["error"])
+        elif results.get("message"):
+            print("Message:", results["message"])
+        else:
+            print("Message: Unknown failure")
+
+        if results.get("missing_fields"):
+            print("Missing fields:", ", ".join(results["missing_fields"]))
+
+        if results.get("user_profile"):
+            print("Extracted profile:", results["user_profile"])
+
+        if results.get("query"):
             print("Query:", results["query"])
+
         return
 
     print("\nSEARCH QUERY:")
-    print(results["query"])
+    print(results.get("query", ""))
+
+    print("\nEXTRACTED USER PROFILE:")
+    print(results.get("user_profile", {}))
 
     print("\nELIGIBLE GRANTS:")
-    if results["eligible"]:
+    if results.get("eligible"):
         for grant in results["eligible"]:
             title = grant["metadata"].get("grant_title", "Unknown Title")
             print(f"- {title} | Score: {grant['score']}")
@@ -214,7 +204,7 @@ def print_agent_results(results):
         print("None")
 
     print("\nUNCERTAIN GRANTS:")
-    if results["uncertain"]:
+    if results.get("uncertain"):
         for grant in results["uncertain"]:
             title = grant["metadata"].get("grant_title", "Unknown Title")
             print(f"- {title} | Score: {grant['score']}")
@@ -223,7 +213,7 @@ def print_agent_results(results):
         print("None")
 
     print("\nINELIGIBLE GRANTS:")
-    if results["ineligible"]:
+    if results.get("ineligible"):
         for grant in results["ineligible"]:
             title = grant["metadata"].get("grant_title", "Unknown Title")
             print(f"- {title} | Score: {grant['score']}")
@@ -234,14 +224,15 @@ def print_agent_results(results):
 
 if __name__ == "__main__":
     sample_user_input = (
-        "I run a nonprofit in Philadelphia and need about $10,000 "
-        "for an after-school arts education program for teens."
+        "I am a college student in philly and I need a 5,000 grant "
+        "for a mental health research project focused on teens. What can I apply for?"
     )
 
     results = run_agent(
         raw_user_input=sample_user_input,
-        n_results=5,
-        use_llm_for_ambiguous=True
+        n_results=10,
+        use_llm_for_ambiguous=False,
+        use_llm_for_profile_extraction=True
     )
 
     print_agent_results(results)
