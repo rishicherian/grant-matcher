@@ -2,6 +2,24 @@
 
 ## Project layout
 
+```text
+grant-matcher/
+├── core/
+│   ├── agent.py
+│   ├── profile_builder.py
+│   ├── eligibility.py
+│   ├── tools.py
+│   ├── scraper.py
+│   ├── data_parser.py
+│   └── build_db.py
+├── data/
+│   ├── raw_markdown/
+│   ├── processed_json/
+│   └── chroma_db/
+├── tests/
+│   └── test_eligibility.py
+├── requirements.txt
+└── README.md
 ```
 
 ## Quick start
@@ -16,23 +34,25 @@ pip install -r requirements.txt
 
 ```bash
 export MISTRAL_API_KEY="ajTRTk18MnL7y8kd39uiVY8lSBuGC3mb"
+export MISTRAL_BASE_URL="https://api.mistral.ai/v1"
 ```
 
-3. Implement `build_memory_store()` in `src/memory_store.py`, then run:
-
+3. Build the grant database:
 ```bash
-python3 -m src.memory_store
+python3 -m core.scraper
+python3 -m core.data_parser
+python3 -m core.build_db
 ```
 
-4. Run the agent:
-
+4. run agent
 ```bash
-python3 -m src.run_agent
+python3 -m core.agent
 ```
 
 ## Notes
-
-- `sample_sources.json` contains example source objects.
-- `sample_index.json` contains an example memory index format.
-- Minimal expected fields are `text` plus optional metadata such as `url`, `title`, or `source`.
-- This scaffold is intentionally simple so you can replace each module with stronger logic later (e.g., embeddings, LLM prompting, richer state).
+core/profile_builder.py builds a structured user profile from raw user input using rule-based extraction and optional LLM extraction.
+core/tools.py retrieves relevant grant opportunities from the Chroma vector database.
+core/eligibility.py classifies each retrieved grant as eligible, ineligible, or uncertain.
+core/agent.py orchestrates the full workflow: profile extraction, retrieval, eligibility checking, ranking, and final output.
+The agent expects grant data to be processed into data/processed_json/ and embedded into data/chroma_db/ before retrieval will work.
+If the Mistral environment variables are not set, the system still runs, but profile extraction and ambiguous-case LLM review fall back to rule-based logic only.
