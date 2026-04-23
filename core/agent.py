@@ -89,17 +89,24 @@ def rank_grants(user_profile, evaluated_grants):
 
 
 def run_agent(
-    raw_user_input,
+    raw_user_input=None,
+    profile=None,
     n_results=5,
     use_llm_for_ambiguous=False,
     use_llm_for_profile_extraction=True
 ):
+    if profile is None and raw_user_input is None:
+        raise ValueError("Either raw_user_input or profile must be provided")
+    
     memory = SimpleMemory()
 
-    user_profile = extract_user_profile(
-        raw_user_input,
-        use_llm_for_profile_extraction=use_llm_for_profile_extraction
-    )
+    if profile is not None:
+        user_profile = profile
+    else:
+        user_profile = extract_user_profile(
+            raw_user_input,
+            use_llm_for_profile_extraction=use_llm_for_profile_extraction
+        )
     memory.store_user_profile(user_profile)
 
     missing_required = find_missing_fields(user_profile)
