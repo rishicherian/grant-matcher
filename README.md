@@ -33,8 +33,8 @@ pip install -r requirements.txt
 2. Set your Mistral API key as an environment variable:
 
 ```bash
-export MISTRAL_API_KEY="ajTRTk18MnL7y8kd39uiVY8lSBuGC3mb"
-export MISTRAL_BASE_URL="https://api.mistral.ai/v1"
+export MISTRAL_API_KEY=""
+export MISTRAL_BASE_URL=""
 ```
 
 3. Build the grant database:
