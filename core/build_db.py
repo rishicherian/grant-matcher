@@ -38,6 +38,16 @@ def build_vector_db():
             with open(filepath, "r", encoding="utf-8") as f:
                 try:
                     grant_data = json.load(f)
+                    
+                    # --- ADD THIS SAFETY CHECK ---
+                    # If Mistral wrapped the object in an array, extract the first item
+                    if isinstance(grant_data, list):
+                        if len(grant_data) > 0:
+                            grant_data = grant_data[0]
+                        else:
+                            print(f"Skipping {filename}: Empty list")
+                            continue
+                            
                 except json.JSONDecodeError:
                     print(f"Skipping {filename}: Invalid JSON")
                     continue

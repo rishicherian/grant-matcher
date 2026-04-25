@@ -30,6 +30,15 @@ async def query_agent(data: dict):
     profile = data.get("profile", {})
     current_step = data.get("current_step", 0)
 
+    if message.lower() == "restart":
+        return {
+            "type": "question",
+            "question": fields[0]["question"],
+            "profile": {},
+            "current_step": 0,
+            "message": "Conversation restarted."
+        }
+
     if message:
         field_name = fields[current_step]["name"]
         if field_name == "budget_needed":

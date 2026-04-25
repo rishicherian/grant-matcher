@@ -1,0 +1,21 @@
+{
+    "grant_title": "Maine Senior Assistance Programs, Benefits, and Grants (2026)",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Maine residents aged 60+",
+        "Low-income older adults (earning less than 200% of federal poverty level)",
+        "Individuals with income under $31,200/year",
+        "Couples earning under $42,480/year",
+        "Veterans aged 60+",
+        "Disabled adults aged 60+",
+        "Homeowners and renters in Maine",
+        "Seniors requiring nursing home level of care (for HCBS Waiver)",
+        "Seniors with disabilities (for HCBS Waiver)",
+        "Seniors facing winter heating crises (for HEAP)"
+    ],
+    "geographic_restrictions": "Maine residents only; rural and urban areas both eligible, with some programs prioritizing rural applicants due to geographic isolation.",
+    "project_area": "Senior assistance programs covering property tax relief, healthcare, housing, food, winter heating, transportation, legal aid, and veteran benefits.",
+    "demographic_requirements": "Age 60+ for most programs; some programs require age 65+ (e.g., Property Tax Fairness Credit, HCBS Waiver). Income limits vary by program (e.g., below $2,901/month for HCBS Waiver, below $1,677/month for MaineCare). Disability status may qualify applicants for specific programs (e.g., HCBS Waiver). Veterans must have honorable discharge for veteran-specific programs.",
+    "eligibility_summary": "Eligibility varies by program but generally requires Maine residency, age 60+ (or 65+ for some programs), income below specified limits, and sometimes asset limits. Priority is given to low-income seniors, disabled individuals, veterans, and those facing winter heating crises. Some programs have waiting lists (e.g., HCBS Waiver) or seasonal deadlines (e.g., HEAP)."
+}

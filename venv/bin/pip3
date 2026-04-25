@@ -1,4 +1,6 @@
-#!/Users/Anika/Desktop/college/CIS_1990/grant-matcher/venv/bin/python
+#!/bin/sh
+'''exec' "/Users/rishi/VS Code/grant_matcher/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

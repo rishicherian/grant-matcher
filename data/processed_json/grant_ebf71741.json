@@ -1,0 +1,131 @@
+[
+    {
+        "grant_title": "Prevention of Childhood Overweight and Obesity \u2013 Activ8Kids!",
+        "funding_amount": 1350000,
+        "deadline": "June 14, 2006",
+        "eligible_applicant_type": [
+            "Public agencies",
+            "Private not-for-profit agencies",
+            "Colleges or universities",
+            "Academic centers",
+            "Schools or school districts",
+            "Hospitals",
+            "Primary care networks",
+            "Physician groups",
+            "Health plans",
+            "Local public health agencies",
+            "Voluntary associations",
+            "Professional associations",
+            "Community-based organizations"
+        ],
+        "geographic_restrictions": "New York State",
+        "project_area": "Prevention of childhood overweight and obesity",
+        "demographic_requirements": "None specified beyond project focus on childhood obesity prevention",
+        "eligibility_summary": "Public and private not-for-profit agencies and organizations, including colleges, schools, hospitals, health plans, and community-based organizations."
+    },
+    {
+        "grant_title": "Electronic Records Projects",
+        "funding_amount": null,
+        "deadline": "June 1, 2006",
+        "eligible_applicant_type": [
+            "Individuals",
+            "Non-profit, tax-exempt organizations",
+            "Institutions of higher education",
+            "Local governments",
+            "State governments"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Establishing sustainable electronic records programs within archival institutions",
+        "demographic_requirements": "None specified",
+        "eligibility_summary": "Open to individuals, non-profits, higher education institutions, and local/state governments."
+    },
+    {
+        "grant_title": "Partners for Fish and Wildlife Program",
+        "funding_amount": 25500000,
+        "deadline": "September 30, 2006",
+        "eligible_applicant_type": [
+            "Nonprofits without 501(c)(3) status (excluding higher education)",
+            "Independent school districts",
+            "Native American tribal organizations (excluding Federally recognized tribal governments)",
+            "County governments",
+            "Individuals",
+            "Nonprofits with 501(c)(3) status (excluding higher education)",
+            "City or township governments",
+            "Federally recognized Native American tribal governments",
+            "For-profit organizations (excluding small businesses)"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Restoring fish and wildlife habitat on private lands",
+        "demographic_requirements": "None specified",
+        "eligibility_summary": "Open to a wide range of entities, including individuals, governments, and nonprofits, with specific exclusions."
+    },
+    {
+        "grant_title": "Challenge America: Reaching Every Community Fast-Track Review Grants",
+        "funding_amount": 10000,
+        "deadline": "June 1, 2006",
+        "eligible_applicant_type": [
+            "Independent school districts",
+            "State governments",
+            "Local governments",
+            "Institutions of higher education",
+            "Nonprofit organizations",
+            "Tribal governments",
+            "Special district governments"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Supporting arts projects that reach underserved populations",
+        "demographic_requirements": "Underserved populations (geography, ethnicity, economics, disability)",
+        "eligibility_summary": "Open to governments, nonprofits, and educational institutions."
+    },
+    {
+        "grant_title": "Bowler's Ed Youth In-School Bowling Program",
+        "funding_amount": null,
+        "deadline": "June 1, 2006",
+        "eligible_applicant_type": [
+            "Educational institutions",
+            "Nonprofit organizations serving youth"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Promoting physical activity and education through bowling curriculum",
+        "demographic_requirements": "Youth (elementary and middle school)",
+        "eligibility_summary": "Open to schools and nonprofits serving youth."
+    },
+    {
+        "grant_title": "Arts, Reading, and Family Violence Prevention Grants",
+        "funding_amount": null,
+        "deadline": "May 31, 2006",
+        "eligible_applicant_type": [
+            "Nonprofit organizations with 501(c)(3) status",
+            "Schools",
+            "Units of government"
+        ],
+        "geographic_restrictions": "Communities where Target does business",
+        "project_area": "Arts, reading, and family violence prevention",
+        "demographic_requirements": "None specified",
+        "eligibility_summary": "Open to 501(c)(3) nonprofits, schools, and government units."
+    },
+    {
+        "grant_title": "Grants for Arts, Education, and Health Projects",
+        "funding_amount": null,
+        "deadline": null,
+        "eligible_applicant_type": [
+            "Grass-roots Federal tax-exempt 501(c)(3) nonprofit organizations"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Arts, education, and health for underprivileged children and youth",
+        "demographic_requirements": "Underprivileged children and youth",
+        "eligibility_summary": "Open to grass-roots 501(c)(3) nonprofits working with underprivileged youth."
+    },
+    {
+        "grant_title": "Innovation Grants to Support Professional Collaboration",
+        "funding_amount": 5000,
+        "deadline": "June 1, 2006",
+        "eligible_applicant_type": [
+            "Public school teachers (K-12)"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Collaborative project-based learning for high student achievement",
+        "demographic_requirements": "None specified",
+        "eligibility_summary": "Open to public school teachers in grades K-12."
+    }
+]

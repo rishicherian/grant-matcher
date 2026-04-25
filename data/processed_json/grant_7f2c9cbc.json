@@ -1,0 +1,16 @@
+{
+    "grant_title": "Maine State Housing Authority Housing Choice Voucher Section 8 Waiting List",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "individuals",
+        "households",
+        "elderly individuals",
+        "persons with disabilities",
+        "people experiencing homelessness"
+    ],
+    "geographic_restrictions": "Augusta, ME only. Service does not extend to Auburn, Augusta, Bangor, Bar Harbor, Bath, Brewer, Caribou, Ellsworth, Fort Fairfield, Lewiston, Mount Desert, Old Town, Portland, Saco, Sanford, Scarborough, Southwest Harbor, Tremont, Van Buren, Westbrook, or other counties in Maine.",
+    "project_area": "Affordable housing and rental assistance through Section 8 Housing Choice Voucher program",
+    "demographic_requirements": "Preferences for elderly individuals, persons with disabilities, and people experiencing homelessness.",
+    "eligibility_summary": "Open to low- and moderate-income households in Augusta, ME, with preferences for elderly individuals, persons with disabilities, and people experiencing homelessness. Extremely low-income (ELI) renters (earning less than 30% of Area Median Income) make up 77% of households served."
+}

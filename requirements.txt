@@ -49,7 +49,6 @@ opentelemetry-exporter-otlp-proto-grpc==1.41.0
 opentelemetry-proto==1.41.0
 opentelemetry-sdk==1.41.0
 opentelemetry-semantic-conventions==0.62b0
-uvicorn[standard]==0.32.1
 orjson==3.11.5
 overrides==7.7.0
 packaging==26.1
@@ -84,9 +83,9 @@ typer==0.23.2
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.6.3
-uvicorn==0.39.0
 uvloop==0.22.1
 watchfiles==1.1.1
 websocket-client==1.9.0
 websockets==15.0.1
 zipp==3.23.1
+uvicorn[standard]==0.20.0

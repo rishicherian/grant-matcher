@@ -145,7 +145,7 @@ def parse_money(value: Any) -> Optional[float]:
 
     # Handles "$10,000", "10000", "Up to $25,000"
     matches = re.findall(r"\d[\d,]*\.?\d*", text)
-    if not matches:
+    if not matches: # hi 
         return None
 
     try:
@@ -338,68 +338,29 @@ def check_geography(user: UserProfile, grant: Dict[str, Any]) -> Dict[str, str]:
     if is_missing(geo):
         return make_constraint_result(
             "geography",
-            "uncertain",
-            "Grant geographic restriction is not specified."
+            "pass",
+            "Grant does not specify geographic restrictions."
         )
 
-    user_location_tokens = set(get_location_tokens(user_location))
-    grant_location_tokens = set(get_location_tokens(geo))
-
-    # Explicit rural / urban logic
-    if "rural" in geo:
-        if user.is_rural is True:
+    if "pennsylvania" in geo or re.search(r"\bpa\b", geo):
+        if "pennsylvania" in user_location or re.search(r"\bpa\b", user_location):
             return make_constraint_result(
                 "geography",
                 "pass",
-                "Grant is rural-only and user profile indicates a rural location."
+                "User is in Pennsylvania, which is considered nearby."
             )
-        if user.is_rural is False:
-            return make_constraint_result(
-                "geography",
-                "fail",
-                "Grant is rural-only but user profile indicates an urban/non-rural location."
-            )
-        return make_constraint_result(
-            "geography",
-            "uncertain",
-            "Grant appears rural-only, but user rural status is unknown."
-        )
 
-    if "urban" in geo and user.is_rural is True:
-        return make_constraint_result(
-            "geography",
-            "fail",
-            "Grant appears urban-focused but user profile indicates a rural location."
-        )
-
-    if user_location_tokens & grant_location_tokens:
+    if text_overlap(user_location, geo):
         return make_constraint_result(
             "geography",
             "pass",
             f"User location '{user_location}' matches grant geography '{geo}'."
         )
 
-    # Strong mismatch rules for common cases
-    if "philadelphia" in geo and "philadelphia" not in user_location:
-        return make_constraint_result(
-            "geography",
-            "fail",
-            f"Grant requires Philadelphia but user location is '{user_location}'."
-        )
-
-    if "pennsylvania" in geo and not (
-        "pennsylvania" in user_location or re.search(r"\bpa\b", user_location)
-    ):
-        return make_constraint_result(
-            "geography",
-            "fail",
-            f"Grant requires Pennsylvania but user location is '{user_location}'."
-        )
-
     return make_constraint_result(
         "geography",
         "uncertain",
-        f"Could not confidently compare user location '{user_location}' with grant geography '{geo}'."
+        f"Grant geography '{geo}' does not clearly match user location '{user_location}', but nearby locations are allowed."
     )
 
 
@@ -438,7 +399,6 @@ def check_budget(user: UserProfile, grant: Dict[str, Any]) -> Dict[str, str]:
 def check_project_area(user: UserProfile, grant: Dict[str, Any]) -> Dict[str, str]:
     user_area = user.project_area
     grant_area = grant["project_area"]
-    eligibility_summary = grant["eligibility_summary"]
 
     if not user_area:
         return make_constraint_result(
@@ -456,28 +416,18 @@ def check_project_area(user: UserProfile, grant: Dict[str, Any]) -> Dict[str, st
 
     user_tokens = set(get_project_area_tokens(user_area))
     grant_tokens = set(get_project_area_tokens(grant_area))
-    overlap = user_tokens & grant_tokens
 
-    if overlap:
+    if user_tokens & grant_tokens or text_overlap(user_area, grant_area):
         return make_constraint_result(
             "project_area",
             "pass",
-            f"User project area '{user_area}' matches grant project area '{grant_area}'."
-        )
-
-    # Treat project area as a hard fail only if it looks explicitly exclusionary
-    combined_text = f"{grant_area} {eligibility_summary}"
-    if contains_exclusionary_language(combined_text):
-        return make_constraint_result(
-            "project_area",
-            "fail",
-            f"Grant project area '{grant_area}' appears restrictive and does not match user project area '{user_area}'."
+            f"User project area '{user_area}' matches grant topic '{grant_area}'."
         )
 
     return make_constraint_result(
         "project_area",
         "uncertain",
-        f"Project area mismatch is ambiguous: user='{user_area}', grant='{grant_area}'."
+        f"Grant topic '{grant_area}' does not clearly match user mission '{user_area}'."
     )
 
 
@@ -551,17 +501,14 @@ def aggregate_eligibility(checks: List[Dict[str, str]]) -> Dict[str, Any]:
 
 def check_eligibility_rule_based(user_profile: Dict[str, Any], grant_metadata: Dict[str, Any]) -> Dict[str, Any]:
     """
-    Main deterministic checker.
+    Simplified eligibility checker.
     """
     user = normalize_user_profile(user_profile)
     grant = normalize_grant_metadata(grant_metadata)
 
     checks = [
-        check_applicant_type(user, grant),
-        check_geography(user, grant),
-        check_budget(user, grant),
         check_project_area(user, grant),
-        check_demographics(user, grant),
+        check_geography(user, grant),
     ]
 
     result = aggregate_eligibility(checks)

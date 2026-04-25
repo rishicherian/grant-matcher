@@ -28,6 +28,8 @@ def fetch_grant_markdown(url, filename):
         # Clean up excess whitespace
         clean_markdown = '\n'.join([line.strip() for line in raw_markdown.splitlines() if line.strip()])
 
+        os.makedirs(os.path.join("data", "raw_markdown"), exist_ok=True)
+
         # Save to data folder
         filepath = os.path.join("data", "raw_markdown", f"{filename}.md")
         with open(filepath, "w", encoding="utf-8") as f:
