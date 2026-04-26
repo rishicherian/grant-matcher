@@ -11,3 +11,4 @@ __pycache__/
 
 # Local Database
 data/chroma_db/
+node_modules/
