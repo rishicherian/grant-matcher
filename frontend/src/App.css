@@ -103,3 +103,11 @@
   background-color: #ccc;
   cursor: not-allowed;
 }
+
+.reset-button {
+  background-color: #6c757d;
+}
+
+.reset-button:hover:not(:disabled) {
+  background-color: #5a6268;
+}

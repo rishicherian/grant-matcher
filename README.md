@@ -24,29 +24,47 @@ grant-matcher/
 
 ## Quick start
 
-1. Install dependencies:
+1. Create and activate virtual eviroment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Set your Mistral API key as an environment variable:
+3. Set your Mistral API key as an environment variable:
 
 ```bash
 export MISTRAL_API_KEY=""
-export MISTRAL_BASE_URL=""
+export MISTRAL_BASE_URL="https://api.mistral.ai/v1"
+export MISTRAL_MODEL="mistral-small-latest"
 ```
 
-3. Build the grant database:
+4. Build the grant database:
 ```bash
 python3 -m core.scraper
 python3 -m core.data_parser
 python3 -m core.build_db
 ```
 
-4. run agent
+5. run the application
+
+start backend (FastApi), runs on port 8001
 ```bash
-python3 -m core.agent
+python3 -m uvicorn api:app --reload --port 8001
+```
+
+start frontend (react), runs on http://localhost:3000
+```bash
+cd frontend
+npm install
+npm start
 ```
 
 ## Notes
