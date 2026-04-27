@@ -1,0 +1,20 @@
+Ithaca Men’s Wrestling Sends Five to Nationals, Secures Runner Up Finish at Region II Championships
+===================================================================================================
+2/28/2026 5:43:00 PM
+By: Ryan Collins '26, Athletics Communications Student Assistant
+### Story Links
+* Follow Ithaca on Twitter
+* Like us on Facebook
+* Follow Ithaca on Instagram
+* Subscribe to Ithaca Athletics on YouTube
+**ITHACA, N.Y.**– On Saturday, the Ithaca College men's wrestling team closed out the second day of the NCAA Division III Men's Wrestling Region II Championships with an outstanding performance, qualifying five wrestlers for the NCAA Division III Championships. Those securing their spots in Cedar Rapids include Jay McDonnell (133), Isaias Torres (141), Konrad Parker (174), Ryan Galka (197) and Kamdyn Dorchester (285).
+All five Bombers earned victories in their semifinal matches earlier in the day, clinching automatic berths to nationals and advancing to their respective finals. At 184, Xavier Pommells also reached the semifinals but was pushed into the third‑place bout, where he battled for the region's final NCAA spot.
+McDonnell opened the championship round for Ithaca at 133 pounds, squaring off with Daniel Haws in a tactical match that remained scoreless after the first period. After trading escapes in the second and third, the bout moved into sudden victory tied 1–1. McDonnell capitalized with a decisive takedown on the edge of the mat to secure a 4–1 victory and punch his ticket to nationals.
+At 141, Torres faced Stevens' Nico Diaz in a highly competitive final. Torres stormed out to a 3–0 lead with an early takedown before Diaz chipped away with escapes in both the first and second periods. In a back‑and‑forth third frame, Torres added another escape but surrendered consecutive takedowns, ultimately falling in a narrow 8–7 decision. Despite the setback, Torres' runner‑up finish secured his place at nationals.
+Parker continued Ithaca's momentum in the 174 final, dominating early with back‑to‑back takedowns and an escape to build a 7–1 first‑period lead over Nolan Zeigler. After Zeigler closed the gap in the second, Parker responded with a crucial takedown in the third to finish off an 11–6 decision and advance to the national tournament.
+In the 184 third‑place match, Pommells met Eli Crumb with the winner advancing to nationals. Pommells struck first with an early takedown, but Crumb responded with a reversal and near‑fall to take control. Crumb extended his lead in the second period and ultimately ended Pommells' NCAA bid, leaving the Bomber graduate student with a fourth‑place finish.
+At 197, Galka and Carson Licastri wrestled to a scoreless opening period before exchanging escapes to send the match into overtime knotted at 1–1. In sudden victory, Galka was taken down and fell 4–1, but his runner‑up finish still earned him a berth at the NCAA Championships.
+In the heavyweight division, Dorchester closed out Ithaca's day with a strong performance in the third‑place match. After a scoreless first period, he opened the scoring with a reversal in the second and sealed the match with back‑to‑back takedowns in the third. His 8–1 decision secured third place and made him the fifth Bomber to qualify for nationals.
+As a team, Ithaca finished as the runner‑up in Region II, narrowly trailing Stevens Institute of Technology, which claimed the team title with 147.5 points. The Bombers were close behind with 144, while Lycoming College took third with 108 points. The regional's top individual honor went to Stevens' Josh Harkless, who won the 285‑pound bracket, recorded the most pins in the tournament, and was named the Most Outstanding Wrestler of the Regional.
+For the second consecutive year, Ithaca head coach Marty Nichols was voted as the Regional Coach of the Year, while his assistant Eze Chukwuezi earned the Staff Member of the Year honor at the conclusion of the regional.
+The Bombers will return to action on March 13–14 when McDonnell, Torres, Parker, Galka, and Dorchester compete at the NCAA Division III Wrestling Championships in Cedar Rapids, Iowa.

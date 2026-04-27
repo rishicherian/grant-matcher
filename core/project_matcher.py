@@ -76,7 +76,7 @@ def find_project_matches(project_info: Dict[str, Any], n_results: int = 10) -> L
     )
 
     cleaned = []
-    for grant in ranked[:10]:
+    for grant in ranked[:n_results]:
         cleaned.append({
             "id": grant.get("id", "unknown"),
             "metadata": grant.get("metadata", {}),

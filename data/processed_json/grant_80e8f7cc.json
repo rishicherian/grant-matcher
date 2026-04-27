@@ -3,8 +3,8 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [],
-    "geographic_restrictions": "United States (including territories and states listed)",
-    "project_area": "Community foundation identification and accreditation",
+    "geographic_restrictions": "United States (including territories)",
+    "project_area": "Community foundation support",
     "demographic_requirements": null,
-    "eligibility_summary": "The tool is designed to help users locate accredited community foundations within specific states or territories in the U.S. No funding is provided; it is an informational resource."
+    "eligibility_summary": "The grant is for accredited community foundations in the United States, including all states and territories. Only accredited foundations are eligible."
 }

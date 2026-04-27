@@ -1,0 +1,19 @@
+{
+    "grant_title": null,
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Early Years Providers",
+        "Nurseries",
+        "Nurseries in Schools",
+        "Childminders",
+        "Reception Teachers",
+        "Schools",
+        "SEND Providers",
+        "Parents & Carers"
+    ],
+    "geographic_restrictions": "None specified; available in the UK and internationally (as per 'International' category).",
+    "project_area": "Early Years Foundation Stage (EYFS), Key Stage 1 & 2, Special Educational Needs and Disabilities (SEND) provision, and nursery management.",
+    "demographic_requirements": "No specific demographic requirements mentioned; open to educators, parents, carers, and settings supporting children in EYFS, KS1, KS2, and SEND.",
+    "eligibility_summary": "Open to nurseries, childminders, schools, SEND providers, parents, and carers. The platform supports EYFS, KS1, KS2, and SEND settings, with tools for observation, planning, parent engagement, and nursery management."
+}

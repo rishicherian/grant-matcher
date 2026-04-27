@@ -1,0 +1,15 @@
+{
+    "grant_title": null,
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "private_developers",
+        "municipalities",
+        "nonprofits",
+        "utilities"
+    ],
+    "geographic_restrictions": "Connecticut, with a focus on brownfield sites in urban areas like Bridgeport",
+    "project_area": "Energy & Environment - Fuel cell development on brownfield sites",
+    "demographic_requirements": "Projects must be located on former brownfield sites or landfills, with preference given to urban centers with existing infrastructure (water, sewer, natural gas, electricity).",
+    "eligibility_summary": "Eligible applicants include private developers, municipalities, nonprofits, and utilities. Projects must be located on brownfield sites or former landfills in Connecticut, with preference given to urban areas. The project must align with state energy goals, such as the Shared Clean Energy Facilities program, and may involve partnerships with local utilities or economic development corporations."
+}

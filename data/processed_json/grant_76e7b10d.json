@@ -1,0 +1,19 @@
+{
+    "grant_title": null,
+    "funding_amount": null,
+    "deadline": "31st March 2021",
+    "eligible_applicant_type": [
+        "professionals",
+        "engineers",
+        "policymakers",
+        "health administrators",
+        "HR managers",
+        "developers",
+        "business people",
+        "adult students"
+    ],
+    "geographic_restrictions": "No explicit geographic restrictions mentioned; likely open to international applicants but course is based in the UK.",
+    "project_area": "AI Ethics and Society, responsible use of AI, AI governance, algorithmic bias, privacy, surveillance, justice, fairness, misinformation, microtargeting, big data, responsible innovation",
+    "demographic_requirements": "No specific demographic requirements mentioned; open to professionals and adult students seeking to upskill.",
+    "eligibility_summary": "Open to professionals across various fields (engineers, policymakers, health administrators, HR managers, developers, business people) and adult students interested in AI ethics and responsible AI use. No formal degree prerequisites are explicitly stated, but the program targets mid-career professionals and those seeking advanced education in AI ethics."
+}

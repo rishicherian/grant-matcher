@@ -4,10 +4,8 @@ import chromadb
 def search_grant_database(query, n_results=3):
     print(f"Searching database for: '{query}'...\n")
     
-    # Grab the absolute path of the current file (tools.py)
     current_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Go up one level to the root 'grant_matcher' folder, then into 'data/chroma_db'
     base_dir = os.path.dirname(current_dir)
     db_path = os.path.join(base_dir, "data", "chroma_db")
     

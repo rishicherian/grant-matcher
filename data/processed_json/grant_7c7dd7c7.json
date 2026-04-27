@@ -1,0 +1,16 @@
+{
+    "grant_title": "Housing Guides",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Low-income families",
+        "Seniors",
+        "Individuals with disabilities",
+        "Veterans",
+        "Homeless individuals or those at risk of homelessness"
+    ],
+    "geographic_restrictions": "Nationwide",
+    "project_area": "Affordable housing programs, applications, and resources",
+    "demographic_requirements": "Households must meet income limits (typically 50% or less of the Area Median Income), be U.S. citizens or eligible non-citizens, and pass criminal background checks. Priority is often given to households with children, seniors, individuals with disabilities, and veterans.",
+    "eligibility_summary": "Eligibility is based on income limits, household size, citizenship or eligible immigration status, and a clean rental history. Applicants must also pass a criminal background check. Priority is often given to households with children, seniors, individuals with disabilities, and veterans. Demand for assistance often exceeds available funding, resulting in waiting lists."
+}

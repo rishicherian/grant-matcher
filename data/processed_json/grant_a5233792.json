@@ -3,14 +3,13 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "Non-profit organizations",
+        "Nonprofits",
         "Schools",
-        "Community-based organizations",
-        "Youth-serving agencies",
-        "Afterschool program providers"
+        "Community Organizations",
+        "Youth-Serving Agencies"
     ],
     "geographic_restrictions": "New Jersey",
-    "project_area": "Afterschool and out-of-school time (OST) programs, youth development, and professional training",
-    "demographic_requirements": "Focus on youth ages 12\u201318, particularly in mental health and inclusion initiatives",
-    "eligibility_summary": "Open to organizations and individuals involved in afterschool and out-of-school time programs in New Jersey, with a focus on professional development, youth mental health, and inclusive practices."
+    "project_area": "Afterschool and Out-of-School Time (OST) programs",
+    "demographic_requirements": "Staff and leaders involved in youth programs, particularly those serving ages 12\u201318",
+    "eligibility_summary": "Eligible applicants include nonprofits, schools, community organizations, and youth-serving agencies in New Jersey focused on afterschool and out-of-school time programs. Priority may be given to programs addressing youth mental health, inclusion, and professional development."
 }

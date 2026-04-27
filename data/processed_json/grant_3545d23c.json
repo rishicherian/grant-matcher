@@ -4,11 +4,11 @@
     "deadline": null,
     "eligible_applicant_type": [
         "Individual artists",
-        "Small-budget arts institutions",
-        "Black, Brown, and Indigenous artists and creatives"
+        "Creatives",
+        "Small-budget arts institutions"
     ],
-    "geographic_restrictions": "Greater New Haven area",
-    "project_area": "Arts and culture, with a focus on economic and racial justice",
-    "demographic_requirements": "Priority given to Black, Brown, and Indigenous artists and creatives who are actively engaged in their community but lack access to resources",
-    "eligibility_summary": "Open to low-income individual creatives and small-budget arts institutions in Greater New Haven, with a focus on supporting Black, Brown, and Indigenous artists and creatives who are making a significant impact in their community."
+    "geographic_restrictions": "Greater New Haven",
+    "project_area": "Economic and racial justice in the arts sector",
+    "demographic_requirements": "Black, Brown, and Indigenous artists and creatives",
+    "eligibility_summary": "Open to Black, Brown, and Indigenous artists and creatives in Greater New Haven who are actively engaged in their community but lack access to resources. Priority given to low-income individuals and those most impacted by COVID-19."
 }

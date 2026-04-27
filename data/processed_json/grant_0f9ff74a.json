@@ -3,8 +3,8 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [],
-    "geographic_restrictions": "",
-    "project_area": "",
-    "demographic_requirements": "",
-    "eligibility_summary": ""
+    "geographic_restrictions": null,
+    "project_area": "Government & Politics",
+    "demographic_requirements": null,
+    "eligibility_summary": null
 }

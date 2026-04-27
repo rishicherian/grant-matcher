@@ -39,8 +39,6 @@ def build_vector_db():
                 try:
                     grant_data = json.load(f)
                     
-                    # --- ADD THIS SAFETY CHECK ---
-                    # If Mistral wrapped the object in an array, extract the first item
                     if isinstance(grant_data, list):
                         if len(grant_data) > 0:
                             grant_data = grant_data[0]
@@ -54,7 +52,12 @@ def build_vector_db():
                 
             grant_id = filename.replace(".json", "")
             
-            searchable_text = f"Title: {grant_data.get('grant_title', '')}\n"
+            title = grant_data.get('grant_title', '')
+            if not title or title.lower() == "not specified" or title.lower() == "null":
+                print(f"Skipping {filename}: Missing valid grant title.")
+                continue
+            
+            searchable_text = f"Title: {title}\n"
             searchable_text += f"Project Area: {grant_data.get('project_area', '')}\n"
             searchable_text += f"Demographics: {grant_data.get('demographic_requirements', '')}\n"
             searchable_text += f"Eligibility: {grant_data.get('eligibility_summary', '')}"

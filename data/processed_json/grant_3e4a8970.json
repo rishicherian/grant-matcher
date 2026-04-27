@@ -3,8 +3,8 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [],
-    "geographic_restrictions": null,
-    "project_area": null,
-    "demographic_requirements": null,
-    "eligibility_summary": null
+    "geographic_restrictions": "",
+    "project_area": "",
+    "demographic_requirements": "",
+    "eligibility_summary": ""
 }

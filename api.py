@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from core.agent import run_project_stage, run_profile_stage, run_ranking_stage
+from core.guardrails import validate_user_prompt
 
 app = FastAPI()
 
@@ -32,7 +33,7 @@ stages = [
             },
             {
                 "name": "research_focus",
-                "question": "What is your research focus or specific project focus? You can say optional if none."
+                "question": "What is your research focus or specific project focus? You can say N/A if none."
             },
         ],
     },
@@ -58,7 +59,7 @@ stages = [
         "questions": [
             {
                 "name": "ranking_choice",
-                "question": "Would you like me to rank the eligible grants with explanations? yes or no"
+                "question": "Would you like me to rank the eligible grants with explanations? Yes or No."
             }
         ],
     },
@@ -138,6 +139,22 @@ async def query_agent(data: dict):
                 "current_stage": 0,
                 "current_question": 0,
             }
+        
+        if current_question in [0, 1] and message.lower() != "optional":
+            guardrail_result = validate_user_prompt(message)
+            
+            if not guardrail_result.get("is_valid", True):
+                reason = guardrail_result.get("reason", "Please keep your responses focused on grant matching.")
+                return {
+                    "type": "question",
+                    "question": f"⚠️ **Off-Topic Detected:** {reason}\n\nLet's try again: {stage['questions'][current_question]['question']}",
+                    "project_info": project_info,
+                    "user_profile": user_profile,
+                    "project_matches": [],
+                    "eligible_grants": [],
+                    "current_stage": current_stage,
+                    "current_question": current_question,
+                }
 
         field_name = stage["questions"][current_question]["name"]
         project_info[field_name] = "" if message.lower() == "optional" else message
@@ -255,28 +272,37 @@ async def query_agent(data: dict):
                     f"I found {len(eligible_grants)} eligible grants:\n\n"
                     + "\n\n".join(grant_lines)
                 )
+
+                return {
+                    "type": "stage_complete",
+                    "stage": "profile_info_complete",
+                    "message": message_text,
+                    "project_info": project_info,
+                    "user_profile": user_profile,
+                    "project_matches": project_matches,
+                    "eligible_grants": eligible_grants,
+                    "profile_match_results": {
+                        "eligible_grants": serialized_eligible,
+                        "ineligible_grants": serialized_ineligible,
+                        "all_evaluated_grants": serialized_all,
+                    },
+                    "next_question": stages[2]["questions"][0]["question"],
+                    "current_stage": 2,
+                    "current_question": 0,
+                }
             else:
                 message_text = (
                     f"I found 0 eligible grants and {len(ineligible_grants)} grants that do not appear eligible."
                 )
 
-            return {
-                "type": "stage_complete",
-                "stage": "profile_info_complete",
-                "message": message_text,
-                "project_info": project_info,
-                "user_profile": user_profile,
-                "project_matches": project_matches,
-                "eligible_grants": eligible_grants,
-                "profile_match_results": {
-                    "eligible_grants": serialized_eligible,
-                    "ineligible_grants": serialized_ineligible,
-                    "all_evaluated_grants": serialized_all,
-                },
-                "next_question": stages[2]["questions"][0]["question"],
-                "current_stage": 2,
-                "current_question": 0,
-            }
+                return {
+                    "type": "final_results",
+                    "message": message_text + "\n\nWould you like to try again with different criteria? Type 'restart' to begin a new search.",
+                    "project_info": project_info,
+                    "user_profile": user_profile,
+                    "project_matches": project_matches,
+                    "eligible_grants": [],
+                }
         except Exception as e:
             return {
                 "type": "error",

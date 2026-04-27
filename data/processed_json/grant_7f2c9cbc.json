@@ -3,14 +3,12 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "individuals",
-        "households",
         "elderly individuals",
         "persons with disabilities",
         "people experiencing homelessness"
     ],
-    "geographic_restrictions": "Augusta, ME only. Service does not extend to Auburn, Augusta, Bangor, Bar Harbor, Bath, Brewer, Caribou, Ellsworth, Fort Fairfield, Lewiston, Mount Desert, Old Town, Portland, Saco, Sanford, Scarborough, Southwest Harbor, Tremont, Van Buren, Westbrook, or other counties in Maine.",
-    "project_area": "Affordable housing and rental assistance through Section 8 Housing Choice Voucher program",
-    "demographic_requirements": "Preferences for elderly individuals, persons with disabilities, and people experiencing homelessness.",
-    "eligibility_summary": "Open to low- and moderate-income households in Augusta, ME, with preferences for elderly individuals, persons with disabilities, and people experiencing homelessness. Extremely low-income (ELI) renters (earning less than 30% of Area Median Income) make up 77% of households served."
+    "geographic_restrictions": "Service is restricted to specific counties in Maine (Aroostook, Cumberland, Franklin, Hancock, Kennebec, Knox, Lincoln, Oxford, Penobscot, Piscataquis, Sagadahoc, Somerset, Waldo, Washington, York) and excludes cities such as Augusta, Bangor, Portland, Lewiston, and others.",
+    "project_area": "Affordable housing and rental assistance through the Section 8 Housing Choice Voucher program",
+    "demographic_requirements": "Priority given to elderly individuals, persons with disabilities, and people experiencing homelessness.",
+    "eligibility_summary": "Eligible applicants must be low- or moderate-income households seeking rental housing assistance in Maine. Priority is given to elderly individuals, persons with disabilities, and those experiencing homelessness. Applicants must reside in or be willing to move to eligible counties in Maine."
 }

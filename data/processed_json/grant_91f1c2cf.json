@@ -31,11 +31,11 @@
         "funding_amount": null,
         "deadline": null,
         "eligible_applicant_type": [
-            "Owners of barns, sheds, silos, or farm outbuildings"
+            "Owners of agricultural structures (e.g., barns, sheds, silos, farm outbuildings)"
         ],
         "geographic_restrictions": "New York State",
-        "project_area": "Agricultural structure preservation",
-        "demographic_requirements": "Structure must be at least fifty years old and used for agricultural purposes.",
+        "project_area": "Agricultural heritage preservation",
+        "demographic_requirements": "Structure must be at least fifty years old and used for storage or shelter of livestock, farm equipment, or agricultural products.",
         "eligibility_summary": "Owners of qualifying agricultural structures in need of substantial repair."
     },
     {
@@ -47,7 +47,7 @@
             "nonprofit organizations with 501(c)(3) status"
         ],
         "geographic_restrictions": "United States",
-        "project_area": "Arts and arts education",
+        "project_area": "Arts and culture",
         "demographic_requirements": "None specified beyond IRS 501(c)(3) status.",
         "eligibility_summary": "State/local governments and 501(c)(3) nonprofits advancing arts education and access."
     },
@@ -64,8 +64,8 @@
         ],
         "geographic_restrictions": "United States",
         "project_area": "Archival and records management",
-        "demographic_requirements": "None specified beyond project focus on American history records.",
-        "eligibility_summary": "Entities preserving records that enhance understanding of American history."
+        "demographic_requirements": "None specified beyond project scope.",
+        "eligibility_summary": "Entities preserving and providing access to historically significant records."
     },
     {
         "grant_title": "Publishing Historically Significant Records Relating to the History of the United States",
@@ -79,9 +79,9 @@
             "nonprofit organizations with 501(c)(3) status"
         ],
         "geographic_restrictions": "United States",
-        "project_area": "Historical document publication",
-        "demographic_requirements": "None specified beyond project focus on U.S. history documents.",
-        "eligibility_summary": "Entities publishing historically significant records related to U.S. history."
+        "project_area": "Historical document publishing",
+        "demographic_requirements": "None specified beyond project scope.",
+        "eligibility_summary": "Entities publishing historically significant U.S. records."
     },
     {
         "grant_title": "Green Communities Initiative Program",
@@ -93,25 +93,22 @@
             "for-profit entities in partnership with qualified organizations"
         ],
         "geographic_restrictions": "United States",
-        "project_area": "Affordable housing and green development",
-        "demographic_requirements": "None specified beyond project focus on affordable housing.",
+        "project_area": "Affordable housing and sustainability",
+        "demographic_requirements": "None specified beyond project scope.",
         "eligibility_summary": "Developers and organizations creating affordable housing using Green Communities criteria."
     },
     {
         "grant_title": "Read Across America Library Books Awards",
         "funding_amount": null,
-        "deadline": [
-            "September 15, 2005",
-            "February 1, 2006"
-        ],
+        "deadline": "September 15, 2005 and February 1, 2006",
         "eligible_applicant_type": [
             "Practicing pre K-12 teachers or education support professionals",
             "members of the NEA"
         ],
         "geographic_restrictions": "United States",
-        "project_area": "School library book acquisition",
+        "project_area": "Education and literacy",
         "demographic_requirements": "At least 40% of students in the applicant's school must be eligible for free or reduced-price lunch.",
-        "eligibility_summary": "NEA members at schools with high rates of economically disadvantaged students."
+        "eligibility_summary": "NEA members in schools with economically disadvantaged student populations."
     },
     {
         "grant_title": "Best Buy te@ch awards",
@@ -128,18 +125,13 @@
     {
         "grant_title": "StreetSentz Community Grant Program",
         "funding_amount": null,
-        "deadline": [
-            "September 15, 2005",
-            "December 15, 2005",
-            "March 15, 2006",
-            "June 15, 2006"
-        ],
+        "deadline": "September 15, 2005, December 15, 2005, March 15, 2006, June 15, 2006",
         "eligible_applicant_type": [
             "Nonprofit organizations with 501(c)(3) tax-exempt status"
         ],
         "geographic_restrictions": "RadioShack communities",
-        "project_area": "Child abuse and abduction prevention",
-        "demographic_requirements": "Must offer programs focused on preventing child/family abuse and/or abduction.",
-        "eligibility_summary": "501(c)(3) nonprofits providing child safety programs in RadioShack communities."
+        "project_area": "Child safety and abuse prevention",
+        "demographic_requirements": "Must offer programs focused on preventing child/family abuse or abduction.",
+        "eligibility_summary": "501(c)(3) nonprofits preventing child/family abuse or abduction in RadioShack communities."
     }
 ]

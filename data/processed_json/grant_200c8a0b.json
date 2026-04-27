@@ -3,13 +3,10 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "individuals",
-        "traditional artists",
-        "knowledge holders",
-        "heritage practitioners"
+        "individuals"
     ],
-    "geographic_restrictions": "Global, with specific restrictions for countries under U.S. embargoes/sanctions (e.g., Cuba, Iran, Syria, North Korea, Crimea). Projects must comply with U.S. export laws and obtain necessary permits.",
-    "project_area": "Science, conservation, storytelling, education, technology, climate resilience, cultural heritage preservation, community-based stewardship, and ecosystem restoration.",
-    "demographic_requirements": "Applicants must be 18 or older. Ideal candidates have a strong connection to the local context (e.g., members of local communities, living near fieldwork areas, speaking local languages, or having long-standing relationships with stakeholders).",
-    "eligibility_summary": "Open to individuals globally who are 18+. Applicants must demonstrate a strong understanding of and connection to the local context of their project. Only one proposal per project leader at a time. Previous grantees must submit final reports and media before applying for new projects. Compliance with U.S. laws (e.g., anti-bribery, sanctions, export controls) is mandatory."
+    "geographic_restrictions": "Global, with specific restrictions for countries under U.S. embargoes/sanctions (e.g., Cuba, Iran, Syria, North Korea, Crimea).",
+    "project_area": "Science, conservation, storytelling, education, technology, and cultural heritage preservation across focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, Planetary Health, and Space.",
+    "demographic_requirements": "Applicants must be 18 or older. Ideal candidates have strong local context understanding, community ties, and language skills. Strong preference for individuals embedded in local communities where projects are conducted.",
+    "eligibility_summary": "Open to individuals worldwide (18+). Applicants must demonstrate deep local knowledge, community connections, and alignment with National Geographic's focus areas. Project start dates must be at least six months post-submission. Previous grantees must submit final reports/media before applying for new projects. Compliance with U.S. laws (e.g., FCPA, OFAC) and export controls required."
 }

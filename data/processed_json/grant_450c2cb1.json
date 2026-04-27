@@ -1,13 +1,15 @@
 {
-    "grant_title": "Grants to Pennsylvania Nonprofits for Programs to Benefit Women and Children",
-    "funding_amount": 3500,
-    "deadline": "04/30/26",
+    "grant_title": "569 Community Services Grants for Pennsylvania",
+    "funding_amount": null,
+    "deadline": null,
     "eligible_applicant_type": [
-        "Nonprofit organizations",
-        "Community organizations"
+        "Individuals",
+        "Nonprofits",
+        "Small Businesses",
+        "Government"
     ],
-    "geographic_restrictions": "Pennsylvania (USA)",
-    "project_area": "Programs benefiting women and children",
-    "demographic_requirements": "Programs must benefit women and children in eligible counties in Pennsylvania.",
-    "eligibility_summary": "Nonprofit and community organizations in Pennsylvania serving eligible counties may apply for grants up to $3,500 to support programs benefiting women and children. Funding may also be used for emergency assistance."
+    "geographic_restrictions": "Pennsylvania, USA",
+    "project_area": "Community services and programs benefiting the public, including outreach efforts, volunteer programs, social services, civic engagement, and initiatives addressing community needs.",
+    "demographic_requirements": "No specific demographic requirements mentioned; open to a broad range of applicants including individuals, nonprofits, small businesses, and government entities.",
+    "eligibility_summary": "Grants are available to individuals, nonprofits, small businesses, and government entities in Pennsylvania for community service programs that benefit the public. Funding supports outreach, volunteer programs, social services, civic engagement, and initiatives addressing community needs."
 }

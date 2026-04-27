@@ -1,13 +1,95 @@
-{
-    "grant_title": "Minority Health Community Partnerships Program",
-    "funding_amount": 400000,
-    "deadline": "January 9, 2006",
-    "eligible_applicant_type": [
-        "Community coalitions",
-        "Partnerships"
-    ],
-    "geographic_restrictions": "New York State",
-    "project_area": "Health disparities reduction (maternal mortality, cancer screening, cardiovascular disease, diabetes, HIV/AIDS, immunizations)",
-    "demographic_requirements": "Racial and ethnic minorities",
-    "eligibility_summary": "Community coalitions/partnerships with demonstrated capacity to develop and implement interventions improving health of racial and ethnic minorities through community-level systems change."
-}
+[
+    {
+        "grant_title": "Minority Health Community Partnerships Program",
+        "funding_amount": 400000,
+        "deadline": "January 9, 2006",
+        "eligible_applicant_type": [
+            "Community coalitions",
+            "Partnerships"
+        ],
+        "geographic_restrictions": "New York State",
+        "project_area": "Health disparities reduction (maternal mortality, cancer, cardiovascular disease, diabetes, HIV/AIDS, immunizations)",
+        "demographic_requirements": "Racial and ethnic minorities",
+        "eligibility_summary": "Community coalitions/partnerships with capacity to develop and implement interventions improving health of racial and ethnic minorities through community-level systems change."
+    },
+    {
+        "grant_title": "Low-Income Housing Credit Program",
+        "funding_amount": 20000000,
+        "deadline": "February 27, 2006",
+        "eligible_applicant_type": [
+            "Persons",
+            "Firms"
+        ],
+        "geographic_restrictions": "New York State",
+        "project_area": "Construction and rehabilitation of rental housing for low-income households",
+        "demographic_requirements": "Low-income households",
+        "eligibility_summary": "Persons and firms constructing or rehabilitating rental housing reserved for low-income households."
+    },
+    {
+        "grant_title": "Housing Trust Fund Corporation (HTFC) Programs",
+        "funding_amount": null,
+        "deadline": "February 27, 2006 (site-specific projects) / March 20, 2006 (locally administered programs)",
+        "eligible_applicant_type": [
+            "Persons",
+            "Firms"
+        ],
+        "geographic_restrictions": "New York State",
+        "project_area": "Housing construction and rehabilitation for low-income persons or households",
+        "demographic_requirements": "Low-income persons or households",
+        "eligibility_summary": "Persons and firms constructing or rehabilitating housing for low-income persons or households."
+    },
+    {
+        "grant_title": "Relatives as Parents Program (RAPP) Local Seed Grant Initiative",
+        "funding_amount": 10000,
+        "deadline": "January 12, 2006",
+        "eligible_applicant_type": [
+            "Local community-based agencies"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Support services for grandparents and relatives raising children",
+        "demographic_requirements": "Grandparents and other relatives serving as surrogate parents",
+        "eligibility_summary": "Local community-based agencies providing services to relative caregivers and their families."
+    },
+    {
+        "grant_title": "K-12 Education Grants",
+        "funding_amount": 1900000,
+        "deadline": null,
+        "eligible_applicant_type": [
+            "Tax-exempt organizations under IRS 501(c)(3)",
+            "Higher education institutions",
+            "Community colleges",
+            "Vocational or trade schools",
+            "Nonprofit organizations"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Mathematics and science education (K-12)",
+        "demographic_requirements": "Students and teachers in K-12 education",
+        "eligibility_summary": "Tax-exempt organizations and educational institutions engaged in pre-collegiate math and/or science education."
+    },
+    {
+        "grant_title": "Civic Connections Program",
+        "funding_amount": 7500,
+        "deadline": "February 26, 2006",
+        "eligible_applicant_type": [
+            "Teams of 3rd-12th grade teachers",
+            "Local community agencies"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Social studies education and community service-learning",
+        "demographic_requirements": "3rd-12th grade students",
+        "eligibility_summary": "Teams of 3rd-12th grade teachers (NCSS members or applicants) partnering with local community agencies."
+    },
+    {
+        "grant_title": "We the People Bookshelf Program",
+        "funding_amount": null,
+        "deadline": "January 17, 2006",
+        "eligible_applicant_type": [
+            "Public libraries",
+            "School (K-12) libraries"
+        ],
+        "geographic_restrictions": "United States",
+        "project_area": "Literature and American history education",
+        "demographic_requirements": "Young people (K-12)",
+        "eligibility_summary": "Public and school (K-12) libraries applying to receive free books focused on American history."
+    }
+]

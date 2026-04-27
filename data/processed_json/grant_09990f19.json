@@ -4,11 +4,11 @@
     "deadline": null,
     "eligible_applicant_type": [
         "non-profit organizations",
-        "community partners",
+        "community development organizations",
         "housing developers"
     ],
-    "geographic_restrictions": "Madison, Wisconsin",
-    "project_area": "Affordable Rental Housing Development",
-    "demographic_requirements": "Not explicitly stated; likely targets low-income households based on project area",
-    "eligibility_summary": "Funds are available to eligible community partners through a Request for Proposals (RFP) process. Eligibility criteria are outlined in the RFP, which includes application process details and funding availability. Specific applicant types include non-profit organizations, community partners, and housing developers focused on affordable rental housing."
+    "geographic_restrictions": "City of Madison, Wisconsin",
+    "project_area": "Affordable rental housing development",
+    "demographic_requirements": "Projects must serve low- to moderate-income households in Madison",
+    "eligibility_summary": "Eligible applicants include non-profit organizations, community development organizations, and housing developers focused on affordable rental housing in Madison. Funding is available through a competitive Request for Proposals (RFP) process administered by the Community Development Division (CDD)."
 }

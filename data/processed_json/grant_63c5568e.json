@@ -1,16 +1,14 @@
 {
-    "grant_title": "Community Development Block Grant (CDBG) Annual Action Plan FY 2026",
-    "funding_amount": 2503410,
-    "deadline": "May 16, 2026",
+    "grant_title": "Lilley\u2019s Place New Construction Senior Housing",
+    "funding_amount": 750000,
+    "deadline": "December 10, 2025",
     "eligible_applicant_type": [
-        "Non-profit organizations",
         "Local governments",
-        "Public agencies",
-        "Community-based organizations",
-        "Residents (for public comment)"
+        "Non-profit organizations",
+        "Housing developers"
     ],
-    "geographic_restrictions": "Camden County, New Jersey",
-    "project_area": "Community development, housing, public facilities, public services, and economic development",
-    "demographic_requirements": "Extremely low-, low-, and moderate-income households; homeless persons; persons with special needs",
-    "eligibility_summary": "Funds are allocated to improve housing and living conditions for low- and moderate-income residents, upgrade public facilities, expand public services, and promote economic development. Eligible applicants include non-profits, local governments, and public agencies operating within Camden County. Public input is encouraged during the review period."
+    "geographic_restrictions": "Camden County, NJ (specifically Cherry Hill Township)",
+    "project_area": "Affordable housing development for seniors",
+    "demographic_requirements": "Low-income seniors (62+ years old)",
+    "eligibility_summary": "Funding is available for the construction of a new 64-unit senior housing complex with 100 parking spaces, including EV charging stations. Eligible applicants include local governments, non-profits, and housing developers. The project must serve low-income seniors in Camden County, NJ."
 }

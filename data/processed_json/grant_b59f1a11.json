@@ -1,0 +1,16 @@
+{
+    "grant_title": null,
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "property owners",
+        "long-time tenants",
+        "commercial entities",
+        "industrial entities",
+        "small businesses generating hazardous waste"
+    ],
+    "geographic_restrictions": "Connecticut",
+    "project_area": "environmental cleanup and redevelopment of brownfields",
+    "demographic_requirements": "None specified; applicable to property owners and tenants in Connecticut",
+    "eligibility_summary": "Eligible applicants include property owners, long-time tenants, commercial and industrial entities, and small businesses generating hazardous waste in Connecticut. The new regulations require reporting, investigation, and remediation of pollution when discovered, targeting long-dormant properties not previously enrolled in state cleanup programs."
+}

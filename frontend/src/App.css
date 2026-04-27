@@ -1,113 +1,261 @@
+:root {
+  --primary-color: #4f46e5;
+  --primary-hover: #4338ca;
+  --bg-color: #f8fafc;
+  --chat-bg: #ffffff;
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+  --bot-bubble: #f1f5f9;
+  --user-bubble: #4f46e5;
+  --border-color: #e2e8f0;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
 .App {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   min-height: 100vh;
   padding: 20px;
-  box-sizing: border-box;
 }
 
-.App-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.upenn-logo {
-  height: 60px;
-  margin-bottom: 10px;
-}
-
-.App-header h1 {
-  font-size: 2rem;
-  color: #333;
-  margin: 0;
-}
-
-.chat-container {
-  max-width: 600px;
+.app-wrapper {
   width: 100%;
-  border: 1px solid #ccc;
-  height: 70vh;
+  max-width: 800px;
   display: flex;
   flex-direction: column;
-  border-radius: 10px;
+  gap: 20px;
+}
+
+/* Header Styling */
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 0 10px;
+}
+
+.header-icon {
+  font-size: 3rem;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text-main);
+  letter-spacing: -0.5px;
+}
+
+.header-text p {
+  margin: 4px 0 0 0;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+/* Chat Container */
+.chat-container {
+  background-color: var(--chat-bg);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05), 0 4px 6px rgba(0, 0, 0, 0.02);
+  border: 1px solid var(--border-color);
+  height: 70vh;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .chat-messages {
   flex: 1;
   overflow-y: auto;
-  padding: 10px;
+  padding: 24px;
   display: flex;
   flex-direction: column;
+  gap: 16px;
+  scroll-behavior: smooth;
 }
 
-.message {
-  margin: 5px 0;
-  padding: 10px;
-  border-radius: 10px;
-  max-width: 70%;
-  white-space: pre-wrap;
-  word-wrap: break-word;
+.welcome-placeholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: var(--text-muted);
+  font-style: italic;
 }
 
-.message.user {
-  background-color: #007bff;
-  color: white;
+/* Message Rows and Avatars */
+.message-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  max-width: 85%;
+}
+
+.row-user {
   align-self: flex-end;
-  margin-left: auto;
+  flex-direction: row;
 }
 
-.message.bot {
-  background-color: #f1f1f1;
+.row-bot {
   align-self: flex-start;
 }
 
-.chat-input {
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
   display: flex;
-  padding: 10px;
-  border-top: 1px solid #ccc;
-  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: bold;
+  flex-shrink: 0;
 }
 
-.chat-input input {
-  flex: 1;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+.bot-avatar {
+  background-color: #cbd5e1;
+  color: #334155;
 }
 
-.chat-input input:disabled {
-  background-color: #f5f5f5;
-}
-
-.chat-input button {
-  padding: 10px 20px;
-  margin-left: 10px;
-  background-color: #007bff;
+.user-avatar {
+  background-color: var(--primary-color);
   color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
 }
 
-.chat-input button:hover:not(:disabled) {
-  background-color: #0056b3;
+/* Bubbles */
+.message-bubble {
+  padding: 14px 18px;
+  border-radius: 18px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
-.chat-input button:disabled {
-  background-color: #ccc;
+.message-line {
+  min-height: 1em;
+}
+
+.message-bubble.bot {
+  background-color: var(--bot-bubble);
+  color: var(--text-main);
+  border-bottom-left-radius: 4px;
+}
+
+.message-bubble.user {
+  background-color: var(--user-bubble);
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+.message-bubble.error {
+  background-color: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #f87171;
+}
+
+/* Input Area */
+.chat-input-area {
+  display: flex;
+  padding: 16px;
+  gap: 10px;
+  background-color: var(--chat-bg);
+  border-top: 1px solid var(--border-color);
+}
+
+.chat-input-area input {
+  flex: 1;
+  padding: 14px 20px;
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+  background-color: #f8fafc;
+}
+
+.chat-input-area input:focus {
+  border-color: var(--primary-color);
+  background-color: white;
+}
+
+.chat-input-area input:disabled {
+  background-color: #e2e8f0;
   cursor: not-allowed;
 }
 
-.reset-button {
-  background-color: #6c757d;
+/* Buttons */
+.btn-send, .btn-reset {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
 }
 
-.reset-button:hover:not(:disabled) {
-  background-color: #5a6268;
+.btn-send {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.btn-send:hover:not(:disabled) {
+  background-color: var(--primary-hover);
+  transform: translateY(-2px);
+}
+
+.btn-send:disabled {
+  background-color: #94a3b8;
+  cursor: not-allowed;
+}
+
+.btn-reset {
+  background-color: #f1f5f9;
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+}
+
+.btn-reset:hover:not(:disabled) {
+  background-color: #e2e8f0;
+  color: #ef4444;
+}
+
+.btn-send svg, .btn-reset svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Typing Indicator Animation */
+.typing-indicator {
+  display: flex;
+  gap: 4px;
+  padding: 16px 20px !important;
+  align-items: center;
+}
+
+.typing-indicator span {
+  width: 6px;
+  height: 6px;
+  background-color: #94a3b8;
+  border-radius: 50%;
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+.typing-indicator span:nth-child(1) { animation-delay: -0.32s; }
+.typing-indicator span:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
 }

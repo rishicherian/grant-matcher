@@ -57,6 +57,9 @@ def location_match_score(user_location: str, grant_location: str) -> Dict[str, A
     user_location = normalize_location(user_location)
     grant_location = normalize_location(grant_location)
 
+    if not user_location:
+        return {"matched": True, "score": 1, "reason": "User location was not provided, so it was not used strictly."}
+        
     if not grant_location or grant_location == "not specified":
         return {"matched": True, "score": 1, "reason": "Grant does not specify geographic restrictions."}
 
@@ -78,7 +81,7 @@ def applicant_type_match_score(user_type: str, grant_type: str) -> Dict[str, Any
         return {"matched": True, "score": 1, "reason": "Grant does not clearly specify applicant type restrictions."}
 
     if not user_type:
-        return {"matched": False, "score": 0, "reason": "User applicant type was not provided."}
+        return {"matched": True, "score": 1, "reason": "User applicant type was not provided, so it was not used strictly."}
 
     synonym_groups = [
         {"student", "college student", "undergraduate", "graduate student"},
@@ -170,13 +173,20 @@ def budget_match_score(budget_needed: Any, funding_amount: Any) -> Dict[str, Any
     if grant_budget is None:
         return {"matched": True, "score": 1, "reason": "Grant funding amount was not specified."}
 
+    if user_budget > (grant_budget * 5):
+        return {
+            "matched": False, 
+            "score": 0, 
+            "reason": f"Feasibility Veto: You requested ${user_budget:,.2f}, but this grant caps at strictly ${grant_budget:,.2f}."
+        }
+
     if grant_budget >= user_budget:
         return {"matched": True, "score": 3, "reason": "Grant funding amount covers the requested budget."}
 
     if grant_budget >= 0.7 * user_budget:
         return {"matched": True, "score": 1, "reason": "Grant funding amount is below the request, but still somewhat close."}
 
-    return {"matched": False, "score": 0, "reason": "Grant funding amount is much lower than the requested budget."}
+    return {"matched": False, "score": 0, "reason": "Grant funding amount is lower than the requested budget."}
 
 
 def evaluate_single_grant(
@@ -216,9 +226,9 @@ def evaluate_single_grant(
     eligible_reasons = [check["reason"] for check in checks.values() if check["matched"]]
     ineligible_reasons = [check["reason"] for check in checks.values() if not check["matched"]]
 
-    # Softer threshold: 6 or more points counts as eligible
-    # This allows some imperfect matches through.
-    eligible = total_score >= 6
+    is_hard_mismatch = not checks["location"]["matched"] or not checks["applicant_type"]["matched"]
+
+    eligible = (total_score >= 6) and not is_hard_mismatch
 
     return {
         "id": grant.get("id", "unknown"),
@@ -246,17 +256,6 @@ def filter_grants_by_profile(
 
     eligible = [grant for grant in evaluated if grant["eligible"]]
     ineligible = [grant for grant in evaluated if not grant["eligible"]]
-
-    # fallback: if nothing qualifies, still return the top 3 closest matches as eligible-like suggestions
-    if not eligible and evaluated:
-        fallback = evaluated[:3]
-        for grant in fallback:
-            grant["eligible"] = True
-            grant["eligible_reasons"].append(
-                "This grant was included as a closest partial match even though it was not a perfect fit."
-            )
-        eligible = fallback
-        ineligible = evaluated[3:]
 
     return {
         "eligible": eligible,

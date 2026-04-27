@@ -1,15 +1,14 @@
 {
-    "grant_title": "NIH CEAL grant",
+    "grant_title": "COVID-19 Relief & Recovery Fund",
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "non-profit organizations",
-        "community-based organizations",
-        "academic institutions",
-        "local government agencies"
+        "nonprofits",
+        "informal community groups",
+        "smaller organizations"
     ],
-    "geographic_restrictions": "Philadelphia, Chester, Delaware, Montgomery counties",
-    "project_area": "COVID-19 testing, vaccine uptake, and therapeutics disparities mitigation",
-    "demographic_requirements": "Focus on underserved and marginalized communities in Philadelphia and surrounding counties",
-    "eligibility_summary": "Open to organizations and institutions working to address COVID-19 disparities in testing, vaccine uptake, and therapeutics, with a focus on community engagement and equity in Philadelphia and the surrounding counties."
+    "geographic_restrictions": "Chester, Delaware, Montgomery, and Philadelphia counties",
+    "project_area": "Community support and COVID-19 relief efforts",
+    "demographic_requirements": "Inclusive and accessible to smaller organizations and informal groups, with recommendations from community investment advisors who live and work in the community",
+    "eligibility_summary": "Organizations doing work in the community, with a focus on inclusivity and accessibility for smaller and informal groups. Priority given to recommendations from community investment advisors representing specific counties."
 }

@@ -3,12 +3,10 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "Nonprofit organizations",
-        "Community-based organizations",
-        "Educational institutions"
+        "Nonprofit organizations"
     ],
     "geographic_restrictions": "Jersey City, NJ",
-    "project_area": "Youth programming focused on STEAM (Science, Technology, Engineering, Arts, Mathematics), mental health, and equity-centered community engagement",
-    "demographic_requirements": "Programs must support youth and families in Jersey City, with a focus on equity and accessibility for underserved communities",
-    "eligibility_summary": "Open to Jersey City-based nonprofits, community organizations, and educational institutions with programs addressing opioid prevention through STEAM, youth mental health, and equity-centered engagement. Applicants must demonstrate strong program design, measurable impact, and organizational capacity. Funding tiers include Summer, Schoolyear, and Year-Long Programming with awards ranging from $7,000 to $46,500."
+    "project_area": "Youth programming, STEAM education, mental health, and equity-centered community engagement",
+    "demographic_requirements": "Focus on youth and families in Jersey City, with an emphasis on equity and community engagement",
+    "eligibility_summary": "Open to Jersey City-based nonprofit organizations with programs addressing opioid prevention through STEAM, youth mental health, and equity-centered initiatives. Applicants must demonstrate strong program design, measurable impact, and organizational capacity."
 }

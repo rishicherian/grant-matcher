@@ -1,0 +1,16 @@
+{
+    "grant_title": null,
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "individuals with disabilities",
+        "low-income families with children",
+        "seniors",
+        "veterans",
+        "caregivers"
+    ],
+    "geographic_restrictions": "Rhode Island residents",
+    "project_area": "Assistance for disabled individuals across multiple domains including health, housing, utilities, food, transportation, legal services, clothing, business support, and veterans/seniors programs",
+    "demographic_requirements": "Must be a Rhode Island resident with a disability or meet income/resource limits for specific programs (e.g., SSI, Medicaid, SNAP). Some programs have additional criteria such as age (e.g., Medicare for 65+), veteran status, or caregiver status.",
+    "eligibility_summary": "Eligibility varies by program but generally requires Rhode Island residency, proof of disability (where applicable), and meeting income/resource thresholds. Specific programs may have additional requirements such as work participation (Rhode Island Works), medical certification (TDI), or veteran status (DAV, OVS)."
+}

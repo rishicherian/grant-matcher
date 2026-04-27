@@ -6,7 +6,7 @@ from core.ranker import rank_and_explain
 
 
 def run_project_stage(project_info: Dict[str, Any]) -> Dict[str, Any]:
-    project_matches = find_project_matches(project_info, n_results=10)
+    project_matches = find_project_matches(project_info, n_results=5)
 
     return {
         "success": True,

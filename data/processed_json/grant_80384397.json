@@ -1,12 +1,12 @@
 {
-    "grant_title": "NewportFed Charitable Foundation Grants",
+    "grant_title": "NewportFed Charitable Foundation Grant",
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
         "501c3 tax-exempt organizations"
     ],
-    "geographic_restrictions": "Not explicitly stated (assumed to be local/regional based on context)",
+    "geographic_restrictions": "Not explicitly stated; likely local to NewportFed's service area (assumed to be Newport, RI or surrounding areas based on name)",
     "project_area": "Health and human services, community development, and education",
-    "demographic_requirements": "Not explicitly stated",
-    "eligibility_summary": "Only 501c3 tax-exempt organizations are eligible. Funding excludes individuals, political causes, and sectarian causes. Exceptions may be made for emergencies (e.g., natural disasters)."
+    "demographic_requirements": "Not explicitly stated; funding prioritizes non-profit organizations serving community needs",
+    "eligibility_summary": "Only 501c3 tax-exempt organizations are eligible. Excludes funding for individuals, political causes, and sectarian causes. Exceptions may be made for emergencies (e.g., natural disasters)."
 }

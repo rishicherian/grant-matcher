@@ -3,14 +3,13 @@
     "funding_amount": null,
     "deadline": null,
     "eligible_applicant_type": [
-        "government agencies",
+        "state agencies",
+        "local governments",
         "non-profit organizations",
-        "local municipalities",
-        "regional planning commissions",
-        "transportation authorities"
+        "private sector entities"
     ],
     "geographic_restrictions": "New Jersey",
     "project_area": "Shared use paths, trails, and greenways development and funding",
-    "demographic_requirements": "None specified; focus on community well-being and accessibility for all users",
-    "eligibility_summary": "Open to government agencies, non-profits, local municipalities, and regional planning commissions in New Jersey seeking to advance shared use paths, trails, and greenways. Focus on funding opportunities, planning, and implementation."
+    "demographic_requirements": "Not explicitly stated; likely open to all demographics but focused on community well-being and accessibility",
+    "eligibility_summary": "Eligible applicants include state agencies, local governments, non-profit organizations, and private sector entities involved in trail and shared-use path development in New Jersey. The report provides insights into funding opportunities and best practices for advancing such projects."
 }

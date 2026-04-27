@@ -1,15 +1,14 @@
 {
-    "grant_title": "Grants and Cooperative Agreements to USA Agencies, Tribes, and IHEs in Multiple States to Develop Government and Tribal Wetland Programs",
+    "grant_title": "Grants to Connecticut Nonprofits, Schools, and Agencies for Projects to Benefit the Community",
     "funding_amount": null,
-    "deadline": "04/24/26",
+    "deadline": "05/04/26",
     "eligible_applicant_type": [
-        "Government",
-        "Tribal Organizations",
-        "Interstate Agencies",
-        "Institutions of Higher Education (IHEs)"
+        "Nonprofits",
+        "Schools",
+        "Agencies"
     ],
-    "geographic_restrictions": "Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont (USA)",
-    "project_area": "Wetland program development and conservation",
+    "geographic_restrictions": "Connecticut, USA",
+    "project_area": "Community benefit programs (health, social services, environment, education, arts and culture)",
     "demographic_requirements": "None specified",
-    "eligibility_summary": "Grants are available to government agencies, tribes, interstate agencies, and institutions of higher education in Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont to develop and enhance wetland programs."
+    "eligibility_summary": "Open to Connecticut nonprofit organizations, schools, and agencies for projects benefiting local communities in eligible locations. Funding areas include health, social services, environment, education, and arts and culture."
 }

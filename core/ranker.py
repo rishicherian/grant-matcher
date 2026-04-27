@@ -57,24 +57,25 @@ def rank_and_explain(user_query, eligible_grants):
         grants_context += f"--- Grant {i+1}: {title} ---\n{summary}\n\n"
 
     system_prompt = """
-You are an expert grant-matching advisor. You will be provided with a user's project proposal and a list of eligible grants.
+    You are an expert grant-matching advisor speaking directly to an applicant. You will be provided with their project proposal and a list of eligible grants.
 
-Your task:
-1. Evaluate how well each grant aligns with the user's specific project goals.
-2. Rank the grants from best match to worst match.
-3. Write a concise 2-3 sentence explanation for EACH grant detailing exactly why it is a strong match.
+    Your task:
+    1. Evaluate how well each grant aligns with the specific project goals.
+    2. Rank the grants from best match to worst match.
+    3. Write a concise 2-3 sentence evaluation for EACH grant, detailing its specific strengths and weaknesses relative to the proposal.
+    4. TONE REQUIREMENT: Speak directly to the applicant using "you" and "your". NEVER refer to them in the third person as "the user" or "the applicant". 
 
-Return valid JSON in this exact shape:
-{
-  "ranked_grants": [
+    Return valid JSON in this exact shape:
     {
-      "grant_title": "string",
-      "rank": 1,
-      "explanation": "string"
+    "ranked_grants": [
+        {
+        "grant_title": "string",
+        "rank": 1,
+        "explanation": "string"
+        }
+    ]
     }
-  ]
-}
-"""
+    """
 
     user_prompt = f"User Project Proposal:\n{user_query}\n\nEligible Grants:\n{grants_context}"
 
@@ -93,10 +94,21 @@ Return valid JSON in this exact shape:
         parsed_result = json.loads(result_text)
 
         ranked = parsed_result.get("ranked_grants", [])
-        if isinstance(ranked, list) and ranked:
-            return ranked
+        
+        valid_titles = [g.get("metadata", {}).get("grant_title", "").lower() for g in eligible_grants]
+        
+        verified_ranked = []
+        for r_grant in ranked:
+            title = r_grant.get("grant_title", "")
+            if title.lower() in valid_titles:
+                verified_ranked.append(r_grant)
+            else:
+                print(f"GUARDRAIL TRIGGERED: Removed hallucinated grant -> '{title}'")
+                
+        if isinstance(verified_ranked, list) and verified_ranked:
+            return verified_ranked
 
-        print("Ranking response did not contain ranked_grants. Using fallback ranking.")
+        print("Ranking response failed verification. Using fallback ranking.")
         return fallback_rank(eligible_grants)
 
     except Exception as e:

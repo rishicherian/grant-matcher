@@ -5,13 +5,10 @@
     "eligible_applicant_type": [
         "individuals",
         "organizations serving the Bridgeport community",
-        "departments of the City\u2019s government referenced in the CEBA",
-        "501(c)(3) organizations",
-        "non-profit organizations",
-        "partnerships"
+        "departments of the City\u2019s government referenced in the CEBA"
     ],
-    "geographic_restrictions": "Primarily neighborhoods surrounding Bridgeport Harbor Station (South End, West End, West Side, Black Rock, East Side, East End), but may include any worthy projects within Bridgeport.",
+    "geographic_restrictions": "Projects must primarily benefit the neighborhoods surrounding Bridgeport Harbor Station (South End, West End, West Side, Black Rock, East Side, East End) or anywhere in Bridgeport. The ETF interprets the CEBA as allowing support for worthy projects anywhere in Bridgeport.",
     "project_area": "Environmental justice, public health, air quality improvement, infrastructure, health services, outreach, education, energy efficiency, and community well-being in Bridgeport.",
-    "demographic_requirements": "Projects must address the needs of underserved and vulnerable populations in Bridgeport, particularly those affected by environmental injustices near Bridgeport Harbor Station.",
-    "eligibility_summary": "Open to individuals, organizations, and city departments serving Bridgeport. Proposals must advance environmental justice goals, demonstrate long-term public benefit, and may include leveraged funding from non-local sources. Organizations previously funded may reapply with new project outcomes."
+    "demographic_requirements": "Proposals must advance the intents of the US Environmental Justice Act, focusing on achieving maximum public health and environmental benefit for underserved and vulnerable populations in Bridgeport, particularly in neighborhoods surrounding Bridgeport Harbor Station.",
+    "eligibility_summary": "Open to individuals, organizations serving Bridgeport, and City government departments referenced in the CEBA. Applicants must propose new project outcomes and accomplishments. Formal applicants do not need to be 501(c)(3) but should consider tax implications. Partnerships are encouraged. Proposals must address long-term public benefit and environmental justice, with favorable consideration given to those leveraging additional non-local funding sources."
 }
