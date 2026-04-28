@@ -53,9 +53,29 @@ def build_vector_db():
             grant_id = filename.replace(".json", "")
             
             title = grant_data.get('grant_title', '')
-            if not title or title.lower() == "not specified" or title.lower() == "null":
-                print(f"Skipping {filename}: Missing valid grant title.")
-                continue
+
+            if not title or str(title).lower() in ["not specified", "null", "none", ""]:
+                # Generate fallback title
+                fallback_parts = []
+
+                project_area = grant_data.get("project_area")
+                if project_area and project_area != "Not specified":
+                    fallback_parts.append(project_area.title())
+
+                demographic = grant_data.get("demographic_requirements")
+                if demographic and demographic != "Not specified":
+                    fallback_parts.append(demographic.title())
+
+                organization = grant_data.get("organization_name")
+                if organization and organization != "Not specified":
+                    fallback_parts.append(organization)
+
+                if fallback_parts:
+                    title = " / ".join(fallback_parts) + " Grant"
+                else:
+                    title = f"Grant Opportunity ({grant_id})"
+
+                print(f"Generated fallback title for {filename}: {title}")
             
             searchable_text = f"Title: {title}\n"
             searchable_text += f"Project Area: {grant_data.get('project_area', '')}\n"
@@ -64,6 +84,10 @@ def build_vector_db():
             
             clean_metadata = {}
             for key, value in grant_data.items():
+                if key == "grant_title":
+                    clean_metadata[key] = title  # <-- force correct title
+                    continue
+
                 if value is None or value == "":
                     clean_metadata[key] = "Not specified"
                 elif isinstance(value, list):

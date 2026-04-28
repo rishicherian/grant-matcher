@@ -59,9 +59,13 @@ def location_match_score(user_location: str, grant_location: str) -> Dict[str, A
 
     if not user_location:
         return {"matched": True, "score": 1, "reason": "User location was not provided, so it was not used strictly."}
-        
+
     if not grant_location or grant_location == "not specified":
         return {"matched": True, "score": 1, "reason": "Grant does not specify geographic restrictions."}
+
+    national_terms = ["united states", "us", "usa", "national", "nationwide"]
+    if any(term in grant_location for term in national_terms):
+        return {"matched": True, "score": 3, "reason": "Grant appears to be nationally available."}
 
     if user_location in grant_location or grant_location in user_location:
         return {"matched": True, "score": 3, "reason": "Location strongly matches the grant's geography."}
@@ -71,7 +75,6 @@ def location_match_score(user_location: str, grant_location: str) -> Dict[str, A
         return {"matched": True, "score": 2, "reason": "Location partially matches the grant's geography."}
 
     return {"matched": False, "score": 0, "reason": "Location does not match the grant's geographic restrictions."}
-
 
 def applicant_type_match_score(user_type: str, grant_type: str) -> Dict[str, Any]:
     user_type = normalize_text(user_type)
@@ -84,17 +87,25 @@ def applicant_type_match_score(user_type: str, grant_type: str) -> Dict[str, Any
         return {"matched": True, "score": 1, "reason": "User applicant type was not provided, so it was not used strictly."}
 
     synonym_groups = [
-        {"student", "college student", "undergraduate", "graduate student"},
+        {"student", "college student", "undergraduate", "graduate student", "student researcher"},
         {"nonprofit", "non-profit", "501c3", "501(c)(3)", "charity"},
         {"individual", "person", "resident", "citizen"},
-        {"researcher", "faculty", "scholar", "academic"},
-        {"university", "college", "higher education"},
+        {"researcher", "faculty", "scholar", "academic", "research team"},
+        {"university", "college", "higher education", "institution of higher education"},
         {"business", "startup", "company", "small business", "entrepreneur"},
     ]
 
+    user_group_match = None
+    grant_group_match = None
+
     for group in synonym_groups:
-        if user_type in group and any(term in grant_type for term in group):
-            return {"matched": True, "score": 3, "reason": "Applicant type matches through an equivalent category."}
+        if any(term in user_type for term in group):
+            user_group_match = group
+        if any(term in grant_type for term in group):
+            grant_group_match = group
+
+    if user_group_match is not None and grant_group_match is not None and user_group_match == grant_group_match:
+        return {"matched": True, "score": 3, "reason": "Applicant type matches through an equivalent category."}
 
     if user_type in grant_type or grant_type in user_type:
         return {"matched": True, "score": 3, "reason": "Applicant type directly matches."}
@@ -104,7 +115,6 @@ def applicant_type_match_score(user_type: str, grant_type: str) -> Dict[str, Any
         return {"matched": True, "score": 2, "reason": "Applicant type partially matches the grant requirements."}
 
     return {"matched": False, "score": 0, "reason": "Applicant type does not match the grant's eligible applicant type."}
-
 
 def project_area_match_score(project_area: str, grant_area: str, summary_text: str) -> Dict[str, Any]:
     project_area = normalize_text(project_area)
@@ -226,9 +236,13 @@ def evaluate_single_grant(
     eligible_reasons = [check["reason"] for check in checks.values() if check["matched"]]
     ineligible_reasons = [check["reason"] for check in checks.values() if not check["matched"]]
 
-    is_hard_mismatch = not checks["location"]["matched"] or not checks["applicant_type"]["matched"]
+    failed_core_checks = 0
+    if not checks["location"]["matched"]:
+        failed_core_checks += 1
+    if not checks["applicant_type"]["matched"]:
+        failed_core_checks += 1
 
-    eligible = (total_score >= 6) and not is_hard_mismatch
+    eligible = (total_score >= 5) and (failed_core_checks < 2)
 
     return {
         "id": grant.get("id", "unknown"),
