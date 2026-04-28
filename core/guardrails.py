@@ -38,6 +38,7 @@ IMPORTANT:
 - Broad or vague answers (e.g., "technology", "startups", "health", "research") are STILL VALID
 - Do NOT reject something just because it is general, unclear, or early-stage
 - Do NOT require the project to be nonprofit or academic
+- If user is describing their demographics / project location and it is outside Northeast United States, it is NOT VALID
 
 INVALID inputs include:
 - Requests unrelated to grants or funding (e.g., jokes, recipes, random trivia)

@@ -127,6 +127,24 @@ async def query_agent(data: dict):
 
     stage = stages[current_stage]
 
+    bypass_words = {"n/a", "optional", "yes", "no", "y", "n", "sure", "ok", "yes please"}
+    
+    if message and message.lower() not in bypass_words:
+        guardrail_result = validate_user_prompt(message)
+        
+        if not guardrail_result.get("is_valid", True):
+            reason = guardrail_result.get("reason", "Please keep your responses focused on grant matching.")
+            return {
+                "type": "question",
+                "question": f"⚠️ **Off-Topic Detected:** {reason}\n\nLet's try again: {stage['questions'][current_question]['question']}",
+                "project_info": project_info,
+                "user_profile": user_profile,
+                "project_matches": project_matches,
+                "eligible_grants": eligible_grants,
+                "current_stage": current_stage,
+                "current_question": current_question,
+            }
+
     if stage["name"] == "project_info":
         if not message:
             return {
@@ -139,22 +157,6 @@ async def query_agent(data: dict):
                 "current_stage": 0,
                 "current_question": 0,
             }
-        
-        if current_question in [0, 1] and message.lower() != "optional":
-            guardrail_result = validate_user_prompt(message)
-            
-            if not guardrail_result.get("is_valid", True):
-                reason = guardrail_result.get("reason", "Please keep your responses focused on grant matching.")
-                return {
-                    "type": "question",
-                    "question": f"⚠️ **Off-Topic Detected:** {reason}\n\nLet's try again: {stage['questions'][current_question]['question']}",
-                    "project_info": project_info,
-                    "user_profile": user_profile,
-                    "project_matches": [],
-                    "eligible_grants": [],
-                    "current_stage": current_stage,
-                    "current_question": current_question,
-                }
 
         field_name = stage["questions"][current_question]["name"]
         project_info[field_name] = "" if message.lower() == "optional" else message

@@ -19,12 +19,30 @@ def parse_money(value: Any) -> Optional[float]:
     if not text or text == "not specified":
         return None
 
-    matches = re.findall(r"\d[\d,]*\.?\d*", text)
+    multiplier = 1
+    if "billion" in text:
+        multiplier = 1_000_000_000
+    elif "million" in text:
+        multiplier = 1_000_000
+    elif "thousand" in text:
+        multiplier = 1_000
+
+    matches = re.findall(r"(\d[\d,]*\.?\d*)\s*([kmb])?", text)
     if not matches:
         return None
 
     try:
-        return float(matches[0].replace(",", ""))
+        num_str, suffix = matches[0]
+        base_number = float(num_str.replace(",", ""))
+        
+        if suffix == 'k' and multiplier == 1:
+            multiplier = 1_000
+        elif suffix == 'm' and multiplier == 1:
+            multiplier = 1_000_000
+        elif suffix == 'b' and multiplier == 1:
+            multiplier = 1_000_000_000
+            
+        return base_number * multiplier
     except ValueError:
         return None
 
