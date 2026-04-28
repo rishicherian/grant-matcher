@@ -24,7 +24,7 @@ grant-matcher/
 
 ## Quick start
 
-1. Create and activate virtual eviroment
+1. Create and activate virtual eviroment:
 
 ```bash
 python3 -m venv venv
@@ -53,14 +53,14 @@ python3 -m core.data_parser
 python3 -m core.build_db
 ```
 
-5. run the application
+5. Run the application:
 
-start backend (FastApi), runs on port 8001
+Start backend (FastApi), runs on port 8001
 ```bash
 python3 -m uvicorn api:app --reload --port 8001
 ```
 
-start frontend (react), runs on http://localhost:3000
+Start frontend (React), runs on http://localhost:3000
 ```bash
 cd frontend
 npm install
