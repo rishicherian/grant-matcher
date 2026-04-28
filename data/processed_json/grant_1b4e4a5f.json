@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "2025 Affordable Housing Development & HOME-ARP RFP",
+    "funding_amount": null,
+    "deadline": "July 23, 2025",
+    "eligible_applicant_type": [
+        "developers",
+        "non-profits",
+        "housing service providers"
+    ],
+    "geographic_restrictions": "City of Rochester, New York",
+    "project_area": "Affordable rental and ownership housing development",
+    "demographic_requirements": "Projects must increase housing for households experiencing homelessness or other eligible Qualified Populations (QP) as defined by HUD HOME-ARP Notice CPD-21-10.",
+    "eligibility_summary": "Open to developers, non-profits, and housing service providers within the City of Rochester, New York. Applicants may apply for HOME funding, HOME-ARP funding, or a combination of the two to support affordable housing projects."
+}

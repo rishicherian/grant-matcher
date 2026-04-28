@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "2026 Specialty Crop Block Grant Program",
+    "funding_amount": 40000,
+    "deadline": "May 14, 2026 @ 5 PM ET",
+    "eligible_applicant_type": [
+        "single organizations",
+        "institutions",
+        "individuals",
+        "small farmers",
+        "packers",
+        "producers"
+    ],
+    "geographic_restrictions": "New Jersey",
+    "project_area": "Specialty crops (vegetables, fruits, nuts, trees, honey, sweet corn, etc.) with a focus on improving nutrition knowledge, consumption, efficiency, and reducing costs in distribution systems",
+    "demographic_requirements": "Benefits all entities in the specialty crop distribution chain, including small farmers, packers, and producers",
+    "eligibility_summary": "Open to single organizations, institutions, individuals, small farmers, packers, and producers in New Jersey. Projects must have measurable outcomes benefiting the public or specialty crop industry, with a focus on nutrition education, efficiency improvements, or cost reduction in distribution systems."
+}

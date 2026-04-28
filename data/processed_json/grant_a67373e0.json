@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Fidelis Care Food Security Grant Program",
+    "funding_amount": 20000,
+    "deadline": "August 6, 2025",
+    "eligible_applicant_type": [
+        "healthcare providers",
+        "community-based organizations"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "food security programs and Food Is Medicine (FIM) practices",
+    "demographic_requirements": "Programs must support food security and integrate access to nutritious food into healthcare delivery to prevent, manage, or treat diet-related diseases.",
+    "eligibility_summary": "Applicants must serve New York State and align with goals of improving health outcomes, reducing healthcare costs, and addressing disparities in nutrition and chronic disease management."
+}

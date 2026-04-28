@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Environmental Justice Community Impact Grants",
+    "funding_amount": 5900000,
+    "deadline": "August 13, 2025",
+    "eligible_applicant_type": [
+        "Community-based organizations",
+        "Not-for-profits",
+        "Tribal Organizations"
+    ],
+    "geographic_restrictions": "New York State, excluding New York City (areas equal to or smaller than a county) or within one of the five boroughs of New York City",
+    "project_area": "Environmental justice and public health concerns, including projects like public participatory science, community-driven water and air quality monitoring, urban farming, habitat restoration, tree plantings, curriculum development, and green infrastructure installation",
+    "demographic_requirements": "Projects must address exposure to multiple environmental harms and risks, include a new research component to expand community knowledge, and serve environmental justice or disadvantaged communities",
+    "eligibility_summary": "Eligible organizations must be located in or serve residents of environmental justice or disadvantaged communities, have a total annual revenue less than $3 million, and be registered/prequalified in the Statewide Financial System (SFS) Grants Management System"
+}

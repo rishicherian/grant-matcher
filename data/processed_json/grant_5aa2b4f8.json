@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Delaware Department of Ag Issues Request for Proposals for 2026 Specialty Crop Grant Program",
+    "funding_amount": 402000,
+    "deadline": "May 18, 2026, 4:30 PM",
+    "eligible_applicant_type": [
+        "Agricultural producers",
+        "Nonprofit organizations",
+        "Government entities",
+        "For-profit companies",
+        "Educational institutions"
+    ],
+    "geographic_restrictions": "Delaware",
+    "project_area": "Specialty crops (fruits, vegetables, tree nuts, dried fruits, horticulture, nursery crops, floriculture) and related market development or research projects",
+    "demographic_requirements": "None specified beyond geographic and project eligibility",
+    "eligibility_summary": "Open to Delaware-based agricultural producers, nonprofits, government entities, for-profit companies, or educational institutions. Projects must benefit the specialty crop industry with measurable outcomes. Excludes field crops (e.g., corn, soybeans) and animal agriculture."
+}

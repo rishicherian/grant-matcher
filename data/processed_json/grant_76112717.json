@@ -1,0 +1,25 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Connecticut Corporate Expansion & Small Business Grants (2026)",
+    "funding_amount": 500000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "C-Corps",
+        "S-Corps",
+        "LLCs",
+        "Startups",
+        "Small Businesses",
+        "Manufacturers",
+        "Tech Companies",
+        "Bioscience Companies",
+        "Aerospace/Defense Companies",
+        "Insurtech/Fintech Companies",
+        "Film/Digital Media Companies",
+        "Minority-Owned Businesses",
+        "Women-Owned Businesses"
+    ],
+    "geographic_restrictions": "Connecticut, USA",
+    "project_area": "Business expansion, job creation, equipment purchase, R&D, innovation, and industry-specific growth (e.g., advanced manufacturing, bioscience, aerospace/defense, insurtech/fintech, film/digital media, offshore wind, digital health, cannabis)",
+    "demographic_requirements": "Priority given to businesses in priority sectors (advanced manufacturing, bioscience/health, insurtech/fintech, film/digital media) and those creating net new jobs with average salaries of $85k+. Specific programs target minority-owned and women-owned businesses.",
+    "eligibility_summary": "Eligible applicants must be registered and operating in Connecticut, in good standing with state tax authorities, and comply with labor and insurance requirements. Specific programs have additional criteria such as job creation thresholds, revenue targets, industry focus, or demographic certifications (e.g., minority or women-owned)."
+}

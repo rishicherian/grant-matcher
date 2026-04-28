@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Determination of Need (DoN) Funding Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "local nonprofits offering community health initiatives"
+    ],
+    "geographic_restrictions": "Massachusetts (US Northeast)",
+    "project_area": "community health initiatives, including access to healthcare, affordable housing, healthy food, mental health services, and social determinants of health",
+    "demographic_requirements": "Priority given to programs serving underserved or vulnerable populations in Worcester County, Massachusetts, including immigrants, refugees, low-income families, and individuals facing mental health or housing challenges",
+    "eligibility_summary": "Nonprofit organizations in Massachusetts are eligible to apply for grants funded through UMass Memorial Medical Center's Determination of Need (DoN) program. The program requires health systems to contribute 5% of building expenses to local nonprofits for community wellness efforts. Eligible applicants must offer programs that align with priority areas such as healthcare access, affordable housing, food security, and mental health services. Applications are reviewed based on community impact and alignment with DoN program goals."
+}

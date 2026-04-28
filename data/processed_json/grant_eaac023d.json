@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Brockport Arts Fund",
+    "funding_amount": null,
+    "deadline": "Rolling deadline",
+    "eligible_applicant_type": [
+        "501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Village of Brockport, NY (14420 zip code)",
+    "project_area": "Public / Community Art, Performing Arts, Arts / Culture Access & Participation",
+    "demographic_requirements": "Projects must foster community engagement and artistic expression.",
+    "eligibility_summary": "Eligible applicants must be 501(c)(3) organizations within the 14420 zip code, focusing on projects that foster community engagement and artistic expression."
+}

@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Innovations in Positive Health Grant",
+    "funding_amount": 40000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Harvard University faculty",
+        "Harvard research scientists",
+        "Hospital-affiliated Harvard faculty"
+    ],
+    "geographic_restrictions": "Harvard University-affiliated researchers (Boston, MA area)",
+    "project_area": "Positive health science or communication and translation sciences related to positive health science",
+    "demographic_requirements": "None specified beyond Harvard affiliation",
+    "eligibility_summary": "Open to Harvard University faculty and research scientists (including hospital-affiliated faculty). Students are not eligible. Projects must integrate multiple disciplines or provide preliminary data for larger grants. Applications are currently closed."
+}

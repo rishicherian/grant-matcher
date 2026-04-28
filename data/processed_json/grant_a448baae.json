@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Artists Respond",
+    "funding_amount": 3000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Individual artists",
+        "Nonprofit organizations",
+        "Community groups"
+    ],
+    "geographic_restrictions": "Connecticut",
+    "project_area": "Arts and Creativity",
+    "demographic_requirements": "Open to all artists and organizations; self-identification survey included for demographic data collection.",
+    "eligibility_summary": "Open to Connecticut-based artists and organizations proposing community-based projects addressing social issues. Applicants must be Connecticut residents or organizations operating in Connecticut."
+}

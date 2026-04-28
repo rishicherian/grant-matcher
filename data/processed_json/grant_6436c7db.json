@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Grants for Change",
+    "funding_amount": 1500000,
+    "deadline": "July 31st, 2024 11:59pm EST",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Community groups",
+        "Coalitions",
+        "Tribal entities"
+    ],
+    "geographic_restrictions": "Maine (Wabanaki Territory)",
+    "project_area": "Racial justice organizing, activism, and community building in Maine, with a focus on dismantling white supremacy, settler colonialism, and racialized capitalism",
+    "demographic_requirements": "BIPOC-led and/or BIPOC-serving organizations, with priority given to Black and Wabanaki-led groups. Organizations must meet at least two of three BIPOC leadership criteria (staff, board, organizers) for the past two years.",
+    "eligibility_summary": "Eligible applicants must work exclusively or primarily in Maine, serve BIPOC communities, be BIPOC-led (with specific criteria), implement racial justice programs, and have an operating budget under $2.5M (exceptions for Wabanaki Tribal entities)."
+}

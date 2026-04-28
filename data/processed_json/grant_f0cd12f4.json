@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "United Way of Southern Maine Annual Giving",
+    "funding_amount": 6000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Community-based organizations"
+    ],
+    "geographic_restrictions": "Southern Maine, specifically York County and Cumberland County (excluding Brunswick and Harpswell)",
+    "project_area": "Educational success and youth opportunity, financial security and stability, health and well-being, child care access, food insecurity, housing instability, mental health services, community resilience, racial equity initiatives",
+    "demographic_requirements": "Must serve residents of York or Cumberland County (excluding Brunswick and Harpswell) and endorse Thrive2027's three ten-year goals (Kids getting a strong start, Neighbors empowered to thrive, People living longer, better lives)",
+    "eligibility_summary": "Organizations must request a minimum of $10,000, serve residents of York or Cumberland County (excluding Brunswick and Harpswell), endorse Thrive2027's goals, and complete a volunteer-led review process. Does not fund general operating expenses, capital campaigns, previously incurred expenses, religious activities, or political lobbying."
+}

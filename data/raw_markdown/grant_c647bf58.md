@@ -1,0 +1,10 @@
+Massachusetts Green Communities Competitive Grant Program Accepting Applications March 24
+=========================================================================================
+Feb 12, 2025
+The Massachusetts Green Communities Competitive Grant Program will be accepting applications beginning on March 24. The program offers valuable funding opportunities for Massachusetts municipalities registered as Green Communities. This corresponding grant funding supports the community’s commitment to sustainability through three distinct pathways: Prescriptive Measures, Traditional Energy Conservation Measures (ECMs), and Building Decarbonization.
+Through the program, communities can submit applications to secure financial assistance that will help cover all or a portion of the costs involved in constructing and implementing innovative energy efficiency projects. The initiative aims to empower communities to enhance their environmental stewardship while promoting smarter energy use and reducing carbon emissions.
+Preference will be given to applicants with a project that limits and/or eliminates the use of fossil fuels through strategic electrification: the powering of buildings and vehicles with electricity instead of fossil fuels increasing efficiency resulting in long-term reduction of greenhouse gas emissions.
+The application opens March 24 at 9 a.m..
+The deadline for  applications is April 4, 2025, at 5 p.m..
+For more information visit: https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-24-1041-ENE01-ENE01-100639&external=true&parentUrl=close
+*Capital Strategic Solutions assists our clients with researching grant opportunities and obtaining grant funding each year by crafting compelling applications and identifying ways to scale effective programs. We offer a full variety of grant writing, management and technical assistance services customized to the needs of our clients. Our team is skilled at overseeing the entire grant lifecycle process, from proposal to closing, including pre-award management, approval process, tracking payments, reviewing budgets, producing relevant reports and post-award contract compliance.*

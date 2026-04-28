@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creative Entrepreneur Accelerator (CEA) Program",
+    "funding_amount": 2000,
+    "deadline": "May 22, 2026",
+    "eligible_applicant_type": [
+        "Individuals",
+        "For-profit micro businesses"
+    ],
+    "geographic_restrictions": "Philadelphia, Bucks, Chester, Delaware, and Montgomery counties in Pennsylvania",
+    "project_area": "Business formation or development in creative industries (e.g., marketing, architecture, visual arts, crafts, design, film and media, digital games, music, entertainment, publishing)",
+    "demographic_requirements": "Applicants must be at least 18 years old, current Pennsylvania residents for at least one year, and demonstrate gross revenue of less than $200,000 from their creative entrepreneur business. Non-profit organizations are not eligible.",
+    "eligibility_summary": "Eligible applicants are creative entrepreneurs (individuals or for-profit micro businesses) in specified creative fields with gross revenue under $200,000, residing in designated Pennsylvania counties. Applicants must not have received CEA funding in the past three years and must complete a mandatory referral meeting with a small business development organization. Non-profits are excluded."
+}

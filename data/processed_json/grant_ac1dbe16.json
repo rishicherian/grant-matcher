@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Resident/Fellow Well-Being Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "residents",
+        "fellows",
+        "trainee clubs",
+        "interest groups"
+    ],
+    "geographic_restrictions": "Maine (US Northeast)",
+    "project_area": "wellness initiatives for medical residents and fellows",
+    "demographic_requirements": "MaineHealth residents, fellows, trainee clubs, or interest groups",
+    "eligibility_summary": "Open to MaineHealth residents, fellows, trainee clubs, and interest groups to fund wellness initiatives such as curriculum development, mindfulness programs, outdoor skills lessons, community-based interventions, or physical fitness programs. Grants typically range from $200 to $500, with larger amounts considered based on merit."
+}

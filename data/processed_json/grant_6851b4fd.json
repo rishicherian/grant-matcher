@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Business Development Financial Assistance Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Small businesses",
+        "Existing businesses"
+    ],
+    "geographic_restrictions": "Business must be located within the City of Rochester, NY, in a commercial building or relocate within the City.",
+    "project_area": "Expansion projects creating new jobs, including purchase of machinery/equipment, working capital expenses (inventory, payroll, utilities, insurance), and building renovations.",
+    "demographic_requirements": "Positions filled by City of Rochester residents preferred; projects providing essential goods/services to low-to-moderate income neighborhoods prioritized.",
+    "eligibility_summary": "Businesses must be located within the City of Rochester, NY. Home-based and non-profit businesses are ineligible. Loans require collateral, personal guarantees from owners with \u226520% ownership, and equity investment by business owners. Grants are reimbursement-based and require cost documentation."
+}

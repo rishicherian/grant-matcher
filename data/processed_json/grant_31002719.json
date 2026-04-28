@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Home4Good",
+    "funding_amount": 1450000,
+    "deadline": "July 15, 2025",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofit organizations"
+    ],
+    "geographic_restrictions": "Delaware (Kent and Sussex Counties)",
+    "project_area": "Homelessness prevention, rapid rehousing, homelessness diversion, homelessness re-entry, and innovative solutions for homelessness",
+    "demographic_requirements": "Individuals and families who are homeless or at-risk of homelessness, including those exiting correctional institutions, living with HIV/AIDS, or in need of street outreach services",
+    "eligibility_summary": "Nonprofit organizations must be 501(c)(3) and have existing programs in homelessness prevention, rapid rehousing, diversion, re-entry, or innovative solutions. Applications must be supported by an FHLBank Pittsburgh member financial institution."
+}

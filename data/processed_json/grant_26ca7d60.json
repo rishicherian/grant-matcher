@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Pennsylvania CDFI Network Historically Disadvantaged Business Assistance Program",
+    "funding_amount": 10500000,
+    "deadline": "February 23, 2024",
+    "eligible_applicant_type": [
+        "Minority-owned small businesses",
+        "Small businesses owned by socially and economically disadvantaged individuals",
+        "Small businesses impacted by COVID-19"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Economic recovery and support for small businesses negatively impacted by COVID-19, with priority given to businesses in low-income census tracts, high-crime municipalities, and designated priority commercial areas.",
+    "demographic_requirements": "Businesses must be at least 51% owned and operated by individuals who identify as African American, Black, Hispanic, Native American, Asian American, or Pacific Islander. Businesses must generate annual revenues of less than $1 million, generate 51% or more of revenues in Pennsylvania, employ 25 or fewer full-time equivalent employees, and have been negatively impacted by COVID-19.",
+    "eligibility_summary": "Eligible businesses must be physically based in Pennsylvania, file a Pennsylvania tax return, be current on federal, state, and local taxes, and not be engaged in ineligible activities such as passive real estate, illegal activities, or political lobbying. Businesses must have been in operation on or before March 17, 2020, and remain operational at the time of application and funding."
+}

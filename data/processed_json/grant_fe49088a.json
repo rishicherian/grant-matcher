@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Historically Disadvantaged Business Assistance (HDBA) Program Micro-Grants",
+    "funding_amount": 15000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "small businesses",
+        "historically disadvantaged entrepreneurs",
+        "startups",
+        "expanding businesses"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Small business startup and expansion costs, capital access, and technical assistance",
+    "demographic_requirements": "Historically disadvantaged entrepreneurs, including Black- and Latino-owned firms",
+    "eligibility_summary": "Open to small businesses in Pennsylvania, with a focus on historically disadvantaged entrepreneurs who face barriers to traditional bank loans. Grants are distributed through regional partners including community lenders, economic development groups, and universities."
+}

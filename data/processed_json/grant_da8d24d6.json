@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Samuel S. Fels Fund Annual Giving",
+    "funding_amount": 1570000,
+    "deadline": "2027",
+    "eligible_applicant_type": [
+        "501(c)(3) organizations",
+        "Organizations using a fiscal sponsor"
+    ],
+    "geographic_restrictions": "City of Philadelphia, Pennsylvania only",
+    "project_area": "Social, racial, and economic justice in Philadelphia; movement building; policy advocacy; systems change; collective healing and joy; power-building for marginalized communities",
+    "demographic_requirements": "Focus on historically excluded communities in Philadelphia",
+    "eligibility_summary": "Nonprofits with 501(c)(3) status or fiscal sponsor, located in or focused on Philadelphia, engaged in social justice, movement building, and/or systems change work."
+}

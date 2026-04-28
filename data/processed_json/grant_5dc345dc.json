@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "NYSDAM FreshConnect CSA for SNAP Grant Program",
+    "funding_amount": 250000,
+    "deadline": "July 22, 2025",
+    "eligible_applicant_type": [
+        "SNAP participants"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Community Supported Agriculture (CSA) for SNAP participants",
+    "demographic_requirements": "SNAP participants",
+    "eligibility_summary": "Provides partial subsidies for weekly CSA share purchases for SNAP participants. Funding available until depleted."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Black Community Leaders Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofits"
+    ],
+    "geographic_restrictions": "Greater Philadelphia",
+    "project_area": "Support for Black-led organizations serving predominantly Black communities",
+    "demographic_requirements": "Black-led (chief executive or board chair identifies as Black) and serving predominantly Black communities",
+    "eligibility_summary": "Nonprofits that are Black-led (chief executive or board chair identifies as Black) and demonstrate commitment to Black inclusion and leadership, serving predominantly Black communities."
+}

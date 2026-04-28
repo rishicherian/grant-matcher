@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "LETS GRO Together Grant",
+    "funding_amount": 500,
+    "deadline": "March 23, 2026",
+    "eligible_applicant_type": [
+        "K-12 teachers of public and private schools",
+        "nonprofit organizations",
+        "other private institutions"
+    ],
+    "geographic_restrictions": "Maryland",
+    "project_area": "School and community garden projects focused on plant science education, including outdoor gardens, in-class plant science activities, hydroponics, vertical greenhouses, irrigation systems, nutrition education, and food preparation with fresh produce.",
+    "demographic_requirements": "Projects must target students, especially those in urban areas, with a primary goal of increasing understanding and appreciation of agriculture through hands-on gardening and classroom activities.",
+    "eligibility_summary": "Open to K-12 teachers, nonprofit organizations, and private institutions with plant science education as a primary goal. Projects must align with Common Core, Environmental Literacy, and NGSS standards and involve youth participation."
+}

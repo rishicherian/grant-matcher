@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Amelia Peabody Foundation Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations"
+    ],
+    "geographic_restrictions": "Massachusetts, primarily outside Greater Boston",
+    "project_area": "Community vitality, children and families support, education enrichment, homelessness, food insecurity, workforce development, childcare access, healthcare access, affordable housing",
+    "demographic_requirements": "Underserved children and families, low-income families",
+    "eligibility_summary": "Nonprofit organizations in Massachusetts (primarily outside Greater Boston) that provide comprehensive services to enhance community vitality, support children and families, and address education, self-sufficiency, workforce development, homelessness, food insecurity, childcare access, healthcare access, or affordable housing."
+}

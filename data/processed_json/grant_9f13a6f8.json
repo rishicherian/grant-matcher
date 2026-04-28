@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Ashe Ashe Cultural Organizing Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Artists",
+        "Organizers",
+        "Culture makers"
+    ],
+    "geographic_restrictions": "City of Boston, Massachusetts",
+    "project_area": "Arts and cultural organizing with a focus on social justice",
+    "demographic_requirements": "BIPOC community members living in, or recently gentrified out of, the City of Boston",
+    "eligibility_summary": "Open to BIPOC artists, organizers, and culture makers who are residents of or recently displaced from Boston, with grants distributed through a participatory process by Ujima Membership."
+}

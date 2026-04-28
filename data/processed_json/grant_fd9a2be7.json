@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "EDGE 2.0 Grant Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Small businesses",
+        "Startups",
+        "Entrepreneurs"
+    ],
+    "geographic_restrictions": "Delaware",
+    "project_area": "Business development, equipment purchase, infrastructure improvement, marketing, and operational expansion",
+    "demographic_requirements": "No specific demographic requirements, but over 50% of awardees have been woman, minority, or veteran-owned small businesses",
+    "eligibility_summary": "Businesses must be less than seven years old, have 15 or fewer full-time employees, and have less than $700,000 in assets. Applicants must demonstrate readiness to compete and a commitment to growth. A 3:1 match formula requires applicants to contribute $1 for every $3 provided by the state."
+}

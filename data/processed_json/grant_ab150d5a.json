@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Rural Health Transformation Grant Program",
+    "funding_amount": 4700000,
+    "deadline": "Friday, May 15, 2026",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Community-based organizations",
+        "Institutions (e.g., schools, hospitals, community organizations)",
+        "Small farms",
+        "Food hubs",
+        "Mobile market operators"
+    ],
+    "geographic_restrictions": "Rural communities in Maryland, USA",
+    "project_area": "Improving access to healthy, locally sourced food; strengthening regional food systems; enhancing food distribution infrastructure; advancing nutrition education; addressing food insecurity in rural communities",
+    "demographic_requirements": "Projects must target rural communities in Maryland, with priority given to rural 'hot spot' communities facing food insecurity",
+    "eligibility_summary": "Open to nonprofit organizations, community-based organizations, institutions (e.g., schools, hospitals), small farms, food hubs, and mobile market operators in rural Maryland. Projects must align with improving food systems, health outcomes, and regional coordination in rural communities."
+}

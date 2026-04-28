@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Undergraduate Research in Comparative Functional Genomics (INBRE)",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Undergraduate students"
+    ],
+    "geographic_restrictions": "Maine (US Northeast)",
+    "project_area": "Biomedical research in comparative functional genomics",
+    "demographic_requirements": "Honors College students at the University of Maine working on Honors theses in biomedical research with INBRE research scientists",
+    "eligibility_summary": "Open to Honors College students at the University of Maine engaged in biomedical research in comparative functional genomics, including thesis, pre-thesis, and summer research fellowships, as well as specific courses (HON 150/155, HON 350) and the Genomics Research Collaborative."
+}

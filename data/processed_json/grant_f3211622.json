@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creative Communities Grant",
+    "funding_amount": 7000,
+    "deadline": "March 30, 2026 (5:00 p.m.)",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofit organizations",
+        "K-12 schools",
+        "municipalities",
+        "tribal entities"
+    ],
+    "geographic_restrictions": "State of Maine",
+    "project_area": "Community-focused arts and/or cultural activities that strengthen local identity and benefit the public",
+    "demographic_requirements": "Projects must be open to the public, accessible to all, and include consideration for underserved or under-resourced communities in the arts",
+    "eligibility_summary": "Applicants must be legally established in Maine (501(c)(3) nonprofits, schools, municipalities, or tribal entities) with a valid UEI number. Projects must be community-based, occur within the grant period (July 1, 2026 \u2013 June 30, 2027), and comply with all state/federal laws and public policy requirements."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Paterson Impact Grant",
+    "funding_amount": 5000,
+    "deadline": "Rolling",
+    "eligible_applicant_type": [
+        "Nonprofits"
+    ],
+    "geographic_restrictions": "Paterson, New Jersey",
+    "project_area": "Community Development",
+    "demographic_requirements": "Grassroots organizations and community leaders in Paterson, New Jersey",
+    "eligibility_summary": "Financial support for innovative projects that enhance neighborhood well-being and empower local residents in Paterson, New Jersey."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Hartford Microenterprise Microgrant Program",
+    "funding_amount": 370000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "microenterprises with five or fewer employees"
+    ],
+    "geographic_restrictions": "Hartford, CT",
+    "project_area": "Small business growth, job creation, and economic development in Hartford",
+    "demographic_requirements": "Priority given to businesses in low-to-moderate income neighborhoods and historically underserved communities",
+    "eligibility_summary": "Open to Hartford-based microenterprises (5 or fewer employees) seeking funding ($2,500-$5,000) and technical support to start, stabilize, or grow their business. Funded through HUD CDBG and ARPA."
+}

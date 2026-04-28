@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "AHC New Construction Request for Proposals Grant",
+    "funding_amount": 75000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "governmental organizations",
+        "non-profit organizations",
+        "charitable organizations"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Affordable housing development, including new construction of owner-occupied homes, acquisition/rehabilitation of homes, and home improvements for low- and moderate-income families.",
+    "demographic_requirements": "Low- and moderate-income families with limited affordable homeownership alternatives in the private market.",
+    "eligibility_summary": "Grants are available for governmental, non-profit, and charitable organizations to subsidize the cost of new construction, rehabilitation, or home improvements for owner-occupied homes in New York State. Maximum grant amount is $75,000 per unit, with a tiered award structure based on affordability depth and length."
+}

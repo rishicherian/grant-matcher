@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Yates County Youth Bureau Grant Information",
+    "funding_amount": null,
+    "deadline": "August 18th, 2025",
+    "eligible_applicant_type": [
+        "Local organizations",
+        "Municipalities",
+        "Local or municipal youth bureaus",
+        "Community based organizations",
+        "Nonprofit entities",
+        "Municipal youth bureaus (under certain circumstances)"
+    ],
+    "geographic_restrictions": "Yates County, New York (US Northeast)",
+    "project_area": "Youth development programs and youth sports funding (physical recreation, team sports, educational support, wellness, civic engagement, family support, juvenile delinquency prevention, crisis intervention, respite services)",
+    "demographic_requirements": "Under-resourced youth under age 18, traditionally underserved or disadvantaged populations, trans or gender-nonconforming youth, girls in sports, youth with disabilities and adaptive needs, smaller grass-roots organizations",
+    "eligibility_summary": "Funding is available for youth development programs and youth sports initiatives in Yates County, NY. Youth development funding supports community-level services promoting positive youth development (e.g., wellness, education, family support, delinquency prevention). Youth sports funding (YSEF and YTS) targets under-resourced youth, with YSEF supporting general sports/physical activities and YTS focusing on team sports, infrastructure, and scholarships. Eligible applicants include local organizations, municipalities, nonprofits, and youth bureaus."
+}

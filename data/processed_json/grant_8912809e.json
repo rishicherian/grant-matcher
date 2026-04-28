@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Higher Education Research Grant Program",
+    "funding_amount": 2000000,
+    "deadline": "Apr 24, 2026",
+    "eligible_applicant_type": [
+        "Public and State controlled institutions of higher education"
+    ],
+    "geographic_restrictions": "New Jersey",
+    "project_area": "Environment",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "New Jersey colleges and universities conducting innovative research and educational projects to improve recycling practices and environmental outcomes."
+}

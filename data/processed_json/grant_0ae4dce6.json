@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Competitive Grant Program",
+    "funding_amount": 10000,
+    "deadline": "March 27, 2026 by noon",
+    "eligible_applicant_type": [
+        "Nonprofit organizations"
+    ],
+    "geographic_restrictions": "Maine (statewide)",
+    "project_area": "Housing-related programs for Maine's most vulnerable households, including housing development, repairs, assistance, and emergency services",
+    "demographic_requirements": "Individuals and families with low, very low, or no income in Maine",
+    "eligibility_summary": "Nonprofit organizations delivering housing-related programs to Maine's most vulnerable households are eligible. Maximum award is $10,000. Applications must be submitted by March 27, 2026, by noon, via email or postal service."
+}

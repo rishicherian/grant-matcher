@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Mini-Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "501(c)(3) organizations",
+        "government agencies",
+        "organizations operating under a fiscal sponsor"
+    ],
+    "geographic_restrictions": "New York City and Westchester County, NY",
+    "project_area": "Health and wellness programs in underserved communities",
+    "demographic_requirements": "Focus on underserved communities",
+    "eligibility_summary": "Registered 501(c)(3), government agency, or fiscal sponsor with annual operating budget under $500,000 and a focus on health and wellness in underserved communities."
+}

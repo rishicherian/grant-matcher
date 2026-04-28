@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "DVLF 2025-2026 Grant Cycle",
+    "funding_amount": null,
+    "deadline": "October 24th",
+    "eligible_applicant_type": [
+        "established institutions",
+        "grassroots organizations"
+    ],
+    "geographic_restrictions": "Philadelphia and Southeastern Pennsylvania, Southern New Jersey, and New Castle County, Delaware",
+    "project_area": "legal and civil rights, arts and culture, education and the humanities, health and social services",
+    "demographic_requirements": "Majority of constituency served must identify as LGBTQ+. Priority given to organizations serving people of color, transgender and gender-nonconforming individuals, and low-income communities.",
+    "eligibility_summary": "Non-profit organizations serving the LGBTQ+ community in the specified geographic area. Excludes individuals, for-profit organizations, umbrella organizations, deficit financing, emergency assistance, and specific event-related expenses."
+}

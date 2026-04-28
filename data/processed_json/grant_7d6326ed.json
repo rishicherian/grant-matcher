@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "City of Rochester Housing Rehabilitation Programs",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Owner-occupants",
+        "Rental property owners",
+        "Contractors (for approved contractor list)"
+    ],
+    "geographic_restrictions": "City of Rochester, New York (Northeast US)",
+    "project_area": "Housing rehabilitation, repair, lead hazard reduction, and healthy homes improvements",
+    "demographic_requirements": "Household income at or below 80% of HUD's Area Median Income (AMI) for owner-occupants; 50% AMI for tenants in Lead Hazard Control Program; prioritization for seniors 62+ in Roof Program; minority and woman-owned business enterprises encouraged for contractors",
+    "eligibility_summary": "Programs are available to owner-occupants, rental property owners, and contractors within the City of Rochester. Eligibility varies by program but generally requires property ownership, code compliance, current taxes and mortgage payments, and income thresholds. Specific programs may have additional requirements such as lead hazard remediation for pre-1978 housing or prioritization for low-income households."
+}

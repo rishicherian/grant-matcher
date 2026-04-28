@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "City of Boston Small Community Grants Trust Program",
+    "funding_amount": 2000,
+    "deadline": "Apr 27, 2026",
+    "eligible_applicant_type": [
+        "Nonprofits"
+    ],
+    "geographic_restrictions": "City of Boston, Massachusetts",
+    "project_area": "Community Development",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Nonprofit organizations in Boston for community-focused projects that enhance recreation, beautify public spaces, and offer educational experiences for children."
+}

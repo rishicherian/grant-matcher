@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Child Care Program Facilities Improvement Grants",
+    "funding_amount": 3000000,
+    "deadline": "May 26, 2026",
+    "eligible_applicant_type": [
+        "Nonprofits"
+    ],
+    "geographic_restrictions": "Connecticut",
+    "project_area": "Infrastructure",
+    "demographic_requirements": "Licensed child care programs in Connecticut",
+    "eligibility_summary": "Financial support for licensed child care programs in Connecticut to make necessary improvements to their facilities, ensuring they meet safety and quality standards."
+}

@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Solid Waste Diversion Grant Program",
+    "funding_amount": 2500000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Individuals",
+        "Municipalities",
+        "Organizations",
+        "Businesses"
+    ],
+    "geographic_restrictions": "Maine",
+    "project_area": "Environment",
+    "demographic_requirements": "Maine-based individuals, municipalities, organizations, and businesses",
+    "eligibility_summary": "Funding for projects that reduce solid waste through initiatives like composting, recycling, and community education."
+}

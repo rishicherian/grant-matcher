@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "East Side Building Fund",
+    "funding_amount": 10000000,
+    "deadline": "June 27, 2025 at 4 p.m.",
+    "eligible_applicant_type": [
+        "Building owners",
+        "Privately owned commercial or mixed-use property owners",
+        "Owner-occupied businesses",
+        "Not-for-profit organizations",
+        "Underrepresented neighborhood-based businesses",
+        "Graduates of the Community-Based Real Estate Development Training program (2020-2023)"
+    ],
+    "geographic_restrictions": "Buffalo\u2019s East Side, New York",
+    "project_area": "Community-driven revitalization of mixed-use commercial districts, including stabilization measures, facade renovations, interior building upgrades, and site improvements for commercial or mixed-use buildings",
+    "demographic_requirements": "Strong preference for projects involving at-risk historic buildings, projects in identified Commercial District target areas, and projects initiated by graduates of the Community-Based Real Estate Development Training program (2020-2023)",
+    "eligibility_summary": "Eligible applicants must own a commercial or mixed-use property located on Buffalo\u2019s East Side. Projects must involve stabilization, facade, interior, or site improvements. Applicants must contribute 10% of the total project cost (50% for Anchors initiative, with 10% as equity). Small Projects awards range from $100,000 to $400,000, while Anchors awards range from $400,000 to $2,000,000. Additional eligibility criteria include project location in target areas, historic preservation, and training program participation."
+}

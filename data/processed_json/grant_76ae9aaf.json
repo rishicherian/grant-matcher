@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Cummings $30 Million Grant Program",
+    "funding_amount": 30000000,
+    "deadline": "September 17, 5:00 PM (Letter of inquiry closes)",
+    "eligible_applicant_type": [
+        "Nonprofit organizations classified as public charities under Section 501(c)(3) of the U.S. Internal Revenue Service Code",
+        "Local offices/affiliates of regional or national organizations with a separate EIN"
+    ],
+    "geographic_restrictions": "Nonprofits must be headquartered in and provide the majority of services in Essex County, Middlesex County, Suffolk County, or the Norfolk County communities of Brookline, Dedham, Milton, Needham, Quincy, and Wellesley, Massachusetts. Special consideration is given to nonprofits based in the 11 cities and towns where Cummings operates commercial real estate.",
+    "project_area": "Human services, fairness and justice, education, healthcare, and the environment. Excludes athletics, arts, culture, land preservation, historic building preservation, animal welfare, and certain other causes.",
+    "demographic_requirements": "No specific demographic requirements, but priority is given to organizations serving local communities in the specified geographic areas. Organizations must not treat people unfairly based on protected characteristics.",
+    "eligibility_summary": "Eligible applicants are 501(c)(3) nonprofits headquartered and primarily serving the specified Massachusetts counties. Ineligible applicants include endowments, medical research, political organizations, religious endeavors, and large organizations with robust endowments. Prior grant recipients must meet specific conditions to reapply."
+}

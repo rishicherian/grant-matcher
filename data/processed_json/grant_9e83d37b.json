@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creation of New Work Grant",
+    "funding_amount": null,
+    "deadline": "August 1st, 2026",
+    "eligible_applicant_type": [
+        "501(c)(3) arts organizations in the foundation\u2019s geographic giving area"
+    ],
+    "geographic_restrictions": "Greater Hartford area, including Hartford, Avon, Berlin, Bloomfield, East Granby, East Hartford, East Windsor, Ellington, Farmington, Glastonbury, Manchester, New Britain, Newington, Rocky Hill, Simsbury, South Windsor, Vernon, West Hartford, Wethersfield, Windsor, and Windsor Locks.",
+    "project_area": "Visual and performing arts projects involving collaboration between an artist or artists and an arts organization.",
+    "demographic_requirements": "Preference given to projects supporting artists of color in the Greater Hartford area.",
+    "eligibility_summary": "Open to 501(c)(3) arts organizations in the Greater Hartford area. Artists must partner with an eligible organization to apply. Projects must involve new work creation, collaboration, and community benefit. Organizations may apply for either this grant or an Excellence in the Arts grant per calendar year."
+}

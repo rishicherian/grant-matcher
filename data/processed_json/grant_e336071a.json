@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Grants for Youth Programs in Rhode Island",
+    "funding_amount": 60600,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Public schools",
+        "501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Youth programs",
+    "demographic_requirements": "Varies by specific grant; some focus on underserved communities, at-risk youth, or specific age groups (e.g., 14-24).",
+    "eligibility_summary": "Eligibility varies by grant but generally includes nonprofit organizations, public schools, and 501(c)(3) entities operating in Rhode Island. Some grants may have additional requirements such as serving specific demographics (e.g., low-income, Black youth) or focusing on particular areas (e.g., education, workforce training, arts)."
+}

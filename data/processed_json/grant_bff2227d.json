@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "RIWPS Annual Grants",
+    "funding_amount": 2500,
+    "deadline": "February 28, 2026",
+    "eligible_applicant_type": [
+        "educator",
+        "member of a Rhode Island botanical or environmental association",
+        "student in a field related to botany or environmental studies"
+    ],
+    "geographic_restrictions": "Rhode Island residents or students at a Rhode Island educational institution (excludes non-Rhode Island students from residency requirement)",
+    "project_area": "preserving and protecting native plants and their habitats, including gardens, invasive removal, community outreach, project materials, workshops, or courses",
+    "demographic_requirements": "Rhode Island residency required (except for students at Rhode Island educational institutions)",
+    "eligibility_summary": "Open to educators, members of Rhode Island botanical/environmental associations, or students in botany/environmental studies fields. Projects must involve native plants/habitats and have a community outreach component. Rhode Island residency required unless applicant is a student at a Rhode Island educational institution."
+}

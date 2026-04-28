@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Elaine Eppinger Small Business Grant",
+    "funding_amount": null,
+    "deadline": "October 2026",
+    "eligible_applicant_type": [
+        "Woman-owned small businesses",
+        "BIPOC-owned small businesses"
+    ],
+    "geographic_restrictions": "Business must be located in the WRCC service area (Central Massachusetts)",
+    "project_area": "Economic development and workforce issues for small businesses",
+    "demographic_requirements": "Priority given to Woman-owned, BIPOC-owned businesses",
+    "eligibility_summary": "For-profit entities (sole proprietorship, partnership, corporation, cooperative, or LLC) with less than 10 FTE, located in the WRCC service area. Must be a woman-owned or BIPOC-owned business."
+}

@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Microenterprise Microgrant Program",
+    "funding_amount": null,
+    "deadline": "Rolling basis until funds are exhausted",
+    "eligible_applicant_type": [
+        "Small business owners",
+        "Start-ups",
+        "Existing businesses under 1 year to 3 years",
+        "Mature businesses",
+        "Businesses 3+ years in active operation"
+    ],
+    "geographic_restrictions": "City of Hartford, Connecticut",
+    "project_area": "Economic growth, community development, and small business support in Hartford",
+    "demographic_requirements": "Business owner(s) must have a qualifying low-to-moderate household income (LMI) employee or the business must serve Hartford residents from low-to-moderate income households. Business must have 5 or fewer employees, including the owner.",
+    "eligibility_summary": "Eligible businesses must be registered as an LLC or other structure in Connecticut, have a physical address in Hartford, be in good standing with the City of Hartford, and not be delinquent on taxes. Disqualifying factors include businesses in restricted industries (e.g., medical marijuana, liquor stores, adult content, etc.)."
+}

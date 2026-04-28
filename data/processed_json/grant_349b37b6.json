@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Grants for Youth Programs in Massachusetts",
+    "funding_amount": 64900,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Youth Programs",
+    "demographic_requirements": "Focus on youth services, education, and community welfare in Massachusetts",
+    "eligibility_summary": "Nonprofit organizations and 501(c)(3) organizations in Massachusetts focused on youth programs, education, and community welfare are eligible. Specific grants may have additional criteria such as geographic focus within Massachusetts or demographic priorities."
+}

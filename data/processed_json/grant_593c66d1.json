@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Environmental Offset Grant Program",
+    "funding_amount": null,
+    "deadline": "January 9, 2026",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Fiscal agents of nonprofit organizations"
+    ],
+    "geographic_restrictions": "Baltimore City, Maryland (within the Chesapeake Bay Critical Area and/or Forest Conservation Program areas)",
+    "project_area": "Environmental restoration, tree canopy expansion, urban forestry, water quality improvement, habitat conservation, and afforestation/reforestation projects aligned with Baltimore's Comprehensive Plan, Sustainability Plan, Green Network, and INSPIRE programs",
+    "demographic_requirements": "Organizations must be in good standing with the Maryland State Department of Assessments and Taxation (SDAT) and must not discriminate based on race, creed, national origin, political persuasion, age, physical handicap, gender, or sexual orientation",
+    "eligibility_summary": "Nonprofit organizations or their fiscal agents serving Baltimore City residents, in good standing with Maryland SDAT, and committed to projects that restore tree canopy, improve water quality, or conserve wildlife habitat within Baltimore City's Critical Area or Forest Conservation Program areas"
+}

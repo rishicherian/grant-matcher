@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "PA Agriculture and Youth Program Grant",
+    "funding_amount": 25000,
+    "deadline": "Nov 15, 2026",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Agriculture and youth organizations"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Agriculture, Agricultural Education, Youth Services",
+    "demographic_requirements": "Youth-centered organizations and projects promoting agricultural, leadership, and vocational skills",
+    "eligibility_summary": "Open to agriculture and youth organizations focused on education, safety training, and community development in Pennsylvania. Grants can be direct (up to $7,500) or matching (up to $25,000) for capital projects."
+}

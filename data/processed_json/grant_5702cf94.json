@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "2026 Community Development Block Grant (CDBG) Program - City of Burlington",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Community-based organizations",
+        "Local government agencies",
+        "Small businesses (for microbusiness development programs)"
+    ],
+    "geographic_restrictions": "Burlington, Vermont (Chittenden County for some programs)",
+    "project_area": "Community development, housing, food access, economic development, education, and social services",
+    "demographic_requirements": "Low- to moderate-income residents, underserved populations (e.g., immigrants, refugees, BIPOC, people with disabilities, seniors, individuals with mental health or substance use issues, survivors of domestic violence, homeless individuals)",
+    "eligibility_summary": "Eligible applicants include nonprofit organizations, community-based groups, local government agencies, and small businesses (for specific microbusiness programs) operating in Burlington, Vermont. Projects must address community development, housing, economic development, or social services needs, with a focus on benefiting low- to moderate-income individuals. Some programs have additional demographic or geographic requirements."
+}

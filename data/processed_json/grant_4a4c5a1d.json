@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Food Access Infrastructure Initiative Grant",
+    "funding_amount": 50000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "food banks",
+        "food hubs",
+        "non-profit food distribution organizations",
+        "non-profit food infrastructure organizations",
+        "non-profit facilities"
+    ],
+    "geographic_restrictions": "Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island, Vermont (with exceptions for projects positively impacting rural areas of the territory)",
+    "project_area": "food security infrastructure improvements (e.g., cold storage, logistics, distribution capability)",
+    "demographic_requirements": "Projects must aim to improve food security, particularly in underserved or rural communities within the Northeast.",
+    "eligibility_summary": "Non-profit organizations in the Northeast (or projects positively impacting rural areas of the territory) are eligible. Funds must be used for capital infrastructure projects (e.g., cold storage, real estate improvements) and not for general operating funds, vehicles, or food production/processing equipment."
+}

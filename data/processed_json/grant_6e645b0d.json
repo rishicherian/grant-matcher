@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Early Education and Out of School Time (EEOST) Small Grant Program",
+    "funding_amount": 350000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "tax-exempt nonprofit corporations",
+        "organizations with a controlling non-profit interest"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "child care facility development or improvement for low-income families",
+    "demographic_requirements": "at least 50% of child care enrollment must consist of low-income families eligible for public subsidy",
+    "eligibility_summary": "Nonprofits or organizations with a controlling non-profit interest can apply for grants of $200,000 - $499,999 to develop or improve child care facilities serving at least 50% low-income families. Funding can cover major systems replacement, classroom reconfiguration, outdoor space redesign, HVAC improvements, accessibility modifications, security enhancements, and emergency repairs."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Vermont Grants: Equity & Justice",
+    "funding_amount": 15000,
+    "deadline": "August 19, 2026",
+    "eligible_applicant_type": [
+        "Non-Profit 501(c)3 organizations",
+        "Organizations represented by a fiscal agent with 501(c)(3) status"
+    ],
+    "geographic_restrictions": "Must be located in Vermont",
+    "project_area": "Racial, economic, social, and environmental disparities and injustice in Vermont, with a focus on equity in education, housing, criminal justice reform, immigrant rights, workers' rights, and access to healthy food",
+    "demographic_requirements": "Priority given to programs that meaningfully engage and intentionally involve those most impacted by the problem being addressed",
+    "eligibility_summary": "Non-profit organizations or fiscal agents with 501(c)(3) status, located in Vermont, with total annual operating budgets under $500,000. Excludes programs providing solely direct services to individuals, schools, colleges, individuals, research, litigation, capital campaigns, state agencies, businesses, religious activities, one-time events, or organizations outside Vermont."
+}

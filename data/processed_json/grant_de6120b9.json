@@ -1,0 +1,19 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Local Agriculture and Seafood Act (LASA) Grants Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Farmers",
+        "Fishermen",
+        "Food producers",
+        "Aquaculture operators",
+        "Local food businesses",
+        "Non-profits",
+        "Tribal entities"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Growth, development, and marketing of local food and seafood",
+    "demographic_requirements": "Projects must support local agriculture and seafood industries in Rhode Island",
+    "eligibility_summary": "Open to Rhode Island-based farmers, fishermen, food producers, aquaculture operators, local food businesses, non-profits, and tribal entities working to enhance local food and seafood systems."
+}

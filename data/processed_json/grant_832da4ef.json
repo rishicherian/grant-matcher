@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Vermont Folklife Traditional Arts Apprenticeship Program (VTAAP)",
+    "funding_amount": 2000,
+    "deadline": "September 3rd (for 2021 cycle, as per historical data)",
+    "eligible_applicant_type": [
+        "Individual artists",
+        "Apprentices",
+        "Mentor artists",
+        "Cultural groups"
+    ],
+    "geographic_restrictions": "Vermont, USA",
+    "project_area": "Traditional and folk arts apprenticeships, including but not limited to stone carving, basket making, weaving, music, dance, and other cultural heritage practices",
+    "demographic_requirements": "Open to artists from all traditions and cultures, including refugee and immigrant backgrounds. Priority given to Vermont-based artists and cultural groups.",
+    "eligibility_summary": "The program supports mentor artists and apprentices who have already decided to work together. Funding covers compensation for the mentor artist's time, travel, and materials. Applicants must be based in Vermont and engaged in traditional or folk arts."
+}

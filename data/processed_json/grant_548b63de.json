@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Charles Edison Fund Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "educational institutions",
+        "medical research institutions"
+    ],
+    "geographic_restrictions": "New York-New Jersey Metropolitan area (primarily)",
+    "project_area": "science and technology education, medical research, and preserving The Edison legacy",
+    "demographic_requirements": "none specified",
+    "eligibility_summary": "Organizations must submit a detailed request on official letterhead, signed by a governing board official, including project background, costs, financial report, current budget, and tax-exempt status. Grants are considered three times a year (May, September, December) with requests due at least three weeks prior to meetings."
+}

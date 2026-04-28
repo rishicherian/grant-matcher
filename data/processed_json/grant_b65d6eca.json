@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Massachusetts Community Health and Healthy Aging Funds",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "municipalities",
+        "quasi-governmental organizations",
+        "community groups or coalitions with a 501c3 fiscal sponsor"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Community health improvement, healthy aging, and addressing health inequities",
+    "demographic_requirements": "Priority given to people of color and older adults, with a focus on communities historically underfunded and experiencing high rates of health and racial inequities",
+    "eligibility_summary": "Open to MA-based nonprofit organizations, municipalities, quasi-governmental organizations, and community groups or coalitions with a 501c3 fiscal sponsor. Applicants must address root causes of health inequities and benefit communities outside of Boston with high rates of health and racial inequities."
+}

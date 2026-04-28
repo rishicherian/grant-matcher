@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Worcester Affordable Housing Trust Fund Request for Proposals (RFP)",
+    "funding_amount": 1350000,
+    "deadline": "May 7, 2026",
+    "eligible_applicant_type": [
+        "qualified housing developers"
+    ],
+    "geographic_restrictions": "City of Worcester, Massachusetts (Northeast US)",
+    "project_area": "Development of new income-restricted affordable housing units, including property acquisition, site preparation, new construction, substantial rehabilitation, and predevelopment soft costs",
+    "demographic_requirements": "Households earning up to 80% of Area Median Income (AMI), with priority for deeper affordability (30% and 60% AMI). Projects must ensure affordability in perpetuity and incorporate universal design.",
+    "eligibility_summary": "Open to qualified housing developers proposing projects in Worcester, MA. Funding supports new affordable housing units for low- and moderate-income residents, with priority given to shovel-ready projects, deeper affordability, accessibility, and cost-effective leveraging of funds. Projects must comply with Community Preservation Act (M.G.L. Chapter 44B)."
+}

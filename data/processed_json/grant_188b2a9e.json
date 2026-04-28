@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "The John Slade Ely Fund",
+    "funding_amount": 50000,
+    "deadline": "June 1",
+    "eligible_applicant_type": [
+        "501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Greater New Haven, Connecticut area",
+    "project_area": "Arts, Culture and Humanities (fine arts exhibitions, programs, and educational initiatives)",
+    "demographic_requirements": "None specified beyond geographic and organizational eligibility",
+    "eligibility_summary": "Open to 501(c)(3) organizations operating in the Greater New Haven, Connecticut area, supporting fine arts exhibitions, programs, or educational initiatives. Applications must be submitted by June 1 for review in July."
+}

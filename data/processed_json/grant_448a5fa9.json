@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Catholic Health Foundation (CHF) Grant",
+    "funding_amount": null,
+    "deadline": "Friday, April 10, 2026",
+    "eligible_applicant_type": [
+        "Non-profit organizations",
+        "Parishes",
+        "Schools",
+        "Social service agencies"
+    ],
+    "geographic_restrictions": "Non-profit organizations within the 144 cities and towns of the Archdiocese of Boston (Massachusetts, US Northeast)",
+    "project_area": "Health care and healthcare services consistent with the teachings of the Roman Catholic Church, including categories such as Bereavement, Building/Equipment, Cancer, Education (medical or health), Employee assistance, Health or medical services for residents of Middleborough, Medical, Social needs, and Unrestricted",
+    "demographic_requirements": "Projects must align with Catholic teachings and serve residents within the Archdiocese of Boston. Specific categories may target underserved communities, immigrants, or vulnerable populations.",
+    "eligibility_summary": "Open to non-profit organizations, parishes, schools, and social service agencies within the Archdiocese of Boston that provide health care or healthcare services in line with Catholic teachings. Initiatives must benefit residents of the 144 cities and towns of the Archdiocese of Boston."
+}

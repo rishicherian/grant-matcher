@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Food Security Infrastructure Grant Program (FSIG)",
+    "funding_amount": null,
+    "deadline": "May 5, 2025 at 4:00pm",
+    "eligible_applicant_type": [
+        "Massachusetts farmers",
+        "Massachusetts fishers",
+        "Massachusetts food system entities",
+        "Massachusetts public entities",
+        "Massachusetts Tribal entities"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Food security initiatives, including expansion of agriculture & seafood production, local & regional mid-supply chain expansion, food access & availability, and emergency preparedness & resilience",
+    "demographic_requirements": "Applicants must contribute to the local food system and have been in operation for at least 3 years.",
+    "eligibility_summary": "Eligible applicants include Massachusetts farmers, fishers, food system entities, and public and Tribal entities. Projects must align with one of four project types and involve capital improvements such as season extension equipment, cold storage, distribution expansion, or value-added processing equipment."
+}

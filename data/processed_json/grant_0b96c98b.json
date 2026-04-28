@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Burlington County Local Arts Grant 2026",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofit organizations",
+        "501(c)(4) nonprofit organizations",
+        "501(c)(6) nonprofit organizations"
+    ],
+    "geographic_restrictions": "Burlington County, New Jersey",
+    "project_area": "Arts (General Operating Support and Special Arts Projects)",
+    "demographic_requirements": "None specified beyond eligibility as a nonprofit arts organization",
+    "eligibility_summary": "Funding is available to local nonprofit organizations (501(c)(3), 501(c)(4), or 501(c)(6)) in Burlington County, New Jersey, for General Operating Support (long-standing, larger organizations) or Special Arts Projects. General Operating Support is for established organizations; Special Project grants are for other qualified organizations."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Grants to Maryland, Virginia, and Washington, DC Nonprofits in Eligible Locations for Education and Medical and Scientific Research",
+    "funding_amount": null,
+    "deadline": "05/01/26",
+    "eligible_applicant_type": [
+        "nonprofit organizations"
+    ],
+    "geographic_restrictions": "USA: Maryland, Virginia, Washington, DC",
+    "project_area": "education, medical and scientific research",
+    "demographic_requirements": "nonprofit organizations in eligible locations",
+    "eligibility_summary": "Nonprofit organizations located in Maryland, Virginia, or Washington, DC are eligible to apply for grants supporting education, medical, and scientific research projects."
+}

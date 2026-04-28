@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Small Business Energy Efficiency Grant Program",
+    "funding_amount": 20000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Small businesses"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Energy",
+    "demographic_requirements": "Small businesses in Rhode Island",
+    "eligibility_summary": "Financial assistance for small businesses in Rhode Island to implement energy efficiency improvements."
+}

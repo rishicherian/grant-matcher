@@ -1,0 +1,15 @@
+Home / Activities / **Sustainable Communities Grant**
+Sustainable Communities Grant
+=============================
+Delaware Nature Society and Delmarva Power Sustainable Communities Grant Program
+--------------------------------------------------------------------------------
+Delmarva Power, together with its program administrator Delaware Nature Society, is powering local communities beyond reliable energy service through environmental stewardship and resiliency grants for nonprofits and municipalities across its service area in Delaware and Maryland.
+Grant requests for the **Sustainable Communities Grant Program** will be accepted **April 29 to June 30, 2026.**This is a competitive grant program, and all are encouraged to apply regardless of the size of the organization. Our proposal process is simple. Complete the proposal application provided and submit to Delaware Nature Society **by 11:59 p.m. on June 30, 2026,** see below for emailing instructions and contact information. **Awards will be announced in September 2026.**
+The Sustainable Communities Grant Program will administer grants of up to $10,000 focused on Environmental Stewardship, and up to $25,000 focused on Community Resilience with a total of $55,000 to be awarded in 2026.
+Projects should align with existing climate resiliency strategies or land management plans, such as the Delaware Climate Action Plan, Maryland’s Climate Pollution Reduction Plan, or plans for management of protected areas.
+Eligible activities can include: conservation; pollution prevention; community engagement; developing or updating open space plans; improving applicant-owned open spaces such as meadows, woodlands, and riparian buffers or capital improvements for passive recreation such as installing recreation trails, boardwalks, informational kiosks, and observation platforms; acquisition of parcels of land to be used for open space; and acquisition of conservation easements.
+The program reflects Delmarva Power’s commitment to community giving and supports initiatives that advance sustainability, environmental stewardship, open space, and resiliency.
+Municipalities, recreational authorities and nonprofits within Delmarva Power’s service area are eligible to apply. Applications are reviewed by a committee of representatives from Delmarva Power, Delaware Nature Society, county agencies and conservation organizations. Organizations whose projects meet the requirements and are selected for funding will be notified the first week in September 2026. Grants are considered annually, and the expenditures of the funds for the projects are expected to be completed by the end of September 2027.
+Delmarva Power and its parent company, Exelon, are committed to diversity, equity and inclusion in both their workplace and community outreach. Organizations serving underrepresented communities are strongly encouraged to apply.
+***The application will be available here soon.***
+***All organizations receiving grants are required to submit a Final Report by September 30, 2027.***

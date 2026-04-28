@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Edwards Community Endowment Program (ECEP)",
+    "funding_amount": 20000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations"
+    ],
+    "geographic_restrictions": "Northwest Connecticut (specifically Hartford County and surrounding areas)",
+    "project_area": "All fields of work (endowment fund establishment or augmentation)",
+    "demographic_requirements": "Nonprofit organizations in northwest Connecticut",
+    "eligibility_summary": "Nonprofit organizations in northwest Connecticut seeking to establish or augment endowment funds. Must raise at least $16,000 to qualify for initial matching funds (1:4 match, max $20,000)."
+}

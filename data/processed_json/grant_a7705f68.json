@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "USDA Community Facility Loan and Grant Program",
+    "funding_amount": 50000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "municipalities",
+        "transfer stations",
+        "recycling groups"
+    ],
+    "geographic_restrictions": "Rural areas in the US Northeast (including New Hampshire) with populations of 20,000 or less, with priority for small communities (\u22645,500) and low-income areas (median household income <80% of state nonmetropolitan median).",
+    "project_area": "Solid waste infrastructure, including recycling equipment (e.g., balers, scales, storage containers, glass crushers), safety equipment, signage, bathroom facilities at transfer stations, computers, and cameras for transfer station use.",
+    "demographic_requirements": "Priority given to small communities (\u22645,500 residents) and low-income areas (median household income <80% of state nonmetropolitan median household income).",
+    "eligibility_summary": "Open to municipalities, transfer stations, and recycling groups in rural areas of the US Northeast with populations \u226420,000. Matching grants up to $50,000 based on population and median household income. Applications accepted year-round."
+}

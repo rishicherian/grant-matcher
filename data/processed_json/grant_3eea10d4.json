@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Fiscal Year 2025 Housing Trust Fund",
+    "funding_amount": 1616811.92,
+    "deadline": "Spring 2025",
+    "eligible_applicant_type": [
+        "Nonprofit corporations",
+        "Municipal corporations",
+        "Limited equity housing cooperatives",
+        "For-profit corporations",
+        "Partnerships",
+        "Individuals"
+    ],
+    "geographic_restrictions": "Burlington, Vermont (US Northeast)",
+    "project_area": "Affordable housing creation, retention, and promotion for very low, low, and moderate-income households",
+    "demographic_requirements": "Projects must serve very low, low, and moderate-income households",
+    "eligibility_summary": "Open to nonprofit corporations, municipal corporations, limited equity housing cooperatives, for-profit corporations, partnerships, and individuals. Capacity grants support staffing, training, planning, fundraising, and operations for nonprofits creating or preserving affordable housing."
+}

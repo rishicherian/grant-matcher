@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Services Funding from Csx Foundation Inc",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofits",
+        "government entities",
+        "schools"
+    ],
+    "geographic_restrictions": "Delaware",
+    "project_area": "Community services, military members, first responders",
+    "demographic_requirements": "Organizations working to benefit community services, military members, or first responders in Delaware",
+    "eligibility_summary": "Eligible organizations include 501(c)(3) nonprofits, government entities, and schools in Delaware addressing local needs through community services, military support, or first responder initiatives. Funding includes in-kind support such as intermodal transportation services and railroad equipment donations."
+}

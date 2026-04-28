@@ -1,0 +1,27 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Rhode Island Corporate Expansion & Small Business Grants (2026)",
+    "funding_amount": 80000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "C-Corps",
+        "S-Corps",
+        "LLCs",
+        "Design Firms",
+        "Marine Tech Startups",
+        "Small Businesses (<500 employees)",
+        "Municipalities / Districts",
+        "Real Estate Developers",
+        "Hospitality Businesses",
+        "Retail Businesses",
+        "Biotech Companies",
+        "Offshore Wind Companies",
+        "Defense Companies",
+        "Women-Owned Businesses",
+        "Minority-Owned Businesses"
+    ],
+    "geographic_restrictions": "Rhode Island only",
+    "project_area": "Business expansion, R&D, job creation, real estate development, commercial district improvements, supply chain support, and industry-specific initiatives (Blue Economy, Design & Food, Biotech, Offshore Wind, Defense, Cybersecurity, Data Analytics, Composites)",
+    "demographic_requirements": "Priority given to businesses registered in Rhode Island, partnering with Rhode Island universities/hospitals (for Innovation Vouchers), creating jobs above median wage (for Qualified Jobs Incentive), and operating in priority sectors (Blue Economy, Design & Food, Biotech). Additional preferences for women-owned and minority-owned businesses.",
+    "eligibility_summary": "Eligible applicants must be registered and operating in Rhode Island, with specific requirements varying by program (e.g., Innovation Vouchers require partnership with a Rhode Island university/hospital, Qualified Jobs Incentive requires job creation above median wage, Rebuild Rhode Island targets real estate development with financing gaps). General requirements include being a legal entity in Rhode Island, good standing with state tax authorities, and compliance with program-specific criteria."
+}

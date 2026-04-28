@@ -20,7 +20,19 @@ def clean_json_string(raw_string):
 
 def extract_grant_data(markdown_text):
     system_prompt = """
-    You are a precise data extraction assistant. Extract the following fields from the grant text:
+    You are a precise data extraction assistant and a strict quality-control bouncer. 
+
+    FIRST: Determine if the provided text is an actionable grant application, grant guideline, or funding opportunity. 
+    - If the text is a news article, press release, blog post, or general encyclopedic information, it is NOT valid.
+    - If the grant explicitly states it is restricted to a geographic location OUTSIDE the US Northeast (e.g., Arizona, California, international), it is NOT valid.
+    
+    If it is NOT valid, return EXACTLY this JSON:
+    {
+        "is_valid_grant": false
+    }
+
+    If it IS a valid actionable grant, extract the following fields and return ONLY valid JSON:
+    - is_valid_grant (boolean, must be true)
     - grant_title (string)
     - funding_amount (number or null)
     - deadline (string or null)
@@ -29,13 +41,10 @@ def extract_grant_data(markdown_text):
     - project_area (string)
     - demographic_requirements (string)
     - eligibility_summary (string)
-    
-    Return ONLY valid JSON matching these exact keys. Do not include any other text.
     """
     
     try:
         response = client.chat.completions.create(
-            # IMPORTANT: Check your API documentation to ensure this exact string is correct!
             model="mistral-small-latest", 
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -73,6 +82,11 @@ def process_all_markdown_files():
             extracted_json = extract_grant_data(markdown_text)
             
             if extracted_json:
+                if extracted_json.get("is_valid_grant") is False:
+                    print(f"Bouncer rejected {filename}: Not an actionable grant or wrong geography.\n")
+                    os.remove(filepath)
+                    continue
+
                 output_filename = filename.replace(".md", ".json")
                 output_filepath = os.path.join(output_dir, output_filename)
                 

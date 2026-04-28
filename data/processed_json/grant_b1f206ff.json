@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Request for Proposals for 2026 Affordable Housing Trust Fund (New Jersey)",
+    "funding_amount": 3000000,
+    "deadline": "2025-10-03",
+    "eligible_applicant_type": [
+        "municipalities",
+        "for-profit developers",
+        "non-profit developers",
+        "corporations",
+        "limited partnerships"
+    ],
+    "geographic_restrictions": "New Jersey (all counties)",
+    "project_area": "Affordable housing development (rental and homeownership units, 25 units or fewer)",
+    "demographic_requirements": "Targeted to households below 80% of Area Median Income",
+    "eligibility_summary": "Municipalities with court-approved affordable housing settlements or developers supported by such municipalities are eligible. Projects must leverage other state/local investments or partnerships. Ineligible costs include public housing operations, tenant-based rental assistance, and delinquent taxes/fines."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Massachusetts Green Communities Competitive Grant Program",
+    "funding_amount": null,
+    "deadline": "April 4, 2025, at 5 p.m.",
+    "eligible_applicant_type": [
+        "Municipalities registered as Green Communities in Massachusetts"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Sustainability, energy efficiency, decarbonization, and greenhouse gas reduction through projects like Prescriptive Measures, Traditional Energy Conservation Measures (ECMs), and Building Decarbonization",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Open to Massachusetts municipalities registered as Green Communities. Projects must focus on sustainability, energy efficiency, or decarbonization, with preference given to those limiting or eliminating fossil fuel use through strategic electrification."
+}

@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Merchant Organizing, Business Improvement District (BID) Formation, and Small BID Support Grants",
+    "funding_amount": 5300000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Business Improvement Districts (BIDs)",
+        "Community-Based Development Organizations (CBDOs)",
+        "Neighborhood-based organizations"
+    ],
+    "geographic_restrictions": "New York City (Northeast US)",
+    "project_area": "Commercial corridor revitalization, merchant organizing, and BID formation/support",
+    "demographic_requirements": "None specified beyond geographic eligibility (NYC-based organizations)",
+    "eligibility_summary": "Nonprofits, BIDs, CBDOs, and neighborhood-based organizations in NYC are eligible. Merchant Organizing Grants require proposals for forming/reactivating merchants associations. BID Formation Grants require established steering committees and needs assessments. Small BID Support Grants target BIDs with annual assessments \u2264$600,000 or \u2264$1M in low- to moderate-income neighborhoods."
+}

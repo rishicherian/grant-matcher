@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "New Investigator Research Grants program",
+    "funding_amount": 150000,
+    "deadline": "July 24, 2026, at 5 p.m. ET",
+    "eligible_applicant_type": [
+        "New independent investigators",
+        "Full-time tenure-track faculty",
+        "Independent research faculty"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Basic (fundamental) research in biology, physics, chemistry, or interdisciplinary boundaries between these fields",
+    "demographic_requirements": "Investigators must be within 10 years of obtaining a terminal research or clinical degree, have not received substantial independent NIH funding as PI, and be U.S. citizens or lawful permanent residents. Extensions may be granted for extenuating circumstances."
+}

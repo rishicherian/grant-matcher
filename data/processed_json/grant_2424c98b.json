@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Conservation Opportunity Fund",
+    "funding_amount": 1500,
+    "deadline": "February 1, 2026",
+    "eligible_applicant_type": [
+        "Private landowners",
+        "Land stewards",
+        "Individuals",
+        "Businesses",
+        "Farmers",
+        "Forestland owners/stewards"
+    ],
+    "geographic_restrictions": "Cheshire County, NH",
+    "project_area": "Wildlife habitat improvement projects, including pollinator habitat, rain gardens, wildlife-focused plantings, riparian buffers, early successional habitat, aquatic habitat, and turtle habitat in priority areas",
+    "demographic_requirements": "None specified beyond geographic and land size restrictions",
+    "eligibility_summary": "Private landowners or stewards in Cheshire County, NH with tracts of land 25 acres or less in total. Projects must improve wildlife habitat and demonstrate long-term maintenance, landowner inputs, regional ecology awareness, and potential for community education partnerships."
+}

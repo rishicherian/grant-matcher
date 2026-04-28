@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Development Block Grant (CDBG) Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "entitled cities",
+        "counties"
+    ],
+    "geographic_restrictions": "Blair County, Pennsylvania (US Northeast)",
+    "project_area": "viable urban communities, decent housing, suitable living environments, economic opportunities for low- and moderate-income persons",
+    "demographic_requirements": "low- and moderate-income persons",
+    "eligibility_summary": "Eligible activities must meet one of CDBG\u2019s three national objectives: (1) benefit low- and moderate-income persons; (2) aid in the prevention or elimination of slums or blight; or (3) meet other community development needs that present a serious and immediate threat to the health and welfare of the community."
+}

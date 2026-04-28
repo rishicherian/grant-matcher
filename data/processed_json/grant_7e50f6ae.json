@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Sustainable Communities Grant",
+    "funding_amount": 55000,
+    "deadline": "June 30, 2026",
+    "eligible_applicant_type": [
+        "Municipalities",
+        "Recreational authorities",
+        "Nonprofits"
+    ],
+    "geographic_restrictions": "Delaware and Maryland (Delmarva Power\u2019s service area)",
+    "project_area": "Environmental stewardship, community resilience, open space conservation, pollution prevention, climate resiliency strategies, and passive recreation improvements",
+    "demographic_requirements": "Organizations serving underrepresented communities are strongly encouraged to apply; no strict demographic requirements specified.",
+    "eligibility_summary": "Municipalities, recreational authorities, and nonprofits within Delmarva Power\u2019s service area in Delaware and Maryland are eligible. Projects must align with climate resiliency strategies or land management plans. Applications are reviewed by a committee including Delmarva Power, Delaware Nature Society, county agencies, and conservation organizations."
+}

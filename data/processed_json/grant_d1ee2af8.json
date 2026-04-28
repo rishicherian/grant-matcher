@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Act 152 - Blight Removal",
+    "funding_amount": null,
+    "deadline": "Monday, September 15, 2025",
+    "eligible_applicant_type": [
+        "Municipality",
+        "Public Authority",
+        "Council of Governments (COG)",
+        "Land Bank",
+        "Private Developer",
+        "Community Development Corporation (with letter of support from municipality)"
+    ],
+    "geographic_restrictions": "Allegheny County, Pennsylvania",
+    "project_area": "Blight removal, demolition of hazardous structures, site preparation for development, and multi-phase planning efforts",
+    "demographic_requirements": "Projects must meet established blight conditions (3 of 9 defined by the Commonwealth of Pennsylvania) and focus on community impact and potential re-use of property.",
+    "eligibility_summary": "Eligible applicants include municipalities, public authorities, councils of government (COGs), land banks, and private developers. Projects must involve demolition of structures meeting blight conditions, hazardous material removal, utility disconnection, proper permitting, razing, waste disposal, site clean-up, and regrading. Applicants must not have outstanding code violations or municipal liens on properties in Allegheny County."
+}

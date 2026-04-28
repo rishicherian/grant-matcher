@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Healthcare and Wellness Grants by HFNJ",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Private, non-profit organizations with 501(c)(3) tax-exempt status"
+    ],
+    "geographic_restrictions": "Greater Newark, New Jersey (including Essex, Morris, Somerset, Union, and parts of Sussex counties) and the Jewish community of Greater MetroWest New Jersey",
+    "project_area": "Healthcare, mental health, wellness, and health-related prevention/promotion initiatives for underserved populations",
+    "demographic_requirements": "Vulnerable, underserved individuals and families, with priority given to those in Newark, NJ, and Jewish communities in Greater MetroWest NJ",
+    "eligibility_summary": "Non-profit organizations with 501(c)(3) status serving vulnerable populations in designated NJ counties or Jewish communities. Excludes individuals, government agencies, and organizations outside the catchment area. Projects must align with health/wellness and cannot fund food, homeless services (unless medical/mental health-related), legal fees, housing costs, individual healthcare, fundraising, or advocacy."
+}

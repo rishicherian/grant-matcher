@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Access for All Abilities Mini Grants",
+    "funding_amount": 180000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "For-profit business",
+        "For-profit organization",
+        "Nonprofit organization",
+        "Rhode Island school or school organization",
+        "Rhode Island city and town government agency"
+    ],
+    "geographic_restrictions": "Rhode Island or primarily serve Rhode Island communities",
+    "project_area": "Improving accessibility for social, leisure, recreational, and cultural activities for people with disabilities",
+    "demographic_requirements": "Applicants must provide social, leisure, recreational or cultural activities to the public. Organizations whose primary mission or client/customer base is disability focused are not eligible.",
+    "eligibility_summary": "Open to for-profit businesses, nonprofits, Rhode Island schools, and city/town government agencies in Rhode Island. Projects must enhance accessibility for people with disabilities in social, leisure, recreational, or cultural activities. Excludes organizations primarily serving people with disabilities."
+}

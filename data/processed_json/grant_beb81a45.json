@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Mercer County FY25 Local Arts Programs (LAP) Grant Program and History Re-Grant Program",
+    "funding_amount": null,
+    "deadline": "July 1, 2024",
+    "eligible_applicant_type": [
+        "Non-profit organizations certified as 501(c)(3) or 501(c)(4) by the IRS",
+        "Organizations providing arts programming/services for at least two years",
+        "Organizations supporting and providing historical activities and history programming"
+    ],
+    "geographic_restrictions": "Mercer County, New Jersey",
+    "project_area": "Art and history programming",
+    "demographic_requirements": "None specified beyond geographic and organizational requirements",
+    "eligibility_summary": "Open to Mercer County-based non-profit organizations (501(c)(3) or 501(c)(4)) with at least two years of arts or history programming experience. Funded by the New Jersey State Council on the Arts and New Jersey Historical Commission."
+}

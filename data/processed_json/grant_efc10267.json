@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Urban Farms and Community Gardens Grant Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "not-for-profit organizations"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Development and expansion of community gardens, school gardens, and urban farms to combat food insecurity",
+    "demographic_requirements": "Underserved communities with a focus on food security",
+    "eligibility_summary": "Eligible applicants are not-for-profit organizations in New York State seeking to establish new growing spaces, expand infrastructure, or build capacity for community growing spaces."
+}

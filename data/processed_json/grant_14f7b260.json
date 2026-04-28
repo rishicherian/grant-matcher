@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Affordable Housing Trust Fund",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "eligible developers"
+    ],
+    "geographic_restrictions": "City of Worcester, Massachusetts (US Northeast)",
+    "project_area": "Affordable housing solutions (rental and first-time homeownership) through new construction or substantial rehabilitation",
+    "demographic_requirements": "Units restricted to 30% or less of area median income and/or ADA units over the minimum required 10% threshold may receive bonus funding",
+    "eligibility_summary": "Eligible applicants are developers creating affordable rental housing units or first-time homeownership opportunities in Worcester. Grants provide up to 25% of total development cost or $150,000 per unit, whichever is less. Applications accepted on a rolling basis."
+}

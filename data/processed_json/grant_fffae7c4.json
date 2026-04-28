@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Gateway Fund Grant",
+    "funding_amount": 10000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "501(c)3 designated public non-profit organizations"
+    ],
+    "geographic_restrictions": "Southwestern Pennsylvania",
+    "project_area": "STEM Education and Technical Workforce Development, Human Health and Wellness, Environmental Stewardship",
+    "demographic_requirements": "Organizations serving individuals in Southwestern Pennsylvania",
+    "eligibility_summary": "Non-profit organizations with 501(c)3 status operating in Southwestern Pennsylvania focusing on STEM Education, Human Health and Wellness, or Environmental Stewardship are eligible."
+}

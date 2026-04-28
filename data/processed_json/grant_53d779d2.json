@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Food Security Infrastructure Grant Program",
+    "funding_amount": 1000000,
+    "deadline": "May 15, 2026",
+    "eligible_applicant_type": [
+        "Local producers",
+        "Community organizations",
+        "Food banks"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Food Security",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Eligible applicants include local producers, community organizations, and food banks in Massachusetts working to strengthen local food systems and improve access to locally sourced food."
+}

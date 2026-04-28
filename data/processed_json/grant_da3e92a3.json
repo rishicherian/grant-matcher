@@ -1,0 +1,23 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Delaware Small Business Grants (EDGE Grants and Antares REACH Grant Program)",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Small businesses",
+        "For-profit entities",
+        "STEM-based companies",
+        "Entrepreneurs from historically underrepresented groups",
+        "Women entrepreneurs",
+        "Minority-owned businesses",
+        "Military-affiliated persons",
+        "Persons with disabilities",
+        "LGBTQ+ entrepreneurs",
+        "Social enterprises",
+        "Churches"
+    ],
+    "geographic_restrictions": "Delaware",
+    "project_area": "Small business growth, STEM innovation, underrepresented community support, life sciences, biotech, research and development, women entrepreneurs, community-based competitions",
+    "demographic_requirements": "Majority ownership by historically underrepresented groups (e.g., women, people of color, military-affiliated, disabled, LGBTQ+), for-profit entities, growth potential, solid business plan, financial criteria, scalable business model",
+    "eligibility_summary": "Eligible applicants include small businesses in Delaware, with specific programs targeting STEM companies (up to $100,000), non-STEM businesses (up to $50,000), and underrepresented entrepreneurs (e.g., Antares REACH Grant for $20,000 plus mentorship). Matching funds are required for EDGE Grants. Priority is given to businesses in essential sectors like housing and health services."
+}

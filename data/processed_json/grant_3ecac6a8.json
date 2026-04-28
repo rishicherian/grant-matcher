@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "NH-INBRE Research and Pilot Grants",
+    "funding_amount": null,
+    "deadline": "December 1, 2025",
+    "eligible_applicant_type": [
+        "Partner faculty at NH-INBRE PUI institutions"
+    ],
+    "geographic_restrictions": "New Hampshire (US Northeast)",
+    "project_area": "Biomedical research projects with 50% or 25% effort commitment",
+    "demographic_requirements": "PI must be from an NH-INBRE PUI partner institution; collaborative projects require a Co-Investigator from a different PUI or lead institution",
+    "eligibility_summary": "Open to partner faculty at NH-INBRE PUI institutions submitting research or pilot projects with specified effort commitments. Collaborative projects must include a single PI and one Co-Investigator from a different institution."
+}

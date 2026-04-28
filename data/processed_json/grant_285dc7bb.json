@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Technical Assistance Program (TAP) Round 4",
+    "funding_amount": 400000,
+    "deadline": "May 1, 2026",
+    "eligible_applicant_type": [
+        "Pennsylvania County Conservation Districts"
+    ],
+    "geographic_restrictions": "Pennsylvania, specifically within the Chesapeake Bay Watershed and Most Effective Basins (MEBs)",
+    "project_area": "Agricultural projects requiring technical support for implementation",
+    "demographic_requirements": "Projects must be located within the Chesapeake Bay Watershed and Most Effective Basins (MEBs) in Pennsylvania",
+    "eligibility_summary": "Open to Pennsylvania County Conservation Districts for agricultural projects in designated watersheds. Provides technical support to move projects from planning to implementation."
+}

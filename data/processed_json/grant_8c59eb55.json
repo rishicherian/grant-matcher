@@ -1,0 +1,20 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "NHSCA Arts Project Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "schools",
+        "hospitals",
+        "mental health providers",
+        "facilities that assist military and/or veterans",
+        "law enforcement",
+        "municipalities",
+        "nonprofits",
+        "individuals"
+    ],
+    "geographic_restrictions": "New Hampshire",
+    "project_area": "Arts initiatives that strengthen communities, enrich K\u201312 learning, and promote individual wellbeing (e.g., creativity, community building, access to arts experiences)",
+    "demographic_requirements": "Proposals from schools, hospitals, mental health providers, facilities assisting military/veterans, law enforcement, and municipalities receive elevated weighting. Intended program recipients include individuals across New Hampshire, including students, families, older adults, individuals with disabilities, military and veterans, law enforcement, and those experiencing physical or mental health challenges.",
+    "eligibility_summary": "Open to New Hampshire-based applicants (individuals, nonprofits, schools, hospitals, mental health providers, military/veteran facilities, law enforcement, and municipalities). Proposals must demonstrate how the project uses the arts to strengthen communities, enrich learning, or promote wellbeing. First-time applicants are encouraged to submit drafts for review."
+}

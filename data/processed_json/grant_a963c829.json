@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "The Achelis and Bodman Foundation Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations"
+    ],
+    "geographic_restrictions": "New York City and northern New Jersey",
+    "project_area": "Arts and Culture, Education, Employment, Health, Public Policy, and Youth and Families",
+    "demographic_requirements": "Tax-exempt under Section 501(c)(3) of the Internal Revenue Code",
+    "eligibility_summary": "Nonprofit organizations based in New York City and northern New Jersey that are tax-exempt under Section 501(c)(3) of the Internal Revenue Code and fall within the Foundation's program areas are eligible to submit an inquiry letter. Organizations outside these areas, those seeking funding for declined categories (e.g., endowments, capital campaigns, housing), or those significantly funded by government agencies are ineligible."
+}

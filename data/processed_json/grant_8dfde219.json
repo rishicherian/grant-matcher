@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Boston Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations"
+    ],
+    "geographic_restrictions": "Greater Boston/Massachusetts",
+    "project_area": "Support for adolescents and young adults (ages 14-25) in Greater Boston/Massachusetts, focusing on mental health, trauma, crisis intervention, workforce training, housing stability, and education completion",
+    "demographic_requirements": "Primarily serves adolescents and young adults (ages 14-25), with priority given to high-risk populations such as youth with mental health conditions, homelessness, justice-involved youth, LGBTQ+ youth, foster care leavers, immigrant/refugee youth, neurodivergent youth, and youth needing workforce skills",
+    "eligibility_summary": "Established nonprofit organizations in Greater Boston/Massachusetts that align with the grant's focus on supporting adolescents and young adults through therapeutic services, wraparound support, or pathways to independence. Organizations must demonstrate a track record and fit with 5+ of the specified factors (e.g., serving high-risk populations, addressing mental health/trauma, fostering supportive relationships)."
+}

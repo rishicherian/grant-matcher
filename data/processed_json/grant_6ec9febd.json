@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creative Entrepreneur Accelerator (CEA) Grant Program",
+    "funding_amount": 2000,
+    "deadline": "February 6, 2026",
+    "eligible_applicant_type": [
+        "Individual creative entrepreneurs",
+        "For-profit micro businesses in creative fields"
+    ],
+    "geographic_restrictions": "Allegheny, Beaver, Greene, and Washington counties in Pennsylvania",
+    "project_area": "Creative industries including marketing, architecture, visual arts, crafts, design, film and media, digital games, music, entertainment, and publishing",
+    "demographic_requirements": "Applicants must be at least 18 years of age, live in the specified counties, and operate a business with gross revenue under $200,000. Priority may be given to applicants in low-income, urban, suburban, or rural communities.",
+    "eligibility_summary": "Open to creative entrepreneurs starting a business or operating a micro business in eligible creative fields. Non-profits are ineligible. Applicants must first complete a business plan consultation with a Referral Coordinator and demonstrate eligibility. Previous recipients must wait three years before reapplying."
+}

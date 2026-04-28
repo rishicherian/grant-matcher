@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Connecticut Affordable Housing Program (AHP or FLEX)",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "For-Profit Developers",
+        "Nonprofit Developers",
+        "Municipalities and Housing Authorities",
+        "CDFIs"
+    ],
+    "geographic_restrictions": "Connecticut",
+    "project_area": "Affordable housing development and preservation",
+    "demographic_requirements": "Quality, affordable housing for Connecticut residents, promotes homeownership and mixed-income developments, and assists in the revitalization of urban and rural centers",
+    "eligibility_summary": "Applicants must be eligible under DOH's funding schedule. Funds are available as grants, loans, loan guarantees, or deferred loans with no size limit on properties."
+}

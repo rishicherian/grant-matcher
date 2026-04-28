@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Joseph Kennard Skilling Trust",
+    "funding_amount": null,
+    "deadline": "April 1 and October 1",
+    "eligible_applicant_type": [
+        "501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Primarily supports organizations located within the community of Philadelphia, Pennsylvania, though no strict geographic limitations are enforced.",
+    "project_area": "Social welfare programs benefiting the citizens of Philadelphia, including arts, culture, humanities, education, environment/animals, health, human services, international/foreign affairs, public/society benefit, and religion.",
+    "demographic_requirements": "Preference given to programs serving the elderly, children and youth at risk, spousal and child abuse victims, homeless individuals, physically and mentally impaired, disadvantaged youth and adults, and family support services.",
+    "eligibility_summary": "Open to charitable non-profit organizations with 501(c)(3) status. Excludes building/construction projects, equipment (unless for disadvantaged youth education), certain healthcare organizations, scholarships to private schools without special programs, physical therapy programs (unless for permanently handicapped), national organizations, and religious organizations (unless serving disadvantaged youth, elderly, or homeless)."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Green School Grant Program",
+    "funding_amount": 1000,
+    "deadline": "Friday, May 15th",
+    "eligible_applicant_type": [
+        "Public K-12 schools",
+        "Private K-12 schools"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Waste reduction, reuse, recycling, composting, and outreach programs in K-12 schools",
+    "demographic_requirements": "Special consideration given to schools located in disadvantaged communities (view map of communities provided).",
+    "eligibility_summary": "All public and private K-12 schools in New York State are eligible. Applicants must include a goal to increase awareness or minimize waste through waste reduction, reuse, recycling, and/or composting and outreach, and agree to share program information and data with NYSAR3."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Request for Interest: Federal Funding Application Assistance",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Local Jurisdictions",
+        "ISP partners"
+    ],
+    "geographic_restrictions": "Maryland",
+    "project_area": "Federal Funding Application preparation for broadband expansion",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Local Jurisdictions or their ISP partners may apply for 100% grants to cover costs associated with Federal Funding Applications, including market studies, engineering, legal, financial, and other approved services."
+}

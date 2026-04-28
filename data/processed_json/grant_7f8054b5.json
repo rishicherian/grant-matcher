@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "HOME CHDO (Community Housing Development Organizations) Program",
+    "funding_amount": 2000000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Non-profit organizations"
+    ],
+    "geographic_restrictions": "New Jersey, USA",
+    "project_area": "Affordable housing for low-income households (rent or homeownership), including rehabilitation, new construction, conversion of non-residential properties, and direct rental assistance",
+    "demographic_requirements": "Low-income households (generally defined as having an adjusted gross income below 80% of the applicable area median income). Rental units must be affordable (\u226435% of gross income for rent/utilities, 40% for age-restricted units). Homeownership units must not exceed 28% of household income for mortgage, taxes, insurance, and fees.",
+    "eligibility_summary": "Must be a State-certified CHDO. Non-profit organizations must submit CHDO documentation to the Department and be certified as a CHDO. Projects must include rehabilitation, new construction, or conversion of non-residential properties to residential use. Rental units must be permanent housing. Construction of 12+ units requires Davis-Bacon Act prevailing wage rates."
+}

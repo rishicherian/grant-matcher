@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Greenway Ecological Fund Grant",
+    "funding_amount": 1000000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Non-profit organizations (501(c)(3))",
+        "Local government entities (cities, towns, villages, counties)",
+        "Indian Nations",
+        "Public benefit corporations (New York State)"
+    ],
+    "geographic_restrictions": "Projects must be located within the Niagara Greenway region in Western New York (Buffalo-Niagara region).",
+    "project_area": "Ecological enhancements including land acquisition and conservation, habitat research, aquatic and terrestrial land restoration, ecological stewardship activities, and education.",
+    "demographic_requirements": "Projects must align with the Niagara River Greenway Plan and receive a determination of 'consistency' from the Niagara River Greenway Commission prior to submission.",
+    "eligibility_summary": "Eligible applicants include non-profits (501(c)(3)), local government entities, Indian Nations, or public benefit corporations in the Buffalo-Niagara region. Projects must support ecological enhancements within the Niagara Greenway and align with the Niagara River Greenway Plan."
+}

@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "University of Vermont Cancer Center Pilot Project - Calendar Year 2026",
+    "funding_amount": 50000,
+    "deadline": "Tuesday, September 2nd 2025 at 11:59 pm",
+    "eligible_applicant_type": [
+        "Cancer Center Full Members",
+        "Cancer Center Associate Members",
+        "Cancer Center Core Clinical Members",
+        "Cancer Center Clinical Members"
+    ],
+    "geographic_restrictions": "University of Vermont Cancer Center members (primarily Vermont-based)",
+    "project_area": "Cancer-related research projects, postdoctoral research, and career development",
+    "demographic_requirements": "Must be a project not supported by existing extra- or intra-mural grant funding; no Cancer Center pilot grant funding within the past two years",
+    "eligibility_summary": "Open to UVM Cancer Center members (Full, Associate, Core Clinical, or Clinical) with projects not already funded by other grants and no prior pilot grant funding in the last two years. Projects must aim to generate preliminary data for future extramural funding or publications."
+}

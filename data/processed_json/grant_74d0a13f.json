@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Harold Alfond Foundation Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Public charities",
+        "501(c)(3) tax-exempt organizations"
+    ],
+    "geographic_restrictions": "State of Maine",
+    "project_area": "Education, health care, and youth and community development",
+    "demographic_requirements": "None specified beyond organizational eligibility",
+    "eligibility_summary": "Grants are restricted to public charities or 501(c)(3) organizations operating in Maine. Excludes individuals, religious organizations for religious purposes, start-ups, event sponsorships, political causes, lobbying efforts, and international programs."
+}

@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Artist Project Grant",
+    "funding_amount": 2500,
+    "deadline": "March 30, 2026 (5:00 p.m.)",
+    "eligible_applicant_type": [
+        "individual artists"
+    ],
+    "geographic_restrictions": "Maine (US Northeast)",
+    "project_area": "Support for individual artists to enhance skills, career growth, and artistic projects in any discipline",
+    "demographic_requirements": "Must be a practicing artist, current Maine resident, and 18 years or older by the application deadline",
+    "eligibility_summary": "Open to practicing individual artists who are Maine residents (18+). Applicants must have completed all final reports for previous Maine Arts Commission awards. Projects must align with U.S. and state laws, including non-discrimination policies."
+}

@@ -1,0 +1,21 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Pediatric Hematology and Oncology Research Center of Excellence Pilot Grant Program",
+    "funding_amount": 50000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Faculty",
+        "Assistant Professors (with letter of support)",
+        "Undergraduate Students",
+        "Medical Students",
+        "Graduate Students",
+        "Pharmacy Students",
+        "Residents",
+        "Fellows",
+        "Postdoctoral Fellows"
+    ],
+    "geographic_restrictions": "New Jersey, USA",
+    "project_area": "Pediatric cancer and blood disorders research, including disease biology, novel therapeutic approaches, biomarkers, symptom reduction, supportive care, outcome disparities, and survivorship care",
+    "demographic_requirements": "Applicants identifying as individuals underrepresented in the life sciences (as defined by the NIH) are strongly encouraged to apply and may receive priority during review.",
+    "eligibility_summary": "Open to Rutgers faculty, students, and trainees. Assistant Professors within two years of first post-training appointment and students/trainees require a letter of support from a Chair or primary mentor. Projects must align with pediatric cancer or blood disorders research."
+}

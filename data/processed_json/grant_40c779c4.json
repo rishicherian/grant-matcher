@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Extended Day/Extended Year Programming at Philadelphia Public Schools",
+    "funding_amount": null,
+    "deadline": "May 4, 2026",
+    "eligible_applicant_type": [
+        "Private for-profit organizations",
+        "Private non-profit organizations"
+    ],
+    "geographic_restrictions": "Philadelphia, PA (US Northeast)",
+    "project_area": "Out-of-School Time (OST) programming for K-12 students, including before/after-school, winter/spring break, and summer programs with structured activities in social-emotional learning, athletics, creative/performing arts, STEM, humanities, entrepreneurship, and civic engagement.",
+    "demographic_requirements": "Programming designed for all youth, particularly those in underserved communities or with involvement in the child welfare system. Programs must be offered at no cost to families.",
+    "eligibility_summary": "Applicants must be private for-profit or non-profit organizations with at least one year of experience running youth development programs in Philadelphia's underserved communities. Must comply with PA DHS childcare certification and operate programs within specified school sites. Government agencies are ineligible."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Fiscal Year 2027 Cultural Development Fund (CDF)",
+    "funding_amount": null,
+    "deadline": "Thursday, April 2, 2026 at 5pm (ET)",
+    "eligible_applicant_type": [
+        "Nonprofit arts or cultural organizations",
+        "Nonprofit organizations with an arts or culture component in their broader mission"
+    ],
+    "geographic_restrictions": "New York City (all five boroughs)",
+    "project_area": "Arts and cultural services",
+    "demographic_requirements": "None explicitly stated beyond organizational eligibility (e.g., nonprofit status, NYC-based operations)",
+    "eligibility_summary": "Eligible organizations must be NYC-based nonprofits (501(c)(3) or fiscally sponsored) with a history of arts/culture services in the city for the last two consecutive years. Ineligible entities include individual artists, LLCs, schools, government programs, and organizations without a NYC administrative base or prior compliance history."
+}

@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "The HMTF Pilot Award Program for Myelodysplastic Syndrome Research",
+    "funding_amount": 100000,
+    "deadline": "July 1, 2024",
+    "eligible_applicant_type": [
+        "MD",
+        "PhD",
+        "MD/PhD",
+        "equivalent degree holders"
+    ],
+    "geographic_restrictions": "United States (no specific Northeast restriction)",
+    "project_area": "Myelodysplastic Syndromes (MDS) research, including CMML and JMML, excluding AML and MPN",
+    "demographic_requirements": "Early-career investigators (instructor, assistant professor and above) with faculty appointments in the US",
+    "eligibility_summary": "Applicants must hold an MD, PhD, MD/PhD, or equivalent degree, have a faculty appointment in the US (instructor or higher) with laboratory space, conduct research at a non-profit institution, focus on non-incremental MDS research, and not be affiliated with for-profit industries. Only one application per PI is allowed."
+}

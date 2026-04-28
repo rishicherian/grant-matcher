@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Newark Fresh, Healthy Food Access Grant",
+    "funding_amount": 20000,
+    "deadline": "February 19",
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "community gardens",
+        "urban farms",
+        "farmers' markets",
+        "mobile markets",
+        "local food access initiatives"
+    ],
+    "geographic_restrictions": "Newark, New Jersey (Northeast US)",
+    "project_area": "Fresh, healthy food access and nutrition education projects",
+    "demographic_requirements": "Locally driven organizations that reflect and engage the Newark community",
+    "eligibility_summary": "Open to Newark-led organizations with projects focused on fresh, healthy food access and nutrition education. Priority given to nonprofits that align with the mission of improving community health and sustainability in Newark."
+}

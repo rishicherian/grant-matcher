@@ -1,0 +1,24 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "North to Shore (N2S) Community Arts Program Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "performers",
+        "programmers",
+        "artists",
+        "curators",
+        "collectives",
+        "community organizations",
+        "musicians",
+        "bands",
+        "singers",
+        "comedians",
+        "visual artists",
+        "producers"
+    ],
+    "geographic_restrictions": "City of Newark, New Jersey (Northeast US)",
+    "project_area": "Live performances, exhibitions, and arts and cultural programming for the North to Shore Festival Newark",
+    "demographic_requirements": "No explicit demographic requirements; open to all eligible applicants.",
+    "eligibility_summary": "Open to artists, collectives, and community organizations in Newark, NJ, to support arts and cultural programming for the North to Shore Festival (June 13-27, 2026). Funding ranges from $1,000 to $5,000."
+}

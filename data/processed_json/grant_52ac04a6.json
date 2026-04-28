@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Small Grants for Smart Growth",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "municipality",
+        "municipal commission or committee",
+        "non-profit organization",
+        "citizens group (working with a non-profit or seeking 501(c)(3) status)"
+    ],
+    "geographic_restrictions": "State of Vermont",
+    "project_area": "Community-based initiatives related to smart growth, including land use planning, transportation choice, housing affordability, downtown revitalization, conservation, and public engagement",
+    "demographic_requirements": "Projects must be inclusive and engage a cross-section of community members, especially those historically underrepresented in public processes",
+    "eligibility_summary": "Local or multi-town entities in Vermont may apply for seed funding ($500 to $2,500) for projects that promote sustainable development, smart growth principles, and community engagement. Projects must be completed within one year and align with smart growth objectives such as housing choice, transportation alternatives, and environmental resilience."
+}

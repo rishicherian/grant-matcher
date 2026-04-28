@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Faculty UNYTE Translational Research Network Pilot Award",
+    "funding_amount": 50000,
+    "deadline": "March 9, 2026 at 5 p.m.",
+    "eligible_applicant_type": [
+        "Faculty",
+        "Early-career Faculty",
+        "Faculty from other UNYTE member institutions"
+    ],
+    "geographic_restrictions": "Restricted to University of Rochester faculty collaborating with faculty from UNYTE Translational Research Network institutions (New York State)",
+    "project_area": "Translational health research with a focus on new inter-institutional collaborations",
+    "demographic_requirements": "No specific demographic requirements; eligibility is based on institutional affiliation and collaborative structure",
+    "eligibility_summary": "Proposals must involve a new or expanded collaboration between a University of Rochester faculty member and at least one principal investigator from a UNYTE member institution. The contact PI must have a primary appointment at the University of Rochester. Faculty may participate as PI, MPI, or faculty sponsor/primary mentor on only one submission per award category. Any faculty member with a current grant overlapping aims is ineligible."
+}

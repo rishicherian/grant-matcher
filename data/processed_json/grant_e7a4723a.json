@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Harold M. Greaney Trust Fund",
+    "funding_amount": null,
+    "deadline": "February 1, 2026",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofits",
+        "fiscal sponsors with 501(c)(3) status",
+        "churches",
+        "schools",
+        "similar nonprofit entities"
+    ],
+    "geographic_restrictions": "Perry County, Pennsylvania",
+    "project_area": "Programs and services for Perry County citizens",
+    "demographic_requirements": "Nonprofit organizations serving Perry County citizens",
+    "eligibility_summary": "Eligible applicants must have 501(c)(3) status, utilize a fiscal sponsor with 501(c)(3) status, or demonstrate nonprofit status as a church, school, or similar entity. TFEC grantmaking does not fund advertising, capital campaigns, direct lobbying to influence legislation, individuals, religious organizations for the propagation of religious doctrine, or retroactive projects."
+}

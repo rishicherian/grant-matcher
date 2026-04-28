@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Boxing Community Center Request for Proposal (RFP)",
+    "funding_amount": null,
+    "deadline": "February 27, 2026 at 2:00pm",
+    "eligible_applicant_type": [
+        "Community-based organizations",
+        "Non-profit organizations",
+        "Pre-qualified vendors"
+    ],
+    "geographic_restrictions": "New York City (NYC)",
+    "project_area": "Boxing training and mentoring for high-risk youth and young adults, fitness center for Brownsville residents, and onsite case management",
+    "demographic_requirements": "High-risk youth and young adults, Brownsville residents of all ages",
+    "eligibility_summary": "Qualified vendors must provide boxing training, mentoring, fitness center services, and case management. Proposals must be submitted via PASSPort by pre-qualified organizations."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "UMMS Community Impact Grants",
+    "funding_amount": null,
+    "deadline": "FY2027 (applications currently closed)",
+    "eligible_applicant_type": [
+        "nonprofit community organizations",
+        "501(c)(3) public charities"
+    ],
+    "geographic_restrictions": "Maryland",
+    "project_area": "Health and wellness initiatives, dismantling barriers to health/safety/wellness, programs/events benefiting Maryland communities",
+    "demographic_requirements": "Programs must benefit communities in Maryland, with priority given to initiatives addressing health equity, diversity, and inclusion",
+    "eligibility_summary": "Open to nonprofit organizations and 501(c)(3) public charities serving Maryland communities. Health-focused missions are prioritized, but non-health organizations (e.g., cultural, civic, educational) may apply if proposals align with UMMS Community Impact Grant Guidelines."
+}

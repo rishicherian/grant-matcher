@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Delaware INBRE Pilot Project Award",
+    "funding_amount": 40000,
+    "deadline": "November 3, 2025 (11:59 ET)",
+    "eligible_applicant_type": [
+        "Faculty at DE-INBRE partner institutions (University of Delaware, Delaware State University, Christiana Care Health System, Nemours Children\u2019s Hospital, Delaware Technical Community College)",
+        "Faculty at DE-INBRE affiliate institutions (Wilmington VA Medical Center, Delaware Public Health Laboratory, Delaware Health Information Network, Delaware Biosciences Association)",
+        "Independent investigators (excluding graduate students, clinical fellows, and post-doctoral scholars)"
+    ],
+    "geographic_restrictions": "Delaware (US Northeast)",
+    "project_area": "Biomedical research aligned with NIH goals, including pilot projects, feasibility studies, and data science initiatives using Delaware-based biomedical databases",
+    "demographic_requirements": "Investigators must engage undergraduate students in research projects as part of the funded work. Early-stage and new investigators are prioritized for certain award types.",
+    "eligibility_summary": "Eligible applicants are independent investigators employed by DE-INBRE partner or affiliate institutions. Graduate students, clinical fellows, and post-doctoral scholars are ineligible. Applicants must devote at least 25% of their professional effort (3.0 person months) to research and career development. Investigators with active IDeA mechanism funding are ineligible for simultaneous DE-INBRE Pilot Project funding."
+}

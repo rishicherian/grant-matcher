@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Consolidated Funding Round for Housing Production and Preservation in Rhode Island",
+    "funding_amount": 113000000,
+    "deadline": "December 18, 2025",
+    "eligible_applicant_type": [
+        "Developers",
+        "Non-profit organizations",
+        "Municipalities",
+        "Housing authorities",
+        "Investors",
+        "Builders"
+    ],
+    "geographic_restrictions": "Rhode Island (entire state)",
+    "project_area": "Affordable housing production, preservation, rehabilitation, new construction, and supportive housing initiatives",
+    "demographic_requirements": "Households with incomes at or below 120% of Area Median Income (AMI), with priority for households at or below 30% AMI, exiting homelessness, or extremely low-income individuals and families.",
+    "eligibility_summary": "Eligible projects include new construction, rehabilitation, acquisition, adaptive reuse, and preservation of affordable rental and homeownership housing. Specific programs have additional requirements such as minimum unit counts, income targeting, and prioritization for supportive housing or small-scale developments. Applicants must comply with Build America Buy America (BABA) requirements for HOME and HTF-funded projects."
+}

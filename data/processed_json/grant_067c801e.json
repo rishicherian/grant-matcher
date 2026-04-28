@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "New York Fund for Innovation in Research and Scientific Talent (NYFIRST)",
+    "funding_amount": 1000000,
+    "deadline": "May 15, 2026 at 5:00pm ET",
+    "eligible_applicant_type": [
+        "Medical schools in New York State"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Translational research in life sciences, focusing on recruitment/retention of exceptional researchers with commercialization potential",
+    "demographic_requirements": "Principal Investigator must have a history of translational research, entrepreneurship (patents, commercialization), tenure-track or tenured, and must recruit/retain scientists from outside NYS or retain at least two full-time (or four part-time) scientists/doctoral students/post-doctoral fellows.",
+    "eligibility_summary": "Only medical schools in New York State are eligible. The recruited researcher must have a history of translational research, demonstrate entrepreneurship, be tenure-track or tenured, and bring in scientists from outside NYS or retain at least two full-time (or four part-time) researchers. The research must have potential for significant life science economic development benefits in NYS."
+}

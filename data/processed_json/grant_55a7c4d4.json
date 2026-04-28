@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Responsive Grants",
+    "funding_amount": 10000,
+    "deadline": "Rolling, until funds are fully allocated. Application opens Monday, March 9, 2026.",
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "public schools"
+    ],
+    "geographic_restrictions": "New Hampshire communities and select bordering communities in Maine and Vermont",
+    "project_area": "General operating expenses or specific projects addressing emerging organizational or community needs",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Open to qualified nonprofit organizations and public schools serving New Hampshire communities (and select bordering areas in Maine and Vermont) for timely support of emerging needs."
+}

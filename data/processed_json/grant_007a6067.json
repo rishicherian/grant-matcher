@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Basic Human Needs Emergency Assistance Grant",
+    "funding_amount": 30000,
+    "deadline": "August 26, 2025",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Community groups with a fiscal sponsor"
+    ],
+    "geographic_restrictions": "Greater Hartford, Connecticut",
+    "project_area": "Emergency services and support for vulnerable residents (food security, medical aid, financial assistance, personal care items, informal case management)",
+    "demographic_requirements": "Preference for programs serving all members of the general public, with priority for projects serving Asset-Limited, Income-Constrained, and Employed (ALICE) households.",
+    "eligibility_summary": "Must be a 501(c)(3) nonprofit or operate under a fiscal sponsor, operational for at least one year, and not a core support grantee or recent recipient of $50,000+ from the Foundation. Organizations with operating budgets of $2.5M+ face a 'three years on, one year off' rule, except for food security-focused organizations."
+}

@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Urban Farms and Community Gardens Grant Program",
+    "funding_amount": 2500000,
+    "deadline": "September 5, 2025 at 4:00 pm",
+    "eligible_applicant_type": [
+        "not-for-profit organizations",
+        "not-for-profit educational institutions",
+        "municipal government entities",
+        "Indian tribal organizations"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Urban farms, school gardens, and community gardens with a focus on food production, food safety, and food distribution",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Supports community growing spaces and local food resiliency in New York State. Funds may be used for worker wages, contractual expenses, equipment, and operating expenses."
+}

@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "MA Vacant Storefront Program (MVSP)",
+    "funding_amount": 10000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Businesses",
+        "Individuals"
+    ],
+    "geographic_restrictions": "Worcester, Massachusetts (Pleasant Street, Chandler Street, Main Street districts)",
+    "project_area": "Leasing and occupying vacant storefronts in designated commercial districts",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Businesses or individuals leasing a vacant, first-floor storefront in one of the three Vacant Store Front Districts (Pleasant Street, Chandler Street, Main Street) that has been unoccupied for at least 12 months are eligible. Applicants must receive a letter of support from the City of Worcester."
+}

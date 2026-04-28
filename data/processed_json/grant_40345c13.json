@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Elder Home Repair Program",
+    "funding_amount": 25000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "seniors",
+        "low-income individuals"
+    ],
+    "geographic_restrictions": "City of Worcester, Massachusetts (US Northeast)",
+    "project_area": "Home rehabilitation for major systems (mechanical, heating, roof, siding, windows), code compliance, or accessibility features",
+    "demographic_requirements": "Owner must be at least 62 years of age, meet low to moderate income limits, and agree to a five-year owner-occupied restriction. For multi-unit properties, at least 51% of the building must meet income limits.",
+    "eligibility_summary": "Open to income-eligible seniors aged 62+ who own their home in Worcester, MA. Must provide income documentation and meet HUD income limits. Multi-unit properties require 51% of units to meet income limits, with tenants also providing income documentation."
+}

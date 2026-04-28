@@ -1,0 +1,21 @@
+City of Worcester, MA
+=====================
+Eric D. Batista
+**City Manager**
+Worcester Arts Council’s FY26 Grant Applications Open
+-----------------------------------------------------
+**FOR IMMEDIATE RELEASE: 9/4/2025 2:54 pm**
+**WORCESTER, Mass.** – The Worcester Arts Council (WAC) is now accepting grant applications for its FY26 funding cycle. The deadline to apply is Oct. 16, 2025.
+As part of a statewide network of Local Cultural Councils (LCCs), WAC receives funding through Mass Cultural Council (MCC) annually. For FY26, WAC will once again award thousands for local arts and cultural programs in Worcester to individuals, nonprofits, associations with an established nonprofit objective, schools, libraries, and other public agencies.
+This year, MCC is awarding WAC $236,500 for its grants. The Greater Worcester Community Foundation (GWCF) has also renewed its support for an additional $10,000 toward WAC Fellowship Grants.
+“At a time when arts and humanities funding faces freezes and cutbacks at the national level, we are deeply grateful that our state and local partners remain steadfast in their commitment to Worcester’s cultural life,” said Cultural Development Officer Fabian Barracks. “The Massachusetts Cultural Council and the Greater Worcester Community Foundation continue to champion the arts, providing crucial support that uplifts creative voices, strengthens community connections, and ensures our city remains a vibrant hub of innovation, diversity, and inclusivity.”
+WAC offers two types of grants: Project Grants and Fellowship Grants. Project Grants support individuals and organizations from Worcester County in developing projects and programs within the city that are innovative, collaborative, provide a public benefit, reach underserved populations, and demonstrate creative excellence. Fellowship Grants help Worcester artists of all trades in developing and exploring their work outside the structure of a specific project.
+“The Worcester Arts Council is thrilled to launch our FY26 grant cycle, and we’re eager to see the incredible projects and creative visions our community will bring to life,” said WAC Chair Chris Michelotti. “This year’s funding supports WAC’s commitment to nurturing Worcester’s vibrant cultural landscape. We believe that every idea, big or small, has the power to transform our city. Whether you’re an artist, an educator, or a cultural organization, this is your opportunity to make a lasting impact and help shape the arts in Worcester.”
+While all projects within the realm of arts, sciences, and humanities will be considered, based on the feedback received from the Worcester community through its annual Funding Priorities Survey, WAC will give preference to grant applicants and projects that align with the following priorities for FY26:
+* Projects that focus on Arts Education & Instruction, Public Art, Musical Performances, and programs for all age groups from children to seniors.
+* Projects that elevate the voices and experiences of historically marginalized groups to highlight the current and historical diversity of Worcester. Projects should create opportunities for artists and community members through a Diversity, Equity, Inclusion, and Accessibility lens.
+* Projects that take place in/or benefit areas of Worcester that are historically underserved.
+WAC’s FY26 Grant Guidelines and instructions on how to apply can be found at: **Arts & Culture Grants | City of Worcester, MA (worcesterma.gov)**
+All applications must be submitted online by Oct. 16, 2025, at 11:59 p.m. Late applications will not be accepted. WAC will review all grant applications from November through December 2025. Applicants will be notified of funding decisions by late January 2026. There will be a virtual grantee workshop hosted by MCC on Sept. 9, 2025, at 6 p.m. Register here: **MCC Registration**
+WAC will also host a virtual Grant Workshop on Zoom for potential applicants. WAC encourages anyone who may be interested in learning more or applying, especially first-time applicants, to attend. Follow @worcesterartscouncil on Instagram for announcement details.
+* Back to Announcements List

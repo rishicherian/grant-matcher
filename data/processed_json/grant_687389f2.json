@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creative Aging Grants",
+    "funding_amount": 6000,
+    "deadline": "Oct. 19, 2026",
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Municipalities",
+        "Educational institutions"
+    ],
+    "geographic_restrictions": "Vermont, USA",
+    "project_area": "Arts education and arts-based community building for older adults aged 60+",
+    "demographic_requirements": "Projects must serve older adults aged 60+ and be led by experienced teaching artists in partnership with applicants.",
+    "eligibility_summary": "Nonprofit organizations, municipalities, and educational institutions in Vermont may apply for grants up to $6,000 to support arts-based projects for older adults. Priority is given to projects facilitated by Vermont artists, especially those on the Creative Aging Teaching Artist Roster."
+}

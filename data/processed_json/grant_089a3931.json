@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "GHCF UPstream Grant Opportunity",
+    "funding_amount": 10000,
+    "deadline": "September 1, 2026",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofit organizations",
+        "Nonprofit organizations recognized by the IRS",
+        "Faith-based organizations (for programs serving all members of the community)"
+    ],
+    "geographic_restrictions": "Cumberland, Dauphin, Franklin, Lebanon, and Perry Counties, and the Dillsburg Area of Northern York County (Pennsylvania, US Northeast)",
+    "project_area": "Upstream solutions addressing systemic community issues (e.g., education, environment, health, housing stability, mental health, seniors, arts, etc.)",
+    "demographic_requirements": "Projects must serve individuals, groups, or locations within the specified geographic area. Priority given to inclusive and accessible programs reflecting the community served.",
+    "eligibility_summary": "Nonprofit organizations (or fiscally sponsored projects) with upstream-focused initiatives serving the GHCF service area. Excludes capital campaigns, lobbying, religious purposes, individuals, and retroactive projects."
+}

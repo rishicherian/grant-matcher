@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Goldman Sachs Community Development Grants Program",
+    "funding_amount": 1050000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Domestic nonprofit organizations under section 501(c)(3) of the U.S. Internal Revenue Code"
+    ],
+    "geographic_restrictions": "New York City (New York County, Bronx County, Kings County, Richmond County, Queens County), Hudson and Essex Counties in New Jersey, and Salt Lake City, UT (Salt Lake County, Summit County, Tooele County)",
+    "project_area": "Affordable housing, small business development, neighborhood revitalization, community services (including education and financial education), and homeownership initiatives for low- and moderate-income households",
+    "demographic_requirements": "Focus on low- and moderate-income (LMI) individuals or communities",
+    "eligibility_summary": "Domestic, nonprofit, tax-exempt organizations under section 501(c)(3) of the U.S. Internal Revenue Code with a clear focus on community development, particularly for LMI households and communities, and headquartered or majority operating in eligible geographies."
+}

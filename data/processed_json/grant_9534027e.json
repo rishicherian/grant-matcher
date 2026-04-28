@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Workforce Innovation and Opportunity Act (WIOA) Youth and Young Adults Funding for South Central Connecticut",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Nonprofit organizations",
+        "Educational institutions",
+        "Local government agencies",
+        "Workforce development boards"
+    ],
+    "geographic_restrictions": "South Central Connecticut Workforce Region (including New Haven, Wallingford, and surrounding areas)",
+    "project_area": "Work-based learning, employability programs, green jobs training, academic and career development, leadership skills, and occupational skills for in-school and out-of-school youth aged 14-24",
+    "demographic_requirements": "Youth must meet low-income guidelines and one or more challenge definitions. Programs target in-school youth aged 14-21 and out-of-school youth aged 16-24.",
+    "eligibility_summary": "Funding is available for organizations and agencies serving youth in South Central Connecticut. Youth participants must be referred by their school (for in-school youth) or meet age and income requirements (for out-of-school youth). Programs must align with WIOA guidelines and focus on work-based learning, employability, and career development."
+}

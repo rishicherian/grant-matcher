@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Development Block Grant (CDBG) Program",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Principal cities of Metropolitan Statistical Areas (MSAs)",
+        "Other metropolitan cities with populations of at least 50,000",
+        "Qualified Urban Counties with populations of at least 200,000 (excluding the population of entitled cities)",
+        "States",
+        "Insular areas",
+        "Non-entitlement Units of General Local Government (UGLG)"
+    ],
+    "geographic_restrictions": "Nationwide (U.S. Northeast included)",
+    "project_area": "Community development, housing, economic opportunities, and suitable living environment for low- and moderate-income persons",
+    "demographic_requirements": "At least 70% of CDBG funds must benefit low- and moderate-income persons over a 1, 2, or 3-year period.",
+    "eligibility_summary": "Eligible applicants include principal cities of MSAs, metropolitan cities with populations \u226550,000, urban counties with populations \u2265200,000, states, insular areas, and non-entitlement UGLGs. Funds must address national objectives such as benefiting low- and moderate-income persons, preventing/eliminating slums or blight, or addressing urgent community needs. HUD does not provide funds directly to individuals or non-governmental entities; applicants must contact local municipal or county officials."
+}

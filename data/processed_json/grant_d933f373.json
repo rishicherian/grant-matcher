@@ -1,0 +1,20 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Nita M. Lowey 21st Century Community Learning Centers (21st CCLC) Cohort 12",
+    "funding_amount": null,
+    "deadline": "Thursday, November 9, 2023, at 12:00 PM",
+    "eligible_applicant_type": [
+        "local education agencies (LEA)",
+        "non-profit community-based organizations",
+        "city or county government agencies",
+        "faith-based organizations",
+        "family centers",
+        "higher education institutions",
+        "for-profit corporations",
+        "consortia of two or more eligible entities"
+    ],
+    "geographic_restrictions": "Pennsylvania (US Northeast)",
+    "project_area": "Academic enrichment, artistic and cultural programs, literacy, STEM, career readiness, and family engagement during non-school hours for students in high-poverty and low-performing schools",
+    "demographic_requirements": "Priority given to applications serving students in school districts identified for improvement and joint submissions by at least one Title I, Part A LEA and a public or private community organization",
+    "eligibility_summary": "Open to LEAs, non-profits, government agencies, faith-based groups, higher education, for-profits, and consortia. Non-LEA applicants must demonstrate collaboration with a school district. Must serve students in high-poverty or low-performing schools, with priority for Title I schools and joint applications."
+}

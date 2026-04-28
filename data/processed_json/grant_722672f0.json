@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Civic Engagement Mini-Grants",
+    "funding_amount": 1000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "501(c)(3) organizations",
+        "schools",
+        "governmental agencies"
+    ],
+    "geographic_restrictions": "42 communities in Eastern Connecticut",
+    "project_area": "Civic Affairs",
+    "demographic_requirements": "Emphasis on inclusive civic participation, particularly from communities of color and youth",
+    "eligibility_summary": "Open to 501(c)(3) organizations, schools, and governmental agencies serving 42 communities in Eastern Connecticut. Focus on fostering inclusive civic participation."
+}

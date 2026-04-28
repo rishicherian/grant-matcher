@@ -1,0 +1,18 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Worcester Arts Council FY26 Grant Applications",
+    "funding_amount": 246500,
+    "deadline": "2025-10-16",
+    "eligible_applicant_type": [
+        "individuals",
+        "nonprofits",
+        "associations with an established nonprofit objective",
+        "schools",
+        "libraries",
+        "public agencies"
+    ],
+    "geographic_restrictions": "Worcester, MA (Worcester County)",
+    "project_area": "arts, sciences, and humanities with preference for Arts Education & Instruction, Public Art, Musical Performances, programs for all age groups, and projects benefiting historically marginalized groups or underserved areas",
+    "demographic_requirements": "Projects should create opportunities for artists and community members through a Diversity, Equity, Inclusion, and Accessibility lens, with preference for historically marginalized groups and underserved areas in Worcester.",
+    "eligibility_summary": "Open to individuals, nonprofits, schools, libraries, and public agencies in Worcester County. Two grant types: Project Grants (for innovative, collaborative projects with public benefit) and Fellowship Grants (for Worcester artists developing their work)."
+}

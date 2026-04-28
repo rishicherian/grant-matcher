@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Project Grants for Organizations",
+    "funding_amount": 6000,
+    "deadline": "April 1 at 11:59 p.m.",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofit organizations based in Rhode Island",
+        "Groups fiscally sponsored by a 501(c)(3) nonprofit organization based in Rhode Island",
+        "Out-of-state organizations with principal place of business in Rhode Island, registered with the R.I. Secretary of State, producing programming predominantly in Rhode Island, and governed by a Rhode Island-based board"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Arts and culture projects relevant to Rhode Island communities",
+    "demographic_requirements": "Programs that engage underserved communities as defined by the NEA are particularly suitable.",
+    "eligibility_summary": "Open to Rhode Island-based 501(c)(3) nonprofits or fiscally sponsored groups. Out-of-state organizations must meet specific Rhode Island-based criteria. Projects must be discrete, not part of a larger season, and occur in ADA-compliant spaces. Organizations must not be delinquent on prior reports or receiving conflicting RISCA grants."
+}

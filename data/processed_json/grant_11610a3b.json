@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "NYC Community Grant",
+    "funding_amount": 1000,
+    "deadline": "Quarterly deadlines: March 1st, June 1st, September 1st, December 1st",
+    "eligible_applicant_type": [
+        "individual women",
+        "women-led organizations",
+        "grassroots groups"
+    ],
+    "geographic_restrictions": "New York City (Bronx, Brooklyn, Manhattan, Queens, Staten Island)",
+    "project_area": "Community-based projects benefiting women and girls in NYC",
+    "demographic_requirements": "Projects must directly benefit women and/or girls in New York City",
+    "eligibility_summary": "Open to individuals and organizations based in NYC that are women-led or women-focused. Projects must be community-based, benefit women/girls, and align with focus areas such as economic empowerment, education, health, advocacy, entrepreneurship, or community transformation. Applicants must submit a detailed budget, project plan, and supporting documents."
+}

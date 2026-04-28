@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "NH-INBRE Developmental Research Projects Program (DRPP)",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Faculty at NH-INBRE Partner institutions"
+    ],
+    "geographic_restrictions": "New Hampshire (US Northeast)",
+    "project_area": "Biomedical research with a focus on student and faculty engagement",
+    "demographic_requirements": "Faculty principal investigators at NH-INBRE Partner institutions",
+    "eligibility_summary": "Open to faculty at NH-INBRE Partner institutions proposing competitive biomedical research projects. Includes Research Projects (50% effort), Pilot Projects (25% effort), and Collaborative Projects (with Dartmouth or UNH collaborators). Alternative funding mechanisms include Seed Grants (1-year, no salary support) and Targeted Incentive Grants (for manuscripts or grant applications)."
+}

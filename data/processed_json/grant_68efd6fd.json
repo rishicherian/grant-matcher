@@ -1,0 +1,22 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Equity Workforce Training Implementation Grants",
+    "funding_amount": 1200000,
+    "deadline": "May 18, 2026",
+    "eligible_applicant_type": [
+        "Community-based organizations",
+        "Post-secondary educational institutions",
+        "K-12 School Districts",
+        "Trade and Labor entities",
+        "Federally Recognized and State-Acknowledged Tribes",
+        "Workforce Development Organizations",
+        "Massachusetts Workforce Investment Boards",
+        "Non-profits",
+        "For-profits",
+        "Partnerships (strongly encouraged)"
+    ],
+    "geographic_restrictions": "Massachusetts (Lead Applicant must be based in Massachusetts; out-of-state partners permitted if funding directly benefits Massachusetts residents and organizations)",
+    "project_area": "Clean energy workforce training and career pathways for underserved populations",
+    "demographic_requirements": "Priority populations include individuals from Environmental Justice (EJ) neighborhoods, low-income communities, members of Federally recognized and State-acknowledged Tribes, Fossil Fuel Workers, and other underrepresented populations",
+    "eligibility_summary": "Single organizations or partnerships are eligible to apply. Lead Applicants must be Massachusetts-based entities, including community-based organizations, educational institutions, trade/labor entities, tribes, workforce development organizations, or Massachusetts Workforce Investment Boards. Applicants may apply for one or more of three strands: Career Pathway Training, Clean Energy Pipeline Training, or Planning/Capacity Projects. Projects must address barriers faced by priority populations, demonstrate employer engagement, and leverage existing workforce development systems."
+}

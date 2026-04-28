@@ -1,2 +1,0 @@
-### Hawks Cliff – Green Pond Mountain – Pequannock Watershed
-Breakneck Ridge is an incredibly popular hike so don’t expect to get the trail to yourself. The steep rock scramble ascent will get your heart pumping quickly and you’ll be rewarded with great views of the Hudson River. It’s about a 3 mile loop, but all the action is in the first mile.

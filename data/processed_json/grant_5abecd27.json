@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Digital Navigation Corps",
+    "funding_amount": null,
+    "deadline": "September 15, 2024",
+    "eligible_applicant_type": [
+        "Public libraries established pursuant to Chapter 33 or Chapter 54 of Title 40 of the New Jersey Revised Statutes",
+        "Libraries established pursuant to N.J.S.A. 15A:1-1 et seq."
+    ],
+    "geographic_restrictions": "New Jersey",
+    "project_area": "Digital equity and digital navigation services in public libraries",
+    "demographic_requirements": "Communities with racial and ethnic minorities, limited English proficiency, lower levels of formal education, and low-income households",
+    "eligibility_summary": "Public libraries in New Jersey that receive public funds pursuant to N.J.S.A.40:54-35 are eligible to apply."
+}

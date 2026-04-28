@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Emerging Investigator Research Grants Program",
+    "funding_amount": 4000,
+    "deadline": "Thursday, October 22, 2026",
+    "eligible_applicant_type": [
+        "Medical students",
+        "Pediatric residents",
+        "Recent graduates"
+    ],
+    "geographic_restrictions": "United States (no specific restrictions mentioned, but all listed recipients are US-based institutions)",
+    "project_area": "Pediatric dermatology research",
+    "demographic_requirements": "None explicitly stated, but projects must align with PeDRA's mission and may prioritize patient advocacy community engagement.",
+    "eligibility_summary": "Open to medical students, pediatric residents, and recent graduates to conduct short-term (12-week maximum) mentored research projects in pediatric dermatology. Awardees receive $4,000 for in-person projects or $1,500 for remote projects, plus $1,000 for travel to the PeDRA Annual Conference."
+}

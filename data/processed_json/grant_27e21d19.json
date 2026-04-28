@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "New Initiative Research Grants program",
+    "funding_amount": 300000,
+    "deadline": "July 24, 2026, at 5 p.m. EST",
+    "eligible_applicant_type": [
+        "Principal Investigator",
+        "Co-Investigator"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Basic (fundamental) research in biology, physics, and chemistry or at the disciplinary boundaries between these fields",
+    "demographic_requirements": "All principal and co-investigators must be either United States citizens or lawful permanent residents by the LOI deadline. Investigators must hold full-time tenure, tenure-track appointment, or independent research faculty appointment with evidence of an independent research program.",
+    "eligibility_summary": "At least two investigators must be identified on the research project, with one serving as the Principal Investigator (PI) at a Pennsylvania institution of higher education. The PI's institution must be the lead institution. The proposed research must be a new initiative, not currently funded from other sources, and must be curiosity-driven, addressing fundamental processes with potential application for the betterment of humankind. The research must integrate multiple approaches and involve interdisciplinary collaboration."
+}

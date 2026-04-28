@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Creative Baltimore Fund FY26 Grant Program",
+    "funding_amount": null,
+    "deadline": "December 15, 2025",
+    "eligible_applicant_type": [
+        "501(c)(3) organizations",
+        "Nonprofit organizations with fiscal sponsors"
+    ],
+    "geographic_restrictions": "Baltimore City, Maryland",
+    "project_area": "General operating support for arts and cultural organizations",
+    "demographic_requirements": "None explicitly stated beyond organizational eligibility",
+    "eligibility_summary": "Baltimore-based arts and cultural organizations with operating budgets under $300,000, operating for at least two years, and holding 501(c)(3) status (or fiscal sponsorship equivalent). Priority given to organizations not funded in the past three fiscal years."
+}

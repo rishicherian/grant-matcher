@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Transform Howard Innovation Grants",
+    "funding_amount": null,
+    "deadline": "April 21, 2023 at 11:59PM",
+    "eligible_applicant_type": [
+        "501(c)(3) non-profit organizations",
+        "Non-profit service providers"
+    ],
+    "geographic_restrictions": "Howard County, Maryland (USA)",
+    "project_area": "Innovative community solutions across five categories: Reliable & Accessible Infrastructure, Ready & Successful Students, Thriving & Healthy Residents, Safe & Engaged, Clean & Sustainable Environment",
+    "demographic_requirements": "Must demonstrate equitable partnerships with other non-profit organizations and provide direct services to Howard County residents.",
+    "eligibility_summary": "Applicants must be 501(c)(3) non-profits in good standing, providing direct services to Howard County residents, and demonstrating collaboration with other non-profits. Funding is restricted to projects within Howard County, Maryland."
+}

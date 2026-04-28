@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Basic Human Needs Grants",
+    "funding_amount": 5000,
+    "deadline": "April 23, 2026 at 3:00 p.m. (Round One) / October 8, 2026 at 3:00 p.m. (Round Two)",
+    "eligible_applicant_type": [
+        "Nonprofit, 501(c)(3) organizations"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Emergency assistance for basic human needs (food, clothing, housing, utilities, transportation, child care, toiletries, prescription assistance)",
+    "demographic_requirements": "Support for Rhode Islanders most in need, with priority given to volunteer-based organizations with minimal operational budgets",
+    "eligibility_summary": "Nonprofit, 501(c)(3) organizations in Rhode Island providing direct assistance programs (e.g., food pantries, housing assistance) are eligible. Grants do not fund individuals, scholarships, capital/endowment efforts, fundraising events, or political campaigns. Established programs must have additional funding sources."
+}

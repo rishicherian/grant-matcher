@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "GrowBoston's 2026 Garden Supplies Grant",
+    "funding_amount": 50000,
+    "deadline": "Thursday, April 9 at 4 p.m.",
+    "eligible_applicant_type": [
+        "501(c)(3) nonprofits",
+        "community-based organizations with a fiscal sponsor that is a registered 501(c)(3) nonprofit"
+    ],
+    "geographic_restrictions": "City of Boston, Massachusetts",
+    "project_area": "Urban agriculture (community gardens, nonprofit gardens, food forests) for purchasing tools, equipment, seeds, seedlings, compost, and other garden supplies for communal use",
+    "demographic_requirements": "None specified beyond organizational eligibility (501(c)(3) status or fiscal sponsorship)",
+    "eligibility_summary": "Open to registered 501(c)(3) nonprofits or community-based organizations partnering with a fiscal sponsor that is a registered 501(c)(3) nonprofit. Applicants may apply for up to $2,000 per garden or food forest site."
+}

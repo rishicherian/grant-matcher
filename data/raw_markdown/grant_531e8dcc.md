@@ -1,0 +1,8 @@
+Baltimore Ravens Huddle Up for Health
+=====================================
+##### Focused on providing awareness and support to the community by addressing health disparities, the "Huddle Up for Health" program initiative stems from the decades-long partnership between the Baltimore Ravens and CareFirst BlueCross BlueShield (CareFirst). The program continues the ongoing community wellness and health equity initiatives established by the two organizations, while broadening focus to include other health challenges individuals face throughout Maryland. In its third year, the Huddle Up for Health program will award a grant to a chosen Maryland nonprofit organization to build new programming or enhance current initiatives centered around mental health support and awareness. In 2025, an enhanced emphasis will be placed on selecting an organization that not only functions in the behavioral health space but also has an impact that extends to the broader community and upstream drivers of health (the social, economic and environmental factors that influence health).
+Huddle Up for Health Grant Application
+--------------------------------------
+Huddle Up for Health is a joint grant program between CareFirst and the Baltimore Ravens. This grant program allows Maryland-based organizations the opportunity to request funding for projects and programs focusing on the education, support and advocacy of mental health and mental illness.
+Apply Here
+Advertising

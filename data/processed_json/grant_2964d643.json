@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "ERIH Grant Program",
+    "funding_amount": 708000,
+    "deadline": "02/25/2025",
+    "eligible_applicant_type": [
+        "Early-stage businesses",
+        "Entrepreneurs",
+        "Technology-based businesses",
+        "Innovation-based businesses"
+    ],
+    "geographic_restrictions": "Maine (Somerset and Kennebec County)",
+    "project_area": "Economic recovery, technical assistance to small businesses, administration of new business grants, entrepreneurial training",
+    "demographic_requirements": "Open to all eligible businesses in Somerset and Kennebec County, with a focus on early-stage and innovation-based businesses",
+    "eligibility_summary": "Eligible applicants include early-stage businesses and entrepreneurs in Somerset and Kennebec County, Maine. The program specifically targets technology and innovation-based businesses but is open to all eligible businesses in the designated counties."
+}

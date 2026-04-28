@@ -1,0 +1,16 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "ArtsBloom 2026",
+    "funding_amount": null,
+    "deadline": "11:59 PM on Sunday, March 15",
+    "eligible_applicant_type": [
+        "local artists",
+        "small arts organizations",
+        "non-profit organizations",
+        "community groups"
+    ],
+    "geographic_restrictions": "City of Rochester, Monroe County, New York (US Northeast)",
+    "project_area": "arts education, literary arts, performing arts, and temporary art",
+    "demographic_requirements": "Historically underserved residents and local artists/small organizations in Rochester",
+    "eligibility_summary": "Open to local artists and small arts organizations in Rochester for projects in arts education, literary arts, performing arts, and temporary art. Priority given to projects that reach underserved residents and increase economic opportunities for local artists."
+}

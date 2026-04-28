@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Funding for Affordable Multi-Family Housing Development",
+    "funding_amount": null,
+    "deadline": "September 2, 2025 at 2pm",
+    "eligible_applicant_type": [
+        "Developers",
+        "Community Development Corporations",
+        "Not-for-profits",
+        "Other qualified housing providers",
+        "Emerging developers with significant local community involvement"
+    ],
+    "geographic_restrictions": "Erie County, New York",
+    "project_area": "Affordable multi-family housing development (acquisition, construction, rehabilitation, soft costs)",
+    "demographic_requirements": "None specified",
+    "eligibility_summary": "Open to developers, community development corporations, not-for-profits, and other qualified housing providers in Erie County, including emerging developers with significant local community involvement. Single-family housing is not eligible."
+}

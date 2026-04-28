@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Aging in Place Grant",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Public Housing Authorities",
+        "Community Action Agencies",
+        "Habitat for Humanity Agencies"
+    ],
+    "geographic_restrictions": "Maine (Northeast US)",
+    "project_area": "Home safety checks, minor maintenance repairs, and accessibility modifications for low-income elderly and disabled homeowners",
+    "demographic_requirements": "Age 55+ or have a disability; low-income (\u2264100% AMI); homeowners or residents in homes owned by family members",
+    "eligibility_summary": "Open to eligible low-income elderly and disabled homeowners in Maine. Services include home safety checks, minor repairs, and accessibility modifications. Applicants must contact a partner agency serving their area to apply."
+}

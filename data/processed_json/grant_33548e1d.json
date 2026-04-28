@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Food Access Infrastructure Initiative Grants",
+    "funding_amount": 50000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "government entities",
+        "other eligible organizations"
+    ],
+    "geographic_restrictions": "Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island, Vermont",
+    "project_area": "food security and infrastructure projects to improve food access",
+    "demographic_requirements": "none specified",
+    "eligibility_summary": "Organizations must be located within Farm Credit East's territory (Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island and Vermont). Awards will be made at the sole discretion of the selection committee."
+}

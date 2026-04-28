@@ -1,0 +1,13 @@
+Funding Available through the Walter Cerf Community Fund for Addison County, Brandon, and Organizations with Statewide Reach
+============================================================================================================================
+April 30, 2025
+Funding is now available to nonprofits and municipal organizations through the Walter Cerf Community Fund at the Vermont Community Foundation. The fund makes grants to address charitable needs in Vermont with priority interests in the arts, education, historic preservation, and social services. Within these issue areas, there is a strong desire to support work that addresses the needs of underserved populations.
+Grants are made to organizations that either have a statewide reach and make a unique contribution to Vermont or are located in or serve Addison County or Brandon. Approximately 70% of funds available will be awarded to programs and projects in and/or serving the Addison County or Brandon area; the remaining 30% will support programs and projects with a statewide reach. For grants to statewide programs or projects, priority will be given to those that include services to Addison County and Brandon.
+The fund will consider small ($500-$5,000) and large (up to $25,000) grant requests. Organizations applying for a small grant may request program or project support or general operating support. Large grant requests must be from organizations serving Addison County or Brandon and be program or project specific.
+Applications will be accepted until 5 p.m. on Tuesday, June 24, 2025.
+Visit vermontcf.org/cerf to learn more and apply.
+###
+**The Vermont Community Foundation**was established in 1986 as an enduring source of philanthropic support for Vermont communities. A family of more than 1,000 funds, foundations, and supporting organizations, the Foundation makes it easy for the people who care about Vermont to find and fund the causes they love. The Community Foundation and its partners put more than $70 million annually to work in Vermont communities and beyond. The heart of its work is closing the opportunity gap—the divide that leaves too many Vermonters struggling to get ahead, no matter how hard they work. The Community Foundation envisions Vermont at its best—where everyone can build a bright, secure future. Visit vermontcf.org or call 802-388-3355 for more information. Give where your heart lives.
+Categories Vermont Community Foundation
+Nonprofit Legislative Day 2025 Recap
+Legislative Update 5/1/25

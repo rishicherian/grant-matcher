@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Mentored Research Grant Applications (Scientific Review Committee - MaineHealth)",
+    "funding_amount": null,
+    "deadline": "Rolling (with quarterly review deadlines: January 12, 2026; April 13, 2026; July 13, 2026; October 12, 2026)",
+    "eligible_applicant_type": [
+        "Trainees",
+        "Junior faculty"
+    ],
+    "geographic_restrictions": "MaineHealth Maine Medical Center (MMC) in Maine (US Northeast)",
+    "project_area": "Human subjects research with scientific merit evaluation",
+    "demographic_requirements": "Must be working with a MaineHealth MMC mentor (for trainee/junior faculty applicants)",
+    "eligibility_summary": "Open to trainees and junior faculty at MaineHealth Maine Medical Center (MMC) who are working with a MMC mentor. Studies must be submitted to the SRC for review prior to IRB submission. Quarterly review meetings occur on the first Tuesday of February, May, August, and November."
+}

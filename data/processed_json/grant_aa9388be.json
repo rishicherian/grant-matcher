@@ -1,0 +1,25 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Climate-Critical Underrepresented Business Support (CUBS) Grants",
+    "funding_amount": 800000,
+    "deadline": "May 8, 2026 at 11:59 PM ET",
+    "eligible_applicant_type": [
+        "Non-profit organizations",
+        "Chamber of Commerce organizations",
+        "Trade associations",
+        "Clean energy incubators/accelerators",
+        "Environmental justice organizations",
+        "Organizations representing tribes",
+        "Academic institutions",
+        "Government agencies with a business support program",
+        "For-profit entities such as clean energy installers",
+        "Energy efficiency or home performance contractors",
+        "Technical or workforce training organizations",
+        "Financial institutions",
+        "Other clean energy practitioners"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "Clean energy sector support, including design, manufacture, installation, and maintenance of clean energy and decarbonization projects",
+    "demographic_requirements": "Supports underrepresented businesses in the clean energy sector, with a focus on environmental justice communities and diversified workforce development",
+    "eligibility_summary": "Open to organizations or partnerships with a Massachusetts office or staffing, including non-profits, academic institutions, government agencies, and for-profit entities. Applicants must propose projects that address barriers faced by underrepresented businesses, provide comprehensive wraparound services, and establish a robust cross-referral system between Hub and Spoke partnerships. Funding is not intended to benefit a single underrepresented business but to support a regional Hub and Spoke model."
+}

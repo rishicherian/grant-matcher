@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "ARTE-accesible Grants",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "Connecticut Arts Organizations",
+        "Connecticut Municipal Arts Departments",
+        "Arts Venues of a Connecticut College/University"
+    ],
+    "geographic_restrictions": "All activities must be conducted in Connecticut.",
+    "project_area": "Artistic activities including music, theater, dance, painting, sculpture, literature, film, and allied arts and crafts.",
+    "demographic_requirements": "None specified beyond eligibility criteria for applicant types.",
+    "eligibility_summary": "Applicants must be Connecticut-based arts organizations, municipal arts departments, or arts venues affiliated with a Connecticut college/university. Eligible applicants must meet specific criteria such as 501(c)(3) status (for arts organizations), dedicated budget allocations (for municipal arts departments), or broad public audience support (for college/university arts venues). DUNS number is required for application."
+}

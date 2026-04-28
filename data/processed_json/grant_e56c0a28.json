@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Development Block Grant (CDBG) Program - State of Rhode Island",
+    "funding_amount": null,
+    "deadline": "September 30, 2026",
+    "eligible_applicant_type": [
+        "Units of general local government",
+        "Non-profit organizations (via municipal distribution)",
+        "Other entities (via municipal distribution)"
+    ],
+    "geographic_restrictions": "Rhode Island (33 municipalities not receiving direct HUD allocation; 6 entitlement cities operate independently)",
+    "project_area": "Housing, economic development, facilities/improvements, services, planning, neighborhood revitalization",
+    "demographic_requirements": "Primarily for low/moderate income persons (those earning at or below 80% of Area Median Income)",
+    "eligibility_summary": "Eligible applicants must be Rhode Island municipalities or subrecipients (non-profits/other entities) approved by municipalities. Activities must meet national objectives, primarily benefiting low- and moderate-income persons. Competitive application process with annual funding of approximately $4-$5 million."
+}

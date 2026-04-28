@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Development Block Grant (CDBG) - New Hampshire",
+    "funding_amount": null,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "cities",
+        "towns",
+        "counties",
+        "nonprofit agencies",
+        "other entities"
+    ],
+    "geographic_restrictions": "State of New Hampshire, USA",
+    "project_area": "Public facilities, housing, economic development, microenterprise, and planning projects benefiting low- and moderate-income individuals",
+    "demographic_requirements": "Projects must primarily benefit persons of low and moderate income",
+    "eligibility_summary": "Eligible applicants include New Hampshire municipalities (cities, towns, counties) and sub-grantees (nonprofits or other entities). Funding is administered by CDFA and provided by HUD. Projects must align with CDBG objectives, such as improving economic opportunities, community revitalization, or housing rehabilitation for low- and moderate-income individuals."
+}

@@ -1,0 +1,21 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Local Food Promotion Program",
+    "funding_amount": null,
+    "deadline": "June 5, 2026",
+    "eligible_applicant_type": [
+        "Agricultural businesses and cooperatives",
+        "Community Supported Agriculture (CSA) networks and associations",
+        "Food councils",
+        "Economic development corporations",
+        "Local governments",
+        "Nonprofit and public benefit corporations",
+        "Producer networks or associations",
+        "Regional farmers\u2019 market authorities",
+        "Tribal governments"
+    ],
+    "geographic_restrictions": "Domestic entities located within the 50 U.S. states, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the U.S. Virgin Islands",
+    "project_area": "Local and regional food business enterprises that process, distribute, aggregate, or store locally or regionally produced food products",
+    "demographic_requirements": "None specified beyond eligibility criteria for domestic entities supporting local/regional food systems",
+    "eligibility_summary": "Open to domestic entities (including agricultural businesses, nonprofits, local governments, tribal governments, etc.) supporting local/regional food systems. Requires 25% cost share. Four project types available: Planning ($25K\u2013$100K), Implementation ($100K\u2013$500K), Turnkey Marketing/Promotion ($50K\u2013$100K), and Turnkey Recruitment/Training ($50K\u2013$100K)."
+}

@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Food Access Expansion Grant Program",
+    "funding_amount": 10000000,
+    "deadline": "Friday, December 20, 2024 at 3:00 pm",
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "public benefit corporations",
+        "local or regional development corporations",
+        "tribal governments",
+        "local and municipal government agencies"
+    ],
+    "geographic_restrictions": "New York State",
+    "project_area": "Increase food access for New Yorkers in underserved regions by supporting development/expansion of supermarkets, food cooperatives, farm stands, retail food stores, mobile markets, and equipment purchases to improve food offerings.",
+    "demographic_requirements": "Targeted to New Yorkers living in areas without grocery stores and options for healthy, affordable food.",
+    "eligibility_summary": "Eligible applicants include nonprofits, public benefit corporations, local/regional development corporations, tribal governments, and local/municipal agencies. Partnerships with for-profit retailers are permitted. Projects must focus on increasing food availability through infrastructure development, equipment purchases, or mobile markets."
+}

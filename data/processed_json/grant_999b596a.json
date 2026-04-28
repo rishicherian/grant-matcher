@@ -1,0 +1,15 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Municipal ADA Improvement Grant Program",
+    "funding_amount": 250000,
+    "deadline": "FY27 (application opens May 1)",
+    "eligible_applicant_type": [
+        "Municipalities",
+        "School districts",
+        "Housing authorities"
+    ],
+    "geographic_restrictions": "Massachusetts",
+    "project_area": "ADA Self-Evaluation and Transition Plans, physical and programmatic accessibility improvements",
+    "demographic_requirements": "None specified beyond eligibility for Massachusetts municipalities, school districts, or housing authorities",
+    "eligibility_summary": "Open to any Massachusetts municipality, school district, or housing authority to fund ADA compliance and accessibility improvements."
+}

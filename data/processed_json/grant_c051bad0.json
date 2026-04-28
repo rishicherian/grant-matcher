@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Adolf Busch Award",
+    "funding_amount": 10000,
+    "deadline": "October 1st, annually",
+    "eligible_applicant_type": [
+        "Nonprofit organizations"
+    ],
+    "geographic_restrictions": "Nationwide (US), but mission focuses on social justice through music",
+    "project_area": "Music and social justice",
+    "demographic_requirements": "Organizations using music to address social injustice, inequity, and lack of opportunity",
+    "eligibility_summary": "Open to organizations that use music to address social injustice, inequity, and lack of opportunity. One $10,000 award given annually, with smaller awards to additional compelling applicants."
+}

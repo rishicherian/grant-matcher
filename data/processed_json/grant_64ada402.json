@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Request for Proposals: Grants Administration Management System",
+    "funding_amount": null,
+    "deadline": "May 6, 2026",
+    "eligible_applicant_type": [
+        "Consultants"
+    ],
+    "geographic_restrictions": "Maine",
+    "project_area": "Grants Administration Management System for state and federally funded programs",
+    "demographic_requirements": "",
+    "eligibility_summary": "Qualified consultants capable of providing a purpose-built Grants Administration Management (GAM) system as a SaaS platform to support the full grant lifecycle for the Maine Connectivity Authority."
+}

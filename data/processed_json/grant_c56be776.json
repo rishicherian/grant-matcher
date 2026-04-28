@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "POMA Resident Wellness Grants",
+    "funding_amount": 500,
+    "deadline": "November 13, 2025",
+    "eligible_applicant_type": [
+        "Residency programs"
+    ],
+    "geographic_restrictions": "Pennsylvania",
+    "project_area": "Resident wellness activities (e.g., paddle boarding, pottery painting, bowling, mini-golf, escape rooms)",
+    "demographic_requirements": "Residency program must be located in Pennsylvania. At least 25% of residents in the applicant residency program must be members of POMA. Applicant must be a POMA member.",
+    "eligibility_summary": "Residency programs in Pennsylvania with at least 25% POMA member residents are eligible. Activities must not involve alcohol or high-risk pursuits. Funds cannot cover overhead/F&A costs. Program director must support ongoing wellness activities post-funding."
+}

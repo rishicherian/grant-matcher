@@ -1,0 +1,13 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Community Engaged Project Grants",
+    "funding_amount": 5000,
+    "deadline": "April 1 at 11:59 p.m.",
+    "eligible_applicant_type": [
+        "Artists"
+    ],
+    "geographic_restrictions": "Rhode Island",
+    "project_area": "Arts and culture projects that directly and actively engage the public",
+    "demographic_requirements": "Artists must live in Rhode Island for at least one year, be 18+ years old, and engage underserved communities as defined by the NEA.",
+    "eligibility_summary": "Open to Rhode Island artists (18+) who have lived in the state for at least one year. Projects must be artist-led, engage the public, and not be part of a formal nonprofit entity. Ineligible applicants include current RISCA staff, immediate family members, high school students, and those enrolled in arts degree programs."
+}

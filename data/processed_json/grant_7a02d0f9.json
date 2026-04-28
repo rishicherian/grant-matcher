@@ -1,0 +1,17 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "EMCI 2026 Grant Application",
+    "funding_amount": 4000,
+    "deadline": "February 1, 2026",
+    "eligible_applicant_type": [
+        "Nonprofits",
+        "Educational institutions",
+        "Local governments",
+        "Tribal organizations",
+        "Community groups"
+    ],
+    "geographic_restrictions": "Downeast Maine region, specifically east of Frenchman\u2019s Bay, with priority given to projects in coastal Washington County.",
+    "project_area": "Ecological research, conservation, preservation, and community-based projects focused on coastal and terrestrial ecosystems in Downeast Maine.",
+    "demographic_requirements": "Projects must benefit the communities of Washington County, Maine, with a focus on coastal and Indigenous populations.",
+    "eligibility_summary": "Open to organizations and individuals conducting projects in the specified geographic region that align with EMCI's mission of supporting ecological and cultural preservation in Downeast Maine."
+}

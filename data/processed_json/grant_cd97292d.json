@@ -1,0 +1,14 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "New Jersey Food Fund",
+    "funding_amount": 1300000,
+    "deadline": null,
+    "eligible_applicant_type": [
+        "nonprofit organizations",
+        "coalitions led by a nonprofit organization"
+    ],
+    "geographic_restrictions": "New Jersey",
+    "project_area": "food security systems, infrastructure, and access to healthy food",
+    "demographic_requirements": "nonprofits and coalitions serving New Jersey communities, with priority for equitable, long-term solutions to food insecurity",
+    "eligibility_summary": "Nonprofit organizations and coalitions (including those with government or for-profit partners) working in New Jersey to test, build, or scale innovations that strengthen food security. Excludes individuals, for-profit entities, government entities, partisan organizations, capital campaigns, and inconsistent food distributions without a broader strategy."
+}

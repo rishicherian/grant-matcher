@@ -1,0 +1,24 @@
+{
+    "is_valid_grant": true,
+    "grant_title": "Vermont Agricultural Funding for Sustainable Practices",
+    "funding_amount": 275000,
+    "deadline": "Ongoing",
+    "eligible_applicant_type": [
+        "Nonprofit Organizations with 501(c)(3) designation",
+        "Nonprofit Organizations with Fiscal Sponsor",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Associations",
+        "Schools",
+        "School districts",
+        "Afterschool programs",
+        "Early childhood education providers",
+        "Community groups"
+    ],
+    "geographic_restrictions": "Vermont, USA",
+    "project_area": "Agriculture, education, and local communities; youth engagement with food systems, farms, and nutrition education; community-based agricultural learning initiatives",
+    "demographic_requirements": "Projects must benefit children, youth, and communities in Vermont, with a focus on educational programs, local food access, and community partnerships.",
+    "eligibility_summary": "Eligible applicants include nonprofit organizations, schools, school districts, afterschool programs, early childhood education providers, community groups, and higher education institutions located in Vermont. Partnerships are encouraged. Small businesses and private individuals are not primary recipients but may participate as collaborators."
+}
